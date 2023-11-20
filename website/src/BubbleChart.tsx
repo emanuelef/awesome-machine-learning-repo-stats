@@ -114,7 +114,6 @@ const sizeMetrics = [
 ];
 
 const bubbleColour = [
-  { label: "Status", metric: "status" },
   { label: "Language", metric: "language" },
   { label: "Liveness", metric: "liveness" },
 ];
@@ -150,7 +149,7 @@ const BubbleChart = ({ dataRows }) => {
   const [selectedSize, setSelectedSize] = useState(sizeMetrics[0]);
 
   const [selectedBubbleColour, setSelectedBubbleColour] = useState(
-    bubbleColour[1]
+    bubbleColour[0]
   );
 
   const [colours, setColours] = useState({});
