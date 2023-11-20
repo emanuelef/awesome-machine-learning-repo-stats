@@ -591,7 +591,7 @@ function App() {
             </MenuItem>
             <MenuItem
               component={
-                <Link to="/starstimeline/juspay/hyperswitch" className="link" />
+                <Link to="/starstimeline/pytorch/pytorch" className="link" />
               }
               icon={<TimelineRoundedIcon />}
             >
