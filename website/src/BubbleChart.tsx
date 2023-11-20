@@ -149,7 +149,7 @@ const BubbleChart = ({ dataRows }) => {
   const [selectedSize, setSelectedSize] = useState(sizeMetrics[0]);
 
   const [selectedBubbleColour, setSelectedBubbleColour] = useState(
-    bubbleColour[0]
+    bubbleColour[1]
   );
 
   const [colours, setColours] = useState({});
@@ -196,6 +196,7 @@ const BubbleChart = ({ dataRows }) => {
       const response = await fetch(LanguageColoursURL);
       const coloursData = await response.json();
       setColours(coloursData);
+      console.log(coloursData);
     };
 
     fetchColors();
@@ -590,7 +591,7 @@ const BubbleChart = ({ dataRows }) => {
           }
           onChange={(e, v, reason) => {
             if (reason === "clear") {
-              setSelectedBubbleColour(bubbleColour[0]);
+              setSelectedBubbleColour(bubbleColour[1]);
             } else {
               setSelectedBubbleColour(v);
             }
