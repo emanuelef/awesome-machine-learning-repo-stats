@@ -2,7 +2,7 @@ name: Update Awesome ML stats
 
 on:
   schedule:
-    - cron: "0 6 * * *" # runs at 06:00 UTC everyday
+    - cron: "0 21 * * *" # runs at 21:00 UTC everyday
   workflow_dispatch:
 
 jobs:

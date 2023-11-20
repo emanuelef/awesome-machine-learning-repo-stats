@@ -10,6 +10,9 @@ const fullStarsHistoryURL =
 const csvURL =
   "https://raw.githubusercontent.com/emanuelef/awesome-machine-learning-repo-stats/main/analysis-latest.csv";
 
+const LanguageColoursURL =
+  "https://raw.githubusercontent.com/ozh/github-colors/master/colors.json";
+
 const logBase = (n, base) => Math.log(n) / Math.log(base);
 
 const categories = [
@@ -22,15 +25,70 @@ const categories = [
 
 const mapCategoryToColor = (category) => {
   const colorMappings = {
-    [categories[0]]: "rgb(93, 164, 214)",
-    [categories[1]]: "rgb(55, 44, 184)",
-    [categories[2]]: "rgb(44, 160, 101)",
-    [categories[3]]: "rgb(244, 60, 101)",
-    [categories[4]]: "rgb(244, 160, 71)",
+    Sandbox: "rgb(93, 164, 214)",
+    Archived: "rgb(255, 144, 14)",
+    Incubating: "rgb(44, 160, 101)",
+    Graduated: "rgb(244, 60, 101)",
   };
 
   // Return the color for the given category, or a default color if not found
   return colorMappings[category] || "rgb(0, 0, 0)"; // Default to black if not found
+};
+
+const getColorFromValue = (value) => {
+  // Normalize the value to a scale from 0 to 1
+  const normalizedValue = value / 100;
+
+  // Define the colors for the gradient
+  const colors = [
+    { percent: 0, color: "#D9534F" }, // Adjusted Red
+    { percent: 0.5, color: "#FFA500" }, // Orange
+    { percent: 1, color: "#5CB85C" }, // Adjusted Green
+  ];
+
+  // Find the two colors to interpolate between
+  let startColor, endColor;
+  for (let i = 0; i < colors.length - 1; i++) {
+    if (
+      normalizedValue >= colors[i].percent &&
+      normalizedValue <= colors[i + 1].percent
+    ) {
+      startColor = colors[i];
+      endColor = colors[i + 1];
+      break;
+    }
+  }
+
+  // Interpolate between the two colors
+  const ratio =
+    (normalizedValue - startColor.percent) /
+    (endColor.percent - startColor.percent);
+  const rgbColor = interpolateColor(startColor.color, endColor.color, ratio);
+
+  console.log(value);
+  console.log(rgbColor);
+
+  return rgbColor;
+};
+
+const interpolateColor = (startColor, endColor, ratio) => {
+  const startRGB = hexToRgb(startColor);
+  const endRGB = hexToRgb(endColor);
+
+  const interpolatedRGB = startRGB.map((channel, index) =>
+    Math.round(channel + ratio * (endRGB[index] - channel))
+  );
+
+  return `rgb(${interpolatedRGB.join(", ")})`;
+};
+
+const hexToRgb = (hex) => {
+  const hexDigits = hex.slice(1).match(/.{1,2}/g);
+  return hexDigits.map((value) => parseInt(value, 16));
+};
+
+const mapLivenessToColor = (liveness) => {
+  return getColorFromValue(liveness) || "rgb(0, 0, 0)"; // Default to black if not found
 };
 
 const clickActions = [
@@ -50,8 +108,15 @@ const axisMetrics = [
 ];
 
 const sizeMetrics = [
-  { label: "Total Stars", metric: "stars" },
+  { label: "Stars", metric: "stars" },
   { label: "Same", metric: "same" },
+  { label: "Liveness", metric: "liveness" },
+];
+
+const bubbleColour = [
+  { label: "Status", metric: "status" },
+  { label: "Language", metric: "language" },
+  { label: "Liveness", metric: "liveness" },
 ];
 
 const formatStars = (stars) => {
@@ -83,6 +148,12 @@ const BubbleChart = ({ dataRows }) => {
   const [selectedYAxis, setSelectedYAxis] = useState(axisMetrics[3]);
 
   const [selectedSize, setSelectedSize] = useState(sizeMetrics[0]);
+
+  const [selectedBubbleColour, setSelectedBubbleColour] = useState(
+    bubbleColour[1]
+  );
+
+  const [colours, setColours] = useState({});
 
   const handleInputChange = (event, setStateFunction) => {
     const inputText = event.target.value;
@@ -120,8 +191,34 @@ const BubbleChart = ({ dataRows }) => {
     }
   };
 
-  const buildChartData = (dataRows) => {
+  // Fetch colors data when the component mounts
+  useEffect(() => {
+    const fetchColors = async () => {
+      const response = await fetch(LanguageColoursURL);
+      const coloursData = await response.json();
+      setColours(coloursData);
+    };
+
+    fetchColors();
+  }, []); // Empty dependency array ensures it runs only once on mount
+
+  const getSize = (data) => {
+    switch (selectedSize.metric) {
+      case "stars":
+        return data.map((row) => Math.sqrt(row["stars"]) * 7);
+      case "same":
+        return data.map((row) => 600);
+      case "liveness":
+        return data.map((row) => row["liveness"] * 10);
+      default:
+        return data.map((row) => 600);
+    }
+  };
+
+  const buildChartData = async (dataRows) => {
     let updatedData = [];
+
+    let filteredLanguagesSet = new Set();
 
     dataRows.forEach((element) => {
       if (
@@ -130,46 +227,116 @@ const BubbleChart = ({ dataRows }) => {
         parseInt(element["mentionable-users"]) > parseInt(minMentionableUsers)
       ) {
         updatedData.push(element);
+        filteredLanguagesSet.add(element.language);
       }
     });
 
     let filteredData = [];
 
-    categories.forEach((category) => {
-      console.log(category);
+    if (selectedBubbleColour.metric === "status") {
+      categories.forEach((category) => {
+        console.log(category);
 
-      let updatedCategoryData = updatedData.filter(
-        (row) => row["main-category"] === category
-      );
+        let updatedCategoryData = updatedData.filter(
+          (row) => row["status"] === category
+        );
 
+        const trace = {
+          x: updatedCategoryData.map((row) => row[selectedXAxis.metric]),
+          y: updatedCategoryData.map((row) => row[selectedYAxis.metric]),
+          repo: updatedCategoryData.map((row) => `${row.repo}`),
+          text: updatedCategoryData.map(
+            (row) =>
+              `${row.repo}<br>Total Stars: ${formatStars(
+                row.stars
+              )}<br>Last commit: ${
+                row["days-last-commit"]
+              } days ago<br>Age: ${calculateAge(
+                row["days-since-creation"]
+              )}<br>Language: ${row["language"]}`
+          ),
+          mode: "markers",
+          marker: {
+            size: getSize(updatedCategoryData),
+            sizemode: "diameter",
+            sizeref: 20.03,
+            color: mapCategoryToColor(category),
+          },
+          type: "scatter",
+          name: category,
+        };
+
+        filteredData.push(trace);
+      });
+    }
+
+    if (selectedBubbleColour.metric === "language") {
+      filteredLanguagesSet.delete("");
+
+      Array.from(filteredLanguagesSet).forEach((language) => {
+        console.log(language);
+
+        let updatedCategoryData = updatedData.filter(
+          (row) => row["language"] === language
+        );
+
+        const trace = {
+          x: updatedCategoryData.map((row) => row[selectedXAxis.metric]),
+          y: updatedCategoryData.map((row) => row[selectedYAxis.metric]),
+          repo: updatedCategoryData.map((row) => `${row.repo}`),
+          text: updatedCategoryData.map(
+            (row) =>
+              `${row.repo}<br>Total Stars: ${formatStars(
+                row.stars
+              )}<br>Last commit: ${
+                row["days-last-commit"]
+              } days ago<br>Age: ${calculateAge(
+                row["days-since-creation"]
+              )}<br>Language: ${row["language"]}`
+          ),
+          mode: "markers",
+          marker: {
+            size: getSize(updatedCategoryData),
+            sizemode: "diameter",
+            sizeref: 20.03,
+            color: language in colours ? colours[language].color : undefined,
+          },
+          type: "scatter",
+          name: language,
+        };
+
+        filteredData.push(trace);
+      });
+    }
+
+    if (selectedBubbleColour.metric === "liveness") {
       const trace = {
-        x: updatedCategoryData.map((row) => row[selectedXAxis.metric]),
-        y: updatedCategoryData.map((row) => row[selectedYAxis.metric]),
-        repo: updatedCategoryData.map((row) => `${row.repo}`),
-        text: updatedCategoryData.map(
+        x: updatedData.map((row) => row[selectedXAxis.metric]),
+        y: updatedData.map((row) => row[selectedYAxis.metric]),
+        repo: updatedData.map((row) => `${row.repo}`),
+        text: updatedData.map(
           (row) =>
             `${row.repo}<br>Total Stars: ${formatStars(
               row.stars
             )}<br>Last commit: ${
               row["days-last-commit"]
-            } days ago<br>Age: ${calculateAge(row["days-since-creation"])}`
+            } days ago<br>Age: ${calculateAge(
+              row["days-since-creation"]
+            )}<br>Language: ${row["language"]}`
         ),
         mode: "markers",
         marker: {
-          size:
-            selectedSize.metric == "stars"
-              ? updatedCategoryData.map((row) => Math.sqrt(row["stars"]) * 7)
-              : updatedCategoryData.map((row) => 600),
+          size: getSize(updatedData),
           sizemode: "diameter",
           sizeref: 20.03,
-          color: mapCategoryToColor(category),
+          color: updatedData.map((row) => mapLivenessToColor(row["liveness"])),
         },
         type: "scatter",
-        name: category,
+        name: "liveness",
       };
 
       filteredData.push(trace);
-    });
+    }
 
     setData(filteredData);
   };
@@ -202,6 +369,7 @@ const BubbleChart = ({ dataRows }) => {
     selectedXAxis,
     selectedYAxis,
     selectedSize,
+    selectedBubbleColour,
   ]);
 
   const layout = {
@@ -296,7 +464,7 @@ const BubbleChart = ({ dataRows }) => {
           id="actions-combo-box"
           size="small"
           options={clickActions}
-          sx={{ width: 220 }}
+          sx={{ width: 200 }}
           renderInput={(params) => (
             <TextField
               {...params}
@@ -323,7 +491,7 @@ const BubbleChart = ({ dataRows }) => {
           id="actions-x-box"
           size="small"
           options={axisMetrics}
-          sx={{ width: 220 }}
+          sx={{ width: 210 }}
           renderInput={(params) => (
             <TextField
               {...params}
@@ -351,7 +519,7 @@ const BubbleChart = ({ dataRows }) => {
           id="actions-y-box"
           size="small"
           options={axisMetrics}
-          sx={{ width: 220 }}
+          sx={{ width: 210 }}
           renderInput={(params) => (
             <TextField
               {...params}
@@ -379,7 +547,7 @@ const BubbleChart = ({ dataRows }) => {
           id="actions-y-box"
           size="small"
           options={sizeMetrics}
-          sx={{ width: 200 }}
+          sx={{ width: 150 }}
           renderInput={(params) => (
             <TextField
               {...params}
@@ -395,9 +563,37 @@ const BubbleChart = ({ dataRows }) => {
           }
           onChange={(e, v, reason) => {
             if (reason === "clear") {
-              setSelectedSize(axisMetrics[0]);
+              setSelectedSize(sizeMetrics[0]);
             } else {
               setSelectedSize(v);
+            }
+          }}
+        />
+        <Autocomplete
+          disablePortal
+          style={{ marginLeft: "10px" }}
+          id="colour-box"
+          size="small"
+          options={bubbleColour}
+          sx={{ width: 140 }}
+          renderInput={(params) => (
+            <TextField
+              {...params}
+              label="Select Bubble Colour"
+              variant="outlined"
+              size="small"
+            />
+          )}
+          value={
+            bubbleColour.find(
+              (element) => element.metric === selectedBubbleColour.metric
+            ) ?? ""
+          }
+          onChange={(e, v, reason) => {
+            if (reason === "clear") {
+              setSelectedBubbleColour(bubbleColour[0]);
+            } else {
+              setSelectedBubbleColour(v);
             }
           }}
         />
