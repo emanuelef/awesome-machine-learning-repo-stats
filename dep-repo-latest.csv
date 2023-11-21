@@ -1,6 +1,6 @@
 dep,awesome_machine_learning_repos_using_dep
-scipy,32
+pandas,23
+scikit-learn,29
+scipy,31
+numpy,52
 matplotlib,22
-numpy,53
-pandas,24
-scikit-learn,30
