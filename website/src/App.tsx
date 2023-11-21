@@ -12,6 +12,7 @@ import { Sidebar, Menu, MenuItem } from "react-pro-sidebar";
 import { Routes, Route, Link } from "react-router-dom";
 
 import TimeSeriesChart from "./TimeSeriesChart";
+import TimeSeriesCommitsChart from "./TimeSeriesCommitsChart";
 import DepsChart from "./DepsChart";
 import BubbleChart from "./BubbleChart";
 
@@ -184,6 +185,12 @@ const columns: GridColDef[] = [
     headerName: "New Stars 30d ‰",
     width: 130,
     valueGetter: (val) => parseFloat(val.row["stars-per-mille-30d"]),
+  },
+  {
+    field: "unique-contributors",
+    headerName: "Commits Authors 30d",
+    width: 100,
+    valueGetter: (params) => parseInt(params.value),
   },
   {
     field: "mentionable-users",
@@ -499,26 +506,26 @@ function App() {
             value={selectedRepo}
             onChange={(e, v, reason) => {
               if (reason === "clear") {
-                setSelectedRepo("denoland/deno");
-                navigate(`/starstimeline/denoland/deno`, {
+                setSelectedRepo("pytorch/pytorch");
+                navigate(`/commitstimeline/pytorch/pytorch`, {
                   replace: false,
                 });
               } else {
                 setSelectedRepo(v?.label);
-                navigate(`/starstimeline/${v?.label}`, {
+                navigate(`/commitstimeline/${v?.label}`, {
                   replace: false,
                 });
               }
             }}
             onBlur={() => {
-              navigate(`/starstimeline/denoland/deno}`, {
+              navigate(`/commitstimeline/pytorch/pytorch}`, {
                 replace: false,
               });
             }}
             clearOnBlur={false}
             clearOnEscape
             onClear={() => {
-              navigate(`/starstimeline/denoland/deno}`, {
+              navigate(`/commitstimeline/pytorch/pytorch}`, {
                 replace: false,
               });
             }}

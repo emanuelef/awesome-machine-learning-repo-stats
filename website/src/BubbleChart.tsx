@@ -105,6 +105,7 @@ const axisMetrics = [
   { label: "Total Stars", metric: "stars" },
   { label: "New Stars 30d‰", metric: "stars-per-mille-30d" },
   { label: "Age", metric: "days-since-creation" },
+  { label: "Unique contributors 30d", metric: "unique-contributors" },
 ];
 
 const sizeMetrics = [
