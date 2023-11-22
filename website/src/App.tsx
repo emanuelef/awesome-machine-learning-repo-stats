@@ -507,6 +507,87 @@ function App() {
             onChange={(e, v, reason) => {
               if (reason === "clear") {
                 setSelectedRepo("pytorch/pytorch");
+                navigate(`/starstimeline/pytorch/pytorch`, {
+                  replace: false,
+                });
+              } else {
+                setSelectedRepo(v?.label);
+                navigate(`/starstimeline/${v?.label}`, {
+                  replace: false,
+                });
+              }
+            }}
+            onBlur={() => {
+              navigate(`/starstimeline/pytorch/pytorch}`, {
+                replace: false,
+              });
+            }}
+            clearOnBlur={false}
+            clearOnEscape
+            onClear={() => {
+              navigate(`/starstimeline/pytorch/pytorch}`, {
+                replace: false,
+              });
+            }}
+          />
+          <GitHubButton
+            href={"https://github.com/" + selectedRepo}
+            data-size="large"
+            data-show-count="true"
+            aria-label="Star buttons/github-buttons on GitHub"
+          >
+            Star
+          </GitHubButton>
+          <Linkweb
+            style={{ marginLeft: "10px" }}
+            href={fullStarsHistoryURL + selectedRepo}
+            target="_blank"
+          >
+            Full Stars History
+          </Linkweb>
+        </div>
+        <TimeSeriesChart repo={selectedRepo} />
+      </>
+    );
+  };
+
+  const CommitsTimeline = () => {
+    const { user, repository } = useParams();
+
+    useEffect(() => {
+      console.log(user + "/" + repository);
+      setSelectedRepo(user + "/" + repository);
+    }, []);
+
+    return (
+      <>
+        <div
+          style={{ display: "flex", alignItems: "center", marginTop: "10px" }}
+        >
+          <Autocomplete
+            disablePortal
+            id="combo-box-repos"
+            size="small"
+            options={dataRows.map((el) => {
+              return { label: el.repo };
+            })}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                style={{
+                  marginRight: "20px",
+                  marginLeft: "10px",
+                  width: "400px",
+                }}
+                label="Enter a GitHub repository"
+                variant="outlined"
+                size="small"
+              />
+            )}
+            value={selectedRepo}
+            onChange={(e, v, reason) => {
+              if (reason === "clear") {
+                setSelectedRepo("pytorch/pytorch");
                 navigate(`/commitstimeline/pytorch/pytorch`, {
                   replace: false,
                 });
@@ -546,7 +627,7 @@ function App() {
             Full Stars History
           </Linkweb>
         </div>
-        <TimeSeriesChart repo={selectedRepo} />
+        <TimeSeriesCommitsChart repo={selectedRepo} />
       </>
     );
   };
@@ -605,6 +686,14 @@ function App() {
               StarsTimeline
             </MenuItem>
             <MenuItem
+              component={
+                <Link to="/commitstimeline/pytorch/pytorch" className="link" />
+              }
+              icon={<TimelineRoundedIcon />}
+            >
+              Commits Timeline
+            </MenuItem>
+            <MenuItem
               component={<Link to="/bubble" className="link" />}
               icon={<BubbleChartRoundedIcon />}
             >
@@ -621,6 +710,10 @@ function App() {
             <Route
               path="/starstimeline/:user/:repository"
               element={<StarsTimeline />}
+            />
+            <Route
+              path="/commitstimeline/:user/:repository"
+              element={<CommitsTimeline />}
             />
             <Route
               path="/bubble"

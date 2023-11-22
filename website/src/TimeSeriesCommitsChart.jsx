@@ -3,7 +3,7 @@ import FusionCharts from "fusioncharts";
 import TimeSeries from "fusioncharts/fusioncharts.timeseries";
 import ReactFC from "react-fusioncharts";
 import CandyTheme from "fusioncharts/themes/fusioncharts.theme.candy";
-import schema from "./schema";
+import schema from "./schemaCommits.js";
 
 ReactFC.fcRoot(FusionCharts, TimeSeries, CandyTheme);
 const chart_props = {
@@ -91,7 +91,9 @@ function TimeSeriesCommitsChart({ repo }) {
       );
       const options = { ...ds };
       options.timeseriesDs.dataSource.data = fusionTable;
-      options.timeseriesDs.dataSource.caption = { text: `Daily Commits ${repo}` };
+      options.timeseriesDs.dataSource.caption = {
+        text: `Daily Commits ${repo}`,
+      };
       options.timeseriesDs.dataSource.chart.exportFileName = `${repo.replace(
         "/",
         "_"
