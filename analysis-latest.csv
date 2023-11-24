@@ -1,702 +1,702 @@
 repo,stars,new-stars-last-30d,new-stars-last-14d,new-stars-last-7d,new-stars-last-24H,stars-per-mille-30d,days-last-star,days-last-commit,days-since-creation,mentionable-users,language,archived,dependencies,main-category,sub-category,liveness,unique-contributors
-mattcunningham/naive-apl,23,0,0,0,0,0.000,125,2738,2993,1,APL,false,0,APL,General-Purpose Machine Learning,0.000,0
-pjreddie/darknet,24816,131,67,34,5,5.279,0,493,3513,8,C,false,0,C,General-Purpose Machine Learning,60.000,0
-GHamrouni/Recommender,260,0,0,0,0,0.000,54,492,4341,3,C,false,0,C,General-Purpose Machine Learning,0.000,0
-SeniorSA/hybrid-rs-trainner,12,0,0,0,0,0.000,341,2565,2568,4,Python,false,7,C,General-Purpose Machine Learning,0.000,0
-siavashserver/neonrvm,36,1,1,1,0,27.778,3,1187,2105,1,C,true,0,C,General-Purpose Machine Learning,0.000,0
-alrevuelta/cONNXr,164,6,3,1,0,36.585,4,987,1510,8,C,false,0,C,General-Purpose Machine Learning,12.000,0
-xboot/libonnx,525,9,4,2,1,17.143,0,559,1135,3,C,false,0,C,General-Purpose Machine Learning,22.000,0
-liuliu/ccv,7010,9,5,4,0,1.284,1,13,4817,14,C,false,0,C,Computer Vision,32.000,1
-ukoethe/vigra,393,0,0,0,0,0.000,44,10,4523,62,C++,false,0,C++,Computer Vision,20.000,5
-CMU-Perceptual-Computing-Lab/openpose,28646,268,122,60,7,9.356,0,131,2404,106,C++,false,0,C++,Computer Vision,62.000,0
-jkomiyama/banditlib,135,1,0,0,0,7.407,28,14,3544,3,C++,false,0,C++,General-Purpose Machine Learning,12.000,1
-BVLC/caffe,33657,67,30,12,3,1.991,0,1379,3724,275,C++,false,0,C++,General-Purpose Machine Learning,40.000,0
-catboost/catboost,7468,65,27,14,1,8.704,0,0,2319,343,Python,false,0,C++,General-Purpose Machine Learning,90.000,15
-Microsoft/CNTK,17415,15,8,3,1,0.861,0,426,2919,231,C++,false,0,C++,General-Purpose Machine Learning,31.000,0
-jolibrain/deepdetect,2489,6,3,2,0,2.411,1,23,3107,24,C++,false,0,C++,General-Purpose Machine Learning,22.000,1
-amznlabs/amazon-dsstne,4418,1,1,0,0,0.226,9,1372,2800,44,C++,true,0,C++,General-Purpose Machine Learning,0.000,0
-clab/dynet,3401,8,2,2,1,2.352,0,15,3209,138,C++,false,0,C++,General-Purpose Machine Learning,32.000,1
-FidoProject/Fido,424,1,0,0,0,2.358,21,2195,3030,6,C++,false,0,C++,General-Purpose Machine Learning,2.000,0
-oneapi-src/oneDAL,578,3,1,1,0,5.190,1,0,2795,97,C++,false,0,C++,General-Purpose Machine Learning,62.000,11
-Microsoft/LightGBM,15663,127,52,21,4,8.108,0,0,2666,295,C++,false,0,C++,General-Purpose Machine Learning,100.000,3
-srendle/libfm,1482,4,2,1,0,2.699,5,2098,3356,6,C++,false,0,C++,General-Purpose Machine Learning,12.000,0
-apache/incubator-mxnet,20643,57,23,4,1,2.761,0,300,3129,893,C++,true,0,C++,General-Purpose Machine Learning,10.000,0
-CEA-LIST/N2D2,140,1,1,0,0,7.143,8,38,2512,16,C,false,0,C++,General-Purpose Machine Learning,11.000,0
-oneapi-src/oneDNN,3298,25,10,4,0,7.580,1,0,2753,264,C++,false,0,C++,General-Purpose Machine Learning,75.000,41
-cdslaborg/paramonte,218,4,2,1,0,18.349,5,863,1387,8,Fortran,false,0,C++,General-Purpose Machine Learning,12.000,0
-cnclabs/proNet-core,3,0,0,0,0,0.000,737,1653,1653,3,,false,0,C++,General-Purpose Machine Learning,0.000,0
-pycaret/pycaret,7944,125,53,29,3,15.735,0,4,1461,118,Jupyter Notebook,false,0,C++,General-Purpose Machine Learning,90.000,6
-shogun-toolbox/shogun,2976,4,2,2,1,1.344,0,1080,4619,180,C++,false,0,C++,General-Purpose Machine Learning,22.000,0
-VowpalWabbit/vowpal_wabbit,8324,30,18,9,2,3.604,0,6,5228,224,C++,false,0,C++,General-Purpose Machine Learning,65.000,1
-baidu-research/warp-ctc,4054,6,4,2,1,1.480,0,322,2870,30,Cuda,false,0,C++,General-Purpose Machine Learning,22.000,0
-dmlc/xgboost,25015,150,72,33,2,5.996,0,1,3577,608,C++,false,0,C++,General-Purpose Machine Learning,100.000,8
-Xtra-Computing/thundergbm,678,3,1,1,0,4.425,2,58,2568,10,C++,false,0,C++,General-Purpose Machine Learning,18.000,0
-Xtra-Computing/thundersvm,1509,7,2,0,0,4.639,7,69,3269,26,C++,false,0,C++,General-Purpose Machine Learning,7.000,0
-mosdeo/LKYDeepNN,48,1,1,0,0,20.833,11,1047,2518,1,C++,false,0,C++,General-Purpose Machine Learning,5.000,0
-aksnzhy/xlearn,3073,4,0,0,0,1.302,14,536,2357,25,C++,false,0,C++,General-Purpose Machine Learning,4.000,0
-featuretools/featuretools,6875,52,29,14,2,7.564,0,28,2266,87,Python,false,0,C++,General-Purpose Machine Learning,50.000,1
-Tyill/skynet,63,1,0,0,0,15.873,25,830,1928,1,C++,false,0,C++,General-Purpose Machine Learning,2.000,0
-gojek/feast,4924,64,34,21,3,12.998,0,5,1809,209,Python,false,0,C++,General-Purpose Machine Learning,80.000,5
-logicalclocks/hopsworks,1006,15,7,3,1,14.911,0,0,1946,39,Java,false,0,C++,General-Purpose Machine Learning,81.000,6
-polyaxon/polyaxon,3413,20,10,4,2,5.860,0,3,2523,90,,false,0,C++,General-Purpose Machine Learning,61.000,1
-BLLIP/bllip-parser,224,1,1,0,0,4.464,9,746,4652,4,GAP,false,0,C++,Natural Language Processing,5.000,0
-proycon/colibri-core,122,0,0,0,0,0.000,186,7,3715,5,C++,false,0,C++,Natural Language Processing,20.000,1
-LanguageMachines/frog,73,1,1,1,0,13.699,5,9,3458,21,C++,false,0,C++,Natural Language Processing,30.000,1
-LanguageMachines/libfolia,14,0,0,0,0,0.000,770,10,3894,19,C++,false,0,C++,Natural Language Processing,20.000,1
-meta-toolkit/meta,677,2,1,0,0,2.954,7,2286,3580,9,C++,false,0,C++,Natural Language Processing,7.000,0
-mit-nlp/MITIE,2879,6,0,0,0,2.084,16,448,3522,24,C++,false,0,C++,Natural Language Processing,4.000,0
-LanguageMachines/ucto,60,0,0,0,0,0.000,213,9,3894,21,C++,false,0,C++,Natural Language Processing,20.000,1
-kaldi-asr/kaldi,13289,103,44,30,0,7.751,1,10,3139,419,Shell,false,0,C++,Speech Recognition,60.000,7
-ayoshiaki/tops,34,0,0,0,0,0.000,212,43,3418,7,HTML,false,0,C++,Sequence Analysis,6.000,0
-nickgillian/grt,835,7,2,1,0,8.383,5,1632,3611,18,C++,false,0,C++,Gesture Detection,12.000,0
-masatoi/cl-online-learning,47,0,0,0,0,0.000,35,613,3103,2,Common Lisp,false,0,Common Lisp,General-Purpose Machine Learning,0.000,0
-masatoi/cl-random-forest,58,0,0,0,0,0.000,87,484,2465,3,Common Lisp,false,0,Common Lisp,General-Purpose Machine Learning,0.000,0
-dakrone/clojure-opennlp,744,1,1,1,0,1.344,2,1899,5027,18,Clojure,false,0,Clojure,Natural Language Processing,10.000,0
-r0man/inflections-clj,208,1,0,0,0,4.808,24,525,5034,9,Clojure,false,0,Clojure,Natural Language Processing,2.000,0
-scicloj/scicloj.ml,187,1,1,0,0,5.348,11,66,980,19,Clojure,false,0,Clojure,General-Purpose Machine Learning,5.000,0
-ptaoussanis/touchstone,135,0,0,0,0,0.000,179,58,4040,2,Clojure,false,0,Clojure,General-Purpose Machine Learning,6.000,0
-lspector/Clojush,326,0,0,0,0,0.000,78,201,4967,19,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-cloudkj/lambda-ml,76,0,0,0,0,0.000,94,1846,3030,1,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-aria42/infer,176,0,0,0,0,0.000,821,4834,4843,4,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-jimpil/enclog,136,0,0,0,0,0.000,304,2759,4097,1,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-vollmerm/fungp,100,0,0,0,0,0.000,949,3475,4195,1,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-clojurewerkz/statistiker,63,0,0,0,0,0.000,553,3062,3537,5,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-htm-community/clortex,181,0,0,0,0,0.000,316,3183,3598,9,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-htm-community/comportex,153,0,0,0,0,0.000,44,2617,3526,11,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
-uncomplicate/deep-diamond,405,0,0,0,0,0.000,35,0,1726,1,Clojure,false,0,Clojure,Deep Learning,50.000,1
-hswick/jutsu.ai,98,0,0,0,0,0.000,157,1994,2296,4,Clojure,false,0,Clojure,Deep Learning,0.000,0
-originrose/cortex,1269,0,0,0,0,0.000,62,2151,2613,25,Clojure,false,0,Clojure,Deep Learning,0.000,0
-aria42/flare,284,0,0,0,0,0.000,48,1609,2279,2,Clojure,false,0,Clojure,Deep Learning,0.000,0
-yetanalytics/dl4clj,99,0,0,0,0,0.000,773,1955,2838,8,Clojure,false,0,Clojure,Deep Learning,0.000,0
-techascent/tech.ml.dataset,599,9,3,1,0,15.025,3,11,1743,20,Clojure,false,0,Clojure,Data Analysis,32.000,2
-scicloj/tablecloth,246,8,2,0,0,32.520,7,29,1256,22,Clojure,false,0,Clojure,Data Analysis,17.000,1
-alanmarazzi/panthera,187,1,0,0,0,5.348,20,1299,1617,3,Clojure,false,0,Clojure,Data Analysis,2.000,0
-Netflix/PigPen,551,0,0,0,0,0.000,99,2375,3632,611,Clojure,false,0,Clojure,Data Analysis,0.000,0
-zero-one-group/geni,269,1,1,1,0,3.717,3,1,1314,17,Clojure,false,0,Clojure,Data Analysis,50.000,3
-jsa-aerial/saite,129,2,0,0,0,15.504,14,9,1905,2,Clojure,false,0,Clojure,Data Visualization,24.000,1
-metasoarous/oz,814,2,0,0,0,2.457,15,474,2110,25,Clojure,false,0,Clojure,Data Visualization,4.000,0
-clojurewerkz/envision,78,0,0,0,0,0.000,693,2109,3517,2,Clojure,false,0,Clojure,Data Visualization,0.000,0
-pink-gorilla/gorilla-notebook,103,0,0,0,0,0.000,131,879,2507,13,Clojure,false,0,Clojure,Data Visualization,0.000,0
-clojupyter/clojupyter,797,5,2,2,0,6.274,3,382,3485,26,Clojure,false,0,Clojure,Data Visualization,12.000,0
-scicloj/notespace,144,2,1,1,1,13.889,0,578,1468,21,Clojure,false,0,Clojure,Data Visualization,22.000,0
-datamechanics/delight,327,2,1,0,0,6.116,11,259,1123,6,Scala,false,0,Clojure,Data Visualization,7.000,0
-clj-python/libpython-clj,978,5,4,2,0,5.112,3,18,1652,24,Clojure,false,0,Clojure,Interop,22.000,1
-scicloj/clojisr,137,0,0,0,0,0.000,58,330,1625,20,HTML,false,0,Clojure,Interop,0.000,0
-MastodonC/kixi.stats,344,2,0,0,0,5.814,20,101,2906,9,Clojure,false,0,Clojure,Misc,4.000,0
-generateme/fastmath,201,1,0,0,0,4.975,25,33,2087,6,Clojure,false,0,Clojure,Misc,8.000,0
-atisharma/matlib,24,0,0,0,0,0.000,99,1154,1249,1,Clojure,false,0,Clojure,Misc,0.000,0
-mathieulaporte/machine,43,0,0,0,0,0.000,246,2310,2725,1,Crystal,false,0,Crystal,General-Purpose Machine Learning,0.000,0
-NeuraLegion/crystal-fann,79,0,0,0,0,0.000,394,725,2337,10,Crystal,false,0,Crystal,General-Purpose Machine Learning,0.000,0
-fredwu/simple_bayes,390,0,0,0,0,0.000,82,2307,2688,3,Elixir,false,0,Elixir,General-Purpose Machine Learning,0.000,0
-mrdimosthenis/emel,94,0,0,0,0,0.000,267,475,1839,1,Gleam,false,0,Elixir,General-Purpose Machine Learning,0.000,0
-anshuman23/tensorflex,306,0,0,0,0,0.000,168,1605,2132,5,C,false,0,Elixir,General-Purpose Machine Learning,0.000,0
-fredwu/stemmer,149,1,1,1,0,6.711,1,683,2684,2,Elixir,false,0,Elixir,Natural Language Processing,10.000,0
-modern-fortran/neural-fortran,334,8,5,4,1,23.952,0,86,1942,13,Fortran,false,0,Fortran,General-Purpose Machine Learning,22.000,0
-cdslaborg/paramonte,218,4,2,1,0,18.349,5,863,1387,8,Fortran,false,0,Fortran,Data Analysis / Data Visualization,12.000,0
-nlpodyssey/cybertron,220,25,9,5,2,113.636,0,15,520,8,Go,false,17,Go,Natural Language Processing,45.000,4
-tebeka/snowball,42,3,1,0,0,71.429,10,45,4006,1,C,false,1,Go,Natural Language Processing,13.000,0
-ynqa/word-embedding,433,3,1,0,0,6.928,12,235,2488,7,Go,false,6,Go,Natural Language Processing,7.000,0
-neurosnap/sentences,393,4,3,2,1,10.178,0,12,3030,8,Go,false,0,Go,Natural Language Processing,42.000,1
-Lazin/go-ngram,110,0,0,0,0,0.000,167,2736,3505,5,Go,false,0,Go,Natural Language Processing,0.000,0
-Rookii/paicehusk,29,0,0,0,0,0.000,123,3809,4072,1,Go,false,0,Go,Natural Language Processing,0.000,0
-reiver/go-porterstemmer,190,0,0,0,0,0.000,123,2781,3826,5,Go,false,0,Go,Natural Language Processing,0.000,0
-nlpodyssey/spago,1657,67,33,7,0,40.435,1,22,1418,12,Go,false,2,Go,General-Purpose Machine Learning,50.000,1
-rlouf/birdland,42,0,0,0,0,0.000,96,1548,1807,2,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
-MaxHalford/eaopt,858,4,2,1,0,4.662,3,962,2853,16,Go,false,1,Go,General-Purpose Machine Learning,12.000,0
-dmitryikh/leaves,393,2,1,1,0,5.089,5,138,1895,6,Go,false,0,Go,General-Purpose Machine Learning,12.000,0
-goml/gobrain,544,1,0,0,0,1.838,24,1076,3495,6,Go,false,0,Go,General-Purpose Machine Learning,2.000,0
-nikolaydubina/go-featureprocessing,102,1,1,0,0,9.804,11,155,1070,2,Go,false,3,Go,General-Purpose Machine Learning,5.000,0
-songtianyi/go-mxnet-predictor,55,0,0,0,0,0.000,833,1996,2537,4,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
-nikolaydubina/go-ml-benchmarks,29,0,0,0,0,0.000,50,399,1017,1,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
-sjwhitworth/golearn,9057,18,10,5,0,1.987,2,330,3619,62,Go,false,5,Go,General-Purpose Machine Learning,21.000,0
-cdipaolo/goml,1513,10,7,3,0,6.609,1,496,3071,8,Go,false,2,Go,General-Purpose Machine Learning,17.000,0
-gorgonia/gorgonia,5171,31,17,10,0,5.995,1,41,2625,52,Go,false,16,Go,General-Purpose Machine Learning,31.000,0
-aunum/goro,365,3,2,2,0,8.219,1,1027,1334,2,Go,false,7,Go,General-Purpose Machine Learning,12.000,0
-zhenghaoz/gorse,7704,55,29,11,2,7.139,0,47,1927,38,Go,false,72,Go,General-Purpose Machine Learning,46.000,0
-therfoo/therfoo,18,0,0,0,0,0.000,462,547,1764,1,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
-jinyeom/neat,68,0,0,0,0,0.000,76,2015,2562,1,Go,true,0,Go,General-Purpose Machine Learning,0.000,0
-daviddengcn/go-pr,62,0,0,0,0,0.000,422,3820,3821,1,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
-alonsovidales/go_ml,202,1,0,0,0,4.950,18,3471,3644,1,Go,false,0,Go,General-Purpose Machine Learning,2.000,0
-fxsjy/gonn,354,1,1,1,0,2.825,4,2855,4050,3,Go,false,0,Go,General-Purpose Machine Learning,10.000,0
-jbrukh/bayesian,776,4,2,1,0,5.155,1,6,4383,12,Go,false,0,Go,General-Purpose Machine Learning,42.000,1
-thoj/go-galib,195,0,0,0,0,0.000,90,2887,5106,5,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
-ryanbressler/CloudForest,731,1,1,1,0,1.368,5,656,4049,5,Go,false,0,Go,General-Purpose Machine Learning,10.000,0
-sudachen/go-dnn,5,0,0,0,0,0.000,1424,1306,1561,1,Go,true,3,Go,General-Purpose Machine Learning,0.000,0
-twpayne/go-geom,726,11,6,6,0,15.152,1,24,3549,19,Go,false,5,Go,Spatial analysis and geometry,31.000,2
-golang/geo,1593,16,9,7,1,10.044,0,216,3276,16,Go,false,0,Go,Spatial analysis and geometry,31.000,0
-rocketlaunchr/dataframe-go,1067,14,7,4,0,13.121,3,759,1879,5,Go,false,24,Go,Data Analysis / Data Visualization,21.000,0
-go-gota/gota,2790,28,14,10,3,10.036,0,774,2847,26,Go,false,2,Go,Data Analysis / Data Visualization,35.000,0
-ajstarks/svgo,2053,7,2,2,1,3.410,0,759,5010,2,Go,false,2,Go,Data Analysis / Data Visualization,22.000,0
-arafatk/glot,383,2,1,0,0,5.222,12,212,2287,4,Go,false,0,Go,Data Analysis / Data Visualization,7.000,0
-mmcloughlin/globe,1583,3,1,1,0,1.895,2,89,2334,1,Go,false,2,Go,Data Analysis / Data Visualization,12.000,0
-StepLg/go-graph,96,0,0,0,0,0.000,172,2938,4945,2,Go,false,0,Go,Data Analysis / Data Visualization,0.000,0
-fxsjy/RF.go,114,0,0,0,0,0.000,88,3423,4027,3,Go,false,0,Go,Data Analysis / Data Visualization,0.000,0
-hybridgroup/gocv,5887,68,40,19,0,11.551,1,42,2256,130,Go,false,2,Go,Computer vision,46.000,0
-aunum/gold,324,2,1,1,0,6.173,3,1127,1440,1,Go,false,17,Go,Reinforcement learning,12.000,0
-ajtulloch/haskell-ml,56,0,0,0,0,0.000,299,3465,3694,2,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
-mikeizbicki/HLearn,1618,2,1,1,0,1.236,5,2734,4145,12,Haskell,false,0,Haskell,General-Purpose Machine Learning,12.000,0
-alpmestan/HNN,112,0,0,0,0,0.000,353,2444,4061,7,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
-ajtulloch/hopfield-networks,16,0,0,0,0,0.000,1353,3511,3655,2,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
-ajtulloch/dnngraph,698,0,0,0,0,0.000,33,2984,3203,4,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
-jbarrow/LambdaNet,375,1,0,0,0,2.667,24,2799,3296,10,Haskell,false,0,Haskell,General-Purpose Machine Learning,2.000,0
-ClearTK/cleartk,131,0,0,0,0,0.000,67,287,3152,8,Java,false,0,Java,Natural Language Processing,0.000,0
-emorynlp/nlp4j,149,0,0,0,0,0.000,67,2612,2681,7,Java,false,0,Java,Natural Language Processing,0.000,0
-CogComp/cogcomp-nlp,468,0,0,0,0,0.000,46,506,2958,52,Java,false,0,Java,Natural Language Processing,0.000,0
-airbnb/aerosolve,4803,3,1,1,0,0.625,6,1815,3117,55,Scala,false,0,Java,General-Purpose Machine Learning,12.000,0
-cicirello/Chips-n-Salsa,47,1,0,0,0,21.277,17,16,1254,2,Java,false,0,Java,General-Purpose Machine Learning,12.000,2
-datumbox/datumbox-framework,1089,1,0,0,0,0.918,22,1135,3323,2,Java,false,0,Java,General-Purpose Machine Learning,2.000,0
-encog/encog-java-core,744,1,0,0,0,1.344,17,1786,4536,31,Java,false,0,Java,General-Purpose Machine Learning,2.000,0
-h2oai/h2o-3,6557,54,25,10,3,8.235,0,0,3552,369,Jupyter Notebook,false,0,Java,General-Purpose Machine Learning,90.000,9
-numenta/htm.java,307,0,0,0,0,0.000,49,798,3392,67,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
-bwaldvogel/liblinear-java,307,0,0,0,0,0.000,38,550,5512,9,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
-apache/mahout,2100,7,2,1,0,3.333,1,23,3471,58,Java,false,0,Java,General-Purpose Machine Learning,22.000,2
-Hydrospheredata/mist,326,1,0,0,0,3.067,19,1508,2869,24,Scala,false,0,Java,General-Purpose Machine Learning,2.000,0
-oryxproject/oryx,1793,2,1,1,0,1.115,3,862,3408,14,Java,true,0,Java,General-Purpose Machine Learning,0.000,0
-padreati/rapaio,64,0,0,0,0,0.000,198,1,3730,12,Java,false,0,Java,General-Purpose Machine Learning,40.000,1
-apache/systemml,989,1,1,0,0,1.011,8,13,2935,189,Java,false,0,Java,General-Purpose Machine Learning,25.000,4
-CogComp/lbjava,13,0,0,0,0,0.000,285,2236,2928,35,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
-felipexw/knn-java-library,5,0,0,0,0,0.000,164,2640,2642,1,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
-apache/hadoop,13987,89,46,27,4,6.363,0,0,3374,590,Java,false,0,Java,Data Analysis / Data Visualization,100.000,25
-onyx-platform/onyx,2046,2,1,0,0,0.978,11,1545,3643,58,Clojure,true,0,Java,Data Analysis / Data Visualization,0.000,0
-apache/spark,37240,231,111,52,10,6.203,0,0,3558,2034,Scala,false,0,Java,Data Analysis / Data Visualization,100.000,72
-cloudera/impala,29,0,0,0,0,0.000,140,1611,4053,118,C++,false,0,Java,Data Analysis / Data Visualization,0.000,0
-deeplearning4j/deeplearning4j,13237,50,19,10,2,3.777,0,1,3648,67,Java,false,0,Java,Deep Learning,75.000,1
-deepjavalibrary/djl,3587,37,20,12,3,10.315,0,0,1485,101,Java,false,0,Java,Deep Learning,85.000,6
-twitter/twitter-text,3033,7,1,0,0,2.308,9,763,3277,66,HTML,false,0,JavaScript,Natural Language Processing,7.000,0
-NaturalNode/natural,10362,42,20,10,2,4.053,0,2,4583,137,JavaScript,false,26,JavaScript,Natural Language Processing,75.000,1
-loadfive/Knwl.js,5298,0,0,0,0,0.000,60,56,3644,24,JavaScript,false,4,JavaScript,Natural Language Processing,6.000,0
-retextjs/retext,2299,6,1,0,0,2.610,10,72,3459,17,JavaScript,false,12,JavaScript,Natural Language Processing,7.000,0
-spencermountain/compromise,10945,49,30,19,1,4.477,0,6,4524,102,JavaScript,false,15,JavaScript,Natural Language Processing,70.000,1
-axa-group/nlp.js,5902,37,12,3,0,6.269,3,182,1942,65,JavaScript,false,12,JavaScript,Natural Language Processing,25.000,0
-NathanEpstein/D3xter,342,0,0,0,0,0.000,177,2693,3314,2,JavaScript,false,0,JavaScript,Data Analysis / Data Visualization,0.000,0
-rigtorp/statkit,51,0,0,0,0,0.000,90,3277,3437,1,JavaScript,false,1,JavaScript,Data Analysis / Data Visualization,0.000,0
-nathanepstein/datakit,292,0,0,0,0,0.000,49,2419,3187,2,JavaScript,false,1,JavaScript,Data Analysis / Data Visualization,0.000,0
-NathanEpstein/Z3d,89,0,0,0,0,0.000,218,3240,3283,1,JavaScript,false,0,JavaScript,Data Analysis / Data Visualization,0.000,0
-ClimbsRocks/auto_ml,1630,6,4,3,0,3.681,2,2069,2663,12,Python,false,11,JavaScript,General-Purpose Machine Learning,12.000,0
-emilbayes/clustering.js,30,0,0,0,0,0.000,244,3415,3798,1,JavaScript,false,6,JavaScript,General-Purpose Machine Learning,0.000,0
-serendipious/nodejs-decision-tree-id3,208,2,2,0,0,9.615,9,397,3861,6,JavaScript,false,2,JavaScript,General-Purpose Machine Learning,7.000,0
-antoniodeluca/dn2a.js,460,0,0,0,0,0.000,202,202,2728,2,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-lukapopijac/gaussian-mixture-model,26,0,0,0,0,0.000,412,67,2412,1,JavaScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-rlidwka/node-fann,185,0,0,0,0,0.000,88,3120,4417,7,C++,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-transcranial/keras-js,4953,3,2,2,0,0.606,1,1925,2610,10,JavaScript,false,44,JavaScript,General-Purpose Machine Learning,12.000,0
-emilbayes/kMeans.js,44,0,0,0,0,0.000,222,3768,3894,1,CoffeeScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-primaryobjects/lda,284,1,0,0,0,3.521,28,311,3467,5,JavaScript,false,1,JavaScript,General-Purpose Machine Learning,2.000,0
-yandongliu/learningjs,65,0,0,0,0,0.000,674,1652,3516,2,JavaScript,false,2,JavaScript,General-Purpose Machine Learning,0.000,0
-machinelearnjs/machinelearnjs,533,1,0,0,0,1.876,26,1573,2034,9,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,2.000,0
-nicolaspanel/node-svm,296,0,0,0,0,0.000,165,1903,3530,7,JavaScript,false,31,JavaScript,General-Purpose Machine Learning,0.000,0
-harthur/brain,8004,3,1,1,0,0.375,2,2097,4945,17,JavaScript,true,8,JavaScript,General-Purpose Machine Learning,0.000,0
-BrainJS/brain.js,14021,56,26,12,1,3.994,0,213,2840,99,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,40.000,0
-omphalos/bayesian-bandit.js,44,0,0,0,0,0.000,562,2733,3755,2,JavaScript,false,1,JavaScript,General-Purpose Machine Learning,0.000,0
-cazala/synaptic,6915,3,2,1,0,0.434,5,1743,3341,36,JavaScript,false,19,JavaScript,General-Purpose Machine Learning,12.000,0
-NathanEpstein/kNear,46,0,0,0,0,0.000,152,2200,3291,2,JavaScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-totemstech/neuraln,275,0,0,0,0,0.000,72,3278,3354,6,C++,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-itamarwe/kalman,113,0,0,0,0,0.000,546,3001,4066,1,JavaScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-luccastera/shaman,107,0,0,0,0,0.000,1000,2849,3322,1,JavaScript,false,8,JavaScript,General-Purpose Machine Learning,0.000,0
-mljs/ml,2401,6,3,1,0,2.499,4,624,3314,27,JavaScript,false,61,JavaScript,General-Purpose Machine Learning,12.000,0
-ml5js/ml5-library,6231,17,10,7,2,2.728,0,148,2242,97,JavaScript,false,66,JavaScript,General-Purpose Machine Learning,31.000,0
-NathanEpstein/Pavlov.js,501,1,1,1,1,1.996,0,2419,3119,1,C++,false,0,JavaScript,General-Purpose Machine Learning,20.000,0
-apache/incubator-mxnet,20643,57,23,4,1,2.761,0,300,3129,893,C++,true,0,JavaScript,General-Purpose Machine Learning,10.000,0
-jsmlt/jsmlt,25,0,0,0,0,0.000,197,1484,2411,1,JavaScript,false,33,JavaScript,General-Purpose Machine Learning,0.000,0
-nuanio/xgboost-node,35,0,0,0,0,0.000,64,2215,2266,2,Cuda,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-lutzroeder/netron,24553,325,155,84,9,13.237,0,0,4715,1,JavaScript,false,5,JavaScript,General-Purpose Machine Learning,100.000,1
-Hoff97/tensorjs,34,0,0,0,0,0.000,226,964,1058,1,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
-mil-tokyo/webdnn,1965,4,1,0,0,2.036,7,400,2422,18,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,7.000,0
-stdlib-js/stdlib,3517,33,20,8,1,9.383,0,0,2800,38,JavaScript,false,183,JavaScript,Misc,85.000,6
-jcoglan/sylvester,1139,1,1,0,0,0.878,13,3104,5619,2,JavaScript,false,2,JavaScript,Misc,5.000,0
-simple-statistics/simple-statistics,3282,9,6,3,1,2.742,0,135,4306,48,JavaScript,false,13,JavaScript,Misc,27.000,0
-Tom-Alexander/regression-js,918,3,3,1,0,3.268,1,2174,3974,11,JavaScript,false,12,JavaScript,Misc,12.000,0
-flurry/Lyric,43,0,0,0,0,0.000,1066,3710,4214,21,JavaScript,true,0,JavaScript,Misc,0.000,0
-mwgg/GreatCircle,77,0,0,0,0,0.000,36,613,3290,5,PHP,false,0,JavaScript,Misc,0.000,0
-jgreenemi/MLPleaseHelp,5,0,0,0,0,0.000,1309,1765,2124,4,JavaScript,false,0,JavaScript,Misc,0.000,0
-alibaba/pipcook,2477,10,6,2,0,4.037,4,85,1449,42,TypeScript,false,0,JavaScript,Misc,17.000,0
-sta-ger/TheBot,5,0,0,0,0,0.000,1022,1968,1976,1,JavaScript,false,4,JavaScript,Demos and Scripts,0.000,0
-sta-ger/HalfBeer,7,0,0,0,0,0.000,282,1976,1976,1,JavaScript,false,4,JavaScript,Demos and Scripts,0.000,0
-benhamner/MachineLearning.jl,116,0,0,0,0,0.000,30,2993,3686,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-JuliaStats/MLBase.jl,185,1,0,0,0,5.405,26,98,3938,34,Julia,false,0,Julia,General-Purpose Machine Learning,2.000,0
-JuliaStats/PGM.jl,52,0,0,0,0,0.000,35,2271,3535,21,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-trthatcher/DiscriminantAnalysis.jl,9,0,0,0,0,0.000,685,1047,3698,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-lindahua/Regression.jl,62,0,0,0,0,0.000,130,2950,3794,5,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-JuliaStats/Loess.jl,93,1,1,0,0,10.753,9,70,3722,44,Julia,false,0,Julia,General-Purpose Machine Learning,5.000,0
-nutsiepully/NaiveBayes.jl,8,0,0,0,0,0.000,1469,3824,3824,1,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-dmbates/MixedModels.jl,383,2,2,0,0,5.222,8,20,3890,35,Julia,false,0,Julia,General-Purpose Machine Learning,17.000,1
-fredo-dedup/SimpleMCMC.jl,12,0,0,0,0,0.000,1486,3797,4019,1,Julia,true,0,Julia,General-Purpose Machine Learning,0.000,0
-JuliaStats/Distances.jl,400,2,1,0,0,5.000,13,48,3376,51,Julia,false,0,Julia,General-Purpose Machine Learning,13.000,0
-bensadeghi/DecisionTree.jl,7,0,0,0,0,0.000,318,567,570,1,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-compressed/BackpropNeuralNet.jl,47,0,0,0,0,0.000,458,2375,4070,6,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-doobwa/MCMC.jl,35,0,0,0,0,0.000,410,3872,4176,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-brian-j-smith/Mamba.jl,255,0,0,0,0,0.000,75,1184,3448,12,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-JuliaStats/GLM.jl,556,0,0,0,0,0.000,36,70,4194,59,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-STOR-i/GaussianProcesses.jl,302,2,1,1,1,6.623,0,262,3129,26,Jupyter Notebook,false,0,Julia,General-Purpose Machine Learning,22.000,0
-simonster/GLMNet.jl,95,0,0,0,0,0.000,35,170,3656,28,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-JuliaStats/Clustering.jl,328,3,0,0,0,9.146,20,46,4016,59,Julia,false,0,Julia,General-Purpose Machine Learning,10.000,0
-JuliaStats/SVM.jl,41,0,0,0,0,0.000,35,2676,3963,24,Julia,true,0,Julia,General-Purpose Machine Learning,0.000,0
-JuliaStats/KernelDensity.jl,160,1,0,0,0,6.250,17,205,3511,38,Julia,false,0,Julia,General-Purpose Machine Learning,2.000,0
-JuliaStats/MultivariateStats.jl,358,4,1,1,0,11.173,2,205,3542,46,Julia,false,0,Julia,General-Purpose Machine Learning,12.000,0
-JuliaStats/NMF.jl,89,0,0,0,0,0.000,36,93,3575,28,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-EricChiang/ANN.jl,57,0,0,0,0,0.000,1582,3251,3504,2,Julia,true,0,Julia,General-Purpose Machine Learning,0.000,0
-pluskid/Mocha.jl,1287,4,3,1,0,3.108,4,1813,3316,42,Julia,false,0,Julia,General-Purpose Machine Learning,12.000,0
-dmlc/XGBoost.jl,274,1,0,0,0,3.650,28,1,3388,47,Julia,false,0,Julia,General-Purpose Machine Learning,42.000,4
-wildart/ManifoldLearning.jl,88,1,0,0,0,11.364,21,627,3414,6,Julia,false,0,Julia,General-Purpose Machine Learning,2.000,0
-apache/incubator-mxnet,20643,57,23,4,1,2.761,0,300,3129,893,C++,true,0,Julia,General-Purpose Machine Learning,10.000,0
-hshindo/Merlin.jl,144,0,0,0,0,0.000,559,1847,2920,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
-davidavdav/ROCAnalysis.jl,30,0,0,0,0,0.000,172,69,3542,6,Jupyter Notebook,false,0,Julia,General-Purpose Machine Learning,0.000,0
-davidavdav/GaussianMixtures.jl,91,2,0,0,0,21.978,20,85,3641,22,Julia,false,0,Julia,General-Purpose Machine Learning,4.000,0
-cstjean/ScikitLearn.jl,533,5,2,0,0,9.381,10,154,2825,15,Julia,false,0,Julia,General-Purpose Machine Learning,7.000,0
-denizyuret/Knet.jl,1416,4,4,4,0,2.825,1,624,2976,44,Jupyter Notebook,false,0,Julia,General-Purpose Machine Learning,12.000,0
-alan-turing-institute/MLJ.jl,1668,10,6,2,2,5.995,0,2,1940,76,Julia,false,0,Julia,General-Purpose Machine Learning,67.000,2
-slycoder/TopicModels.jl,37,1,1,1,0,27.027,1,1271,3903,4,Julia,false,0,Julia,Natural Language Processing,10.000,0
-JuliaText/TextAnalysis.jl,360,2,1,0,0,5.556,7,25,4213,43,Julia,false,0,Julia,Natural Language Processing,17.000,4
-JuliaText/WordTokenizers.jl,92,0,0,0,0,0.000,41,1040,2053,17,Julia,false,0,Julia,Natural Language Processing,0.000,0
-JuliaText/CorpusLoaders.jl,32,0,0,0,0,0.000,232,432,2645,14,Julia,false,0,Julia,Natural Language Processing,0.000,0
-JuliaText/Embeddings.jl,78,2,1,0,0,25.641,12,37,1996,11,Julia,false,0,Julia,Natural Language Processing,13.000,0
-JuliaText/Languages.jl,51,1,0,0,0,19.608,24,7,3989,27,Julia,false,0,Julia,Natural Language Processing,22.000,2
-JuliaText/WordNet.jl,33,1,1,0,0,30.303,9,190,2984,13,Julia,false,0,Julia,Natural Language Processing,5.000,0
-IainNZ/GraphLayout.jl,46,0,0,0,0,0.000,741,1277,3430,5,Julia,true,0,Julia,Data Analysis / Data Visualization,0.000,0
-JuliaGraphs/LightGraphs.jl,672,0,0,0,0,0.000,174,776,3234,98,Julia,true,0,Julia,Data Analysis / Data Visualization,0.000,0
-JuliaData/DataFramesMeta.jl,452,3,3,3,0,6.637,3,8,3578,46,Julia,false,0,Julia,Data Analysis / Data Visualization,32.000,2
-nfoti/JuliaData,6,0,0,0,0,0.000,1627,3734,4107,1,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
-queryverse/ReadStat.jl,74,0,0,0,0,0.000,69,196,3643,12,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
-JuliaStats/HypothesisTests.jl,284,2,2,1,0,7.042,1,117,4001,54,Julia,false,0,Julia,Data Analysis / Data Visualization,12.000,0
-GiovineItalia/Gadfly.jl,1876,5,5,4,0,2.665,3,152,4126,107,Julia,false,0,Julia,Data Analysis / Data Visualization,12.000,0
-JuliaStats/StatsKit.jl,134,0,0,0,0,0.000,35,402,3595,22,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
-johnmyleswhite/RDatasets.jl,157,1,1,1,0,6.369,1,661,4016,44,R,false,0,Julia,Data Analysis / Data Visualization,10.000,0
-JuliaData/DataFrames.jl,1644,10,7,6,0,6.083,1,10,4152,207,Julia,false,0,Julia,Data Analysis / Data Visualization,37.000,1
-JuliaStats/Distributions.jl,1030,4,2,1,0,3.883,4,20,4031,221,Julia,false,0,Julia,Data Analysis / Data Visualization,22.000,2
-JuliaStats/DataArrays.jl,53,0,0,0,0,0.000,35,1914,3713,52,Julia,true,0,Julia,Data Analysis / Data Visualization,0.000,0
-JuliaStats/TimeSeries.jl,330,4,3,3,0,12.121,3,1,3988,56,Julia,false,0,Julia,Data Analysis / Data Visualization,52.000,3
-lindahua/Sampling.jl,1,0,0,0,0,0.000,1627,3444,3445,1,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
-JuliaDSP/DSP.jl,344,4,1,0,0,11.628,13,70,3647,73,Julia,false,0,Julia,Misc Stuff / Presentations,7.000,0
-JuliaCon/presentations,69,0,0,0,0,0.000,921,2817,3444,32,Jupyter Notebook,false,0,Julia,Misc Stuff / Presentations,0.000,0
-JuliaDSP/DSP.jl,344,4,1,0,0,11.628,13,70,3647,73,Julia,false,0,Julia,Misc Stuff / Presentations,7.000,0
-JuliaImages/Images.jl,511,2,0,0,0,3.914,16,113,4005,84,Julia,false,0,Julia,Misc Stuff / Presentations,4.000,0
-oxinabox/DataDeps.jl,143,0,0,0,0,0.000,43,160,2227,29,Julia,false,0,Julia,Misc Stuff / Presentations,0.000,0
-JetBrains/KotlinDL,1331,14,7,3,2,10.518,0,48,1338,72,Kotlin,false,0,Kotlin,Deep Learning,37.000,0
-deepmind/torch-cephes,46,0,0,0,0,0.000,261,2814,3691,20,C,true,0,Lua,General-Purpose Machine Learning,0.000,0
-twitter/torch-autograd,550,2,2,0,0,3.636,8,763,2970,29,Lua,true,0,Lua,General-Purpose Machine Learning,0.000,0
-torch/graph,35,0,0,0,0,0.000,424,2558,4014,16,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-deepmind/torch-randomkit,34,0,0,0,0,0.000,841,1675,3681,23,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-soumith/torch-signal,46,0,0,0,0,0.000,292,2335,3652,9,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-torch/nn,1318,1,1,1,1,0.759,0,2243,3688,184,Lua,false,0,Lua,General-Purpose Machine Learning,20.000,0
-torchnet/torchnet,994,0,0,0,0,0.000,107,2115,2712,15,Lua,true,0,Lua,General-Purpose Machine Learning,0.000,0
-torch/nngraph,296,0,0,0,0,0.000,301,2480,3887,30,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-clementfarabet/lua---nnx,97,1,1,0,0,10.309,12,2368,4524,23,Lua,false,0,Lua,General-Purpose Machine Learning,5.000,0
-Element-Research/rnn,934,0,0,0,0,0.000,43,2234,3171,54,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-Element-Research/dpnn,193,0,0,0,0,0.000,217,2372,3153,20,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-nicholas-leonard/dp,341,0,0,0,0,0.000,711,2690,3531,28,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-torch/optim,198,0,0,0,0,0.000,57,2186,3788,56,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-koraykv/unsup,86,0,0,0,0,0.000,99,2848,4494,10,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-clementfarabet/manifold,138,0,0,0,0,0.000,64,2334,3727,5,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-koraykv/torch-svm,43,0,0,0,0,0.000,100,3279,4070,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
-clementfarabet/lbfgs,2,0,0,0,0,0.000,1627,3912,3912,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-clementfarabet/vowpal_wabbit,2,0,0,0,0,0.000,1627,4215,4406,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
-clementfarabet/lua---opengm,8,0,0,0,0,0.000,592,4283,4444,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
-MichaelMathieu/lua---spaghetti,2,0,0,0,0,0.000,1627,3762,3815,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-ocallaco/LuaSHkit,3,0,0,0,0,0.000,1627,3473,3523,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
-rlowrance/kernel-smoothers,5,0,0,0,0,0.000,1627,4045,4138,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-torch/cutorch,336,0,0,0,0,0.000,246,2263,3688,74,Cuda,false,0,Lua,General-Purpose Machine Learning,0.000,0
-torch/cunn,213,0,0,0,0,0.000,69,2268,3688,72,Cuda,false,0,Lua,General-Purpose Machine Learning,0.000,0
-clementfarabet/lua---imgraph,22,0,0,0,0,0.000,1062,3542,4515,6,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
-clementfarabet/videograph,9,0,0,0,0,0.000,1627,3794,4182,1,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
-marcoscoffier/torch-saliency,7,0,0,0,0,0.000,79,3632,4157,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-marcoscoffier/lua---stitch,4,0,0,0,0,0.000,1627,4218,4325,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-marcoscoffier/lua---sfm,3,0,0,0,0,0.000,1627,4299,4315,1,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
-koraykv/fex,10,0,0,0,0,0.000,842,3583,4292,3,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
-sermanet/OverFeat,597,0,0,0,0,0.000,173,3390,3590,6,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
-facebookresearch/wav2letter,6300,13,7,3,0,2.063,2,17,2194,36,C++,false,0,Lua,General-Purpose Machine Learning,31.000,2
-fabprezja/keras-gpt-copilot,27,1,0,0,0,37.037,29,60,192,1,Python,false,0,Lua,General-Purpose Machine Learning,2.000,0
-rosejn/torch-datasets,37,0,0,0,0,0.000,490,3543,4102,6,Lua,false,0,Lua,Demos and Scripts,0.000,0
-fidlej/aledataset,18,0,0,0,0,0.000,1627,3485,3485,2,Lua,false,0,Lua,Demos and Scripts,0.000,0
-Xtra-Computing/thundersvm,1509,7,2,0,0,4.639,7,69,3269,26,C++,false,0,Matlab,General-Purpose Machine Learning,7.000,0
-josephmisiti/machine-learning-module,457,1,1,0,0,2.188,8,4592,4592,1,Objective-C,false,0,Matlab,General-Purpose Machine Learning,5.000,0
-BVLC/caffe,33657,67,30,12,3,1.991,0,1379,3724,275,C++,false,0,Matlab,General-Purpose Machine Learning,40.000,0
-covartech/PRT,143,0,0,0,0,0.000,87,1583,4377,9,MATLAB,false,0,Matlab,General-Purpose Machine Learning,0.000,0
-PRML/PRMLT,5903,28,14,6,1,4.743,0,1359,4091,3,MATLAB,false,0,Matlab,General-Purpose Machine Learning,35.000,0
-trekhleb/machine-learning-octave,809,5,0,0,0,6.180,14,1233,1861,1,MATLAB,false,0,Matlab,General-Purpose Machine Learning,4.000,0
-cdslaborg/paramonte,218,4,2,1,0,18.349,5,863,1387,8,Fortran,false,0,Matlab,Data Analysis / Data Visualization,12.000,0
-giacomelli/GeneticSharp,1173,9,5,1,0,7.673,5,35,3765,12,C#,false,0,.NET,General-Purpose Machine Learning,18.000,0
-dotnet/machinelearning,8634,54,26,18,3,6.254,0,1,2030,2401,C#,false,0,.NET,General-Purpose Machine Learning,80.000,2
-mrdimosthenis/Synapses,68,0,0,0,0,0.000,47,791,1460,3,,false,0,.NET,General-Purpose Machine Learning,0.000,0
-fsprojects/Vulpes,116,0,0,0,0,0.000,441,2292,3598,5,JavaScript,true,0,.NET,General-Purpose Machine Learning,0.000,0
-tech-quantum/MxNet.Sharp,143,2,1,1,1,13.986,0,225,1666,3,C#,false,0,.NET,General-Purpose Machine Learning,22.000,0
-yconst/YCML,117,0,0,0,0,0.000,117,2496,3180,1,Objective-C,true,0,Objective C,,0.000,0
-nikolaypavlov/MLPNeuralNet,895,0,0,0,0,0.000,122,2689,3711,7,Objective-C,false,0,Objective C,,0.000,0
-gianlucabertani/MAChineLearning,38,0,0,0,0,0.000,136,1547,3147,1,Objective-C,false,0,Objective C,,0.000,0
-Kalvar/ios-BPN-NeuralNetwork,33,1,1,0,0,30.303,7,2930,3817,1,Objective-C,false,0,Objective C,,5.000,0
-Kalvar/ios-Multi-Perceptron-NeuralNetwork,24,0,0,0,0,0.000,1201,2345,3194,1,Objective-C,false,0,Objective C,,0.000,0
-Kalvar/ios-KRHebbian-Algorithm,12,0,0,0,0,0.000,1627,2937,3817,1,Objective-C,false,0,Objective C,,0.000,0
-Kalvar/ios-KRKmeans-Algorithm,23,0,0,0,0,0.000,1201,2722,3431,1,Objective-C,false,0,Objective C,,0.000,0
-Kalvar/ios-KRFuzzyCMeans-Algorithm,12,0,0,0,0,0.000,414,2857,3153,1,Objective-C,false,0,Objective C,,0.000,0
-rleonid/oml,117,0,0,0,0,0.000,130,2121,3177,7,OCaml,false,0,OCaml,,0.000,0
-LaurentMazare/tensorflow-ocaml,282,0,0,0,0,0.000,33,1601,2804,13,OCaml,false,0,OCaml,,0.000,0
-opencv/opencv,72525,738,342,189,38,10.176,0,2,4144,1533,C++,false,0,OpenCV,,100.000,30
-fukuball/jieba-php,1286,4,1,1,0,3.110,1,465,3136,11,PHP,false,0,PHP,,12.000,0
-denissimon/prediction-builder,110,0,0,0,0,0.000,59,1398,3090,1,PHP,false,0,PHP,,0.000,0
-fulldecent/19-questions,17,0,0,0,0,0.000,54,477,2652,2,PHP,false,0,PHP,,0.000,0
-scikit-image/scikit-image,5680,49,21,12,2,8.627,0,2,4521,563,Python,false,3,Python,Computer Vision,80.000,11
-guofei9987/scikit-opt,4574,88,45,26,5,19.239,0,4,2179,18,Python,false,0,Python,Computer Vision,80.000,1
-ukoethe/vigra,393,0,0,0,0,0.000,44,10,4523,62,C++,false,0,Python,Computer Vision,20.000,5
-jesolem/PCV,1910,6,2,0,0,3.141,8,3413,4255,4,Python,false,0,Python,Computer Vision,7.000,0
-ageitgey/face_recognition,50270,670,154,74,10,13.328,0,531,2455,51,Python,false,8,Python,Computer Vision,62.000,0
-serengil/deepface,8258,549,207,124,42,66.481,0,1,1384,42,Python,false,14,Python,Computer Vision,100.000,3
-serengil/retinaface,796,21,5,2,0,26.382,3,53,942,6,Python,false,0,Python,Computer Vision,26.000,0
-natanielruiz/dockerface,188,0,0,0,0,0.000,42,1837,2361,1,Dockerfile,false,0,Python,Computer Vision,0.000,0
-facebookresearch/Detectron,26013,56,30,13,2,2.153,0,35,2240,82,Python,true,5,Python,Computer Vision,16.000,0
-facebookresearch/detectron2,27234,331,145,74,15,12.154,0,17,1539,242,Python,false,0,Python,Computer Vision,72.000,2
-albu/albumentations,12828,142,65,24,5,11.070,0,18,1996,128,Python,false,0,Python,Computer Vision,70.000,3
-madmaze/pytesseract,5183,64,27,11,3,12.348,0,5,4774,42,Python,false,0,Python,Computer Vision,70.000,2
-jrosebr1/imutils,4418,19,11,6,1,4.301,0,665,3238,13,Python,false,0,Python,Computer Vision,31.000,0
-donnyyou/PyTorchCV,46,1,1,1,1,21.739,0,1770,1976,3,Shell,false,0,Python,Computer Vision,20.000,0
-jolibrain/joliGEN,162,12,6,3,0,74.074,1,0,1192,8,Python,false,7,Python,Computer Vision,71.000,4
-ProGamerGov/neural-style-pt,805,2,2,0,0,2.484,7,475,1947,2,Python,false,0,Python,Computer Vision,7.000,0
-alankbi/detecto,605,3,1,0,0,4.959,11,652,1442,11,Python,false,8,Python,Computer Vision,7.000,0
-ProGamerGov/neural-dream,129,1,0,0,0,7.752,18,1190,1347,2,Python,false,0,Python,Computer Vision,2.000,0
-CMU-Perceptual-Computing-Lab/openpose,28646,268,122,60,7,9.356,0,131,2404,106,C++,false,0,Python,Computer Vision,62.000,0
-leoxiaobin/deep-high-resolution-net.pytorch,4144,24,12,5,1,5.792,0,344,1732,8,Cuda,false,0,Python,Computer Vision,35.000,0
-tensorflow/gan,876,9,4,2,1,10.274,0,50,1669,29,Jupyter Notebook,false,0,Python,Computer Vision,28.000,0
-ProGamerGov/dream-creator,60,0,0,0,0,0.000,131,475,1193,1,Python,false,0,Python,Computer Vision,0.000,0
-greentfrapp/lucent,562,6,4,3,0,10.676,2,844,1293,8,Python,false,0,Python,Computer Vision,12.000,0
-lightly-ai/lightly,2595,40,21,10,0,15.414,1,1,1136,34,Python,false,0,Python,Computer Vision,70.000,5
-gugarosa/learnergy,60,0,0,0,0,0.000,164,40,1640,3,Python,false,8,Python,Computer Vision,6.000,0
-Ret2Me/IoT-Owl,7,0,0,0,0,0.000,180,848,848,1,Python,false,0,Python,Computer Vision,0.000,0
-exadel-inc/CompreFace,3435,84,39,22,7,24.454,0,9,1235,75,Java,false,0,Python,Computer Vision,72.000,3
-Charmve/computer-vision-in-action,2260,37,11,6,1,16.372,0,195,938,1,Jupyter Notebook,false,0,Python,Computer Vision,35.000,0
-rwightman/pytorch-image-models,27712,461,213,102,17,16.635,0,0,1755,244,Python,false,2,Python,Computer Vision,100.000,8
-qubvel/segmentation_models.pytorch,8203,174,73,37,7,21.212,0,80,1728,48,Python,false,4,Python,Computer Vision,62.000,0
-qubvel/segmentation_models,4488,37,18,9,4,8.244,0,482,1997,13,Python,false,3,Python,Computer Vision,35.000,0
-lancopku/pkuseg-python,6338,23,9,4,1,3.629,0,533,1936,7,Python,false,1,Python,Natural Language Processing,35.000,0
-clips/pattern,8585,15,9,3,2,1.747,0,1307,4587,46,Python,false,0,Python,Natural Language Processing,31.000,0
-machinalis/quepy,1251,1,0,0,0,0.799,21,2005,4007,17,Python,false,0,Python,Natural Language Processing,2.000,0
-machinalis/yalign,127,0,0,0,0,0.000,114,3023,3741,9,Python,false,1,Python,Natural Language Processing,0.000,0
-isnowfy/snownlp,6220,34,16,8,4,5.466,0,1404,3649,8,Python,false,0,Python,Natural Language Processing,35.000,0
-tasdikrahman/spammy,140,0,0,0,0,0.000,137,2321,2781,2,Python,false,3,Python,Natural Language Processing,0.000,0
-fangpenlin/loso,83,0,0,0,0,0.000,129,4605,4605,1,Python,false,3,Python,Natural Language Processing,0.000,0
-duanhongyi/genius,237,0,0,0,0,0.000,103,1800,3747,1,Python,false,2,Python,Natural Language Processing,0.000,0
-pprett/nut,119,0,0,0,0,0.000,52,3487,4788,1,C,false,0,Python,Natural Language Processing,0.000,0
-columbia-applied-data-science/rosetta,204,0,0,0,0,0.000,186,379,3672,9,Jupyter Notebook,false,0,Python,Natural Language Processing,0.000,0
-proycon/pynlpl,468,0,0,0,0,0.000,50,70,4888,10,Python,false,2,Python,Natural Language Processing,0.000,0
-sergioburdisso/pyss3,323,8,4,2,0,24.768,1,97,1473,6,Python,false,11,Python,Natural Language Processing,12.000,0
-proycon/python-ucto,29,0,0,0,0,0.000,70,23,3473,1,Cython,false,0,Python,Natural Language Processing,10.000,1
-proycon/python-frog,48,2,1,0,0,41.667,10,3,3364,3,Cython,false,0,Python,Natural Language Processing,37.000,1
-EducationalTestingService/python-zpar,48,0,0,0,0,0.000,1032,947,3363,11,Python,true,0,Python,Natural Language Processing,0.000,0
-proycon/colibri-core,122,0,0,0,0,0.000,186,7,3715,5,C++,false,0,Python,Natural Language Processing,20.000,1
-explosion/spaCy,27615,235,101,52,6,8.510,0,1,3430,665,Python,false,35,Python,Natural Language Processing,100.000,8
-dmcc/PyStanfordDependencies,68,0,0,0,0,0.000,199,1714,3267,4,Python,false,1,Python,Natural Language Processing,0.000,0
-doukremt/distance,114,0,0,0,0,0.000,183,3653,3672,1,C,false,0,Python,Natural Language Processing,0.000,0
-seatgeek/fuzzywuzzy,9015,28,15,4,1,3.106,0,805,4521,264,Python,false,0,Python,Natural Language Processing,35.000,0
-x-tabdeveloping/neofuzz,8,3,2,1,0,375.000,6,147,246,2,Python,false,3,Python,Natural Language Processing,12.000,0
-jamesturk/jellyfish,1925,19,10,3,0,9.870,5,6,4885,25,Jupyter Notebook,false,0,Python,Natural Language Processing,51.000,2
-chartbeat-labs/textacy,2119,9,6,2,0,4.247,4,234,2850,35,Python,false,0,Python,Natural Language Processing,17.000,0
-dasmith/stanford-corenlp-python,612,0,0,0,0,0.000,47,3328,4653,3,Python,false,0,Python,Natural Language Processing,0.000,0
-cltk/cltk,810,7,4,2,1,8.642,0,19,3602,104,Python,false,15,Python,Natural Language Processing,32.000,2
-RasaHQ/rasa,17246,140,60,26,4,8.118,0,31,2596,498,Python,false,88,Python,Natural Language Processing,66.000,0
-PPACI/yase,13,0,0,0,0,0.000,186,2383,2416,1,Python,true,2,Python,Natural Language Processing,0.000,0
-aboSamoor/polyglot,2216,15,7,3,1,6.769,0,1156,3433,24,Python,false,7,Python,Natural Language Processing,31.000,0
-facebookresearch/DrQA,4418,7,3,3,0,1.584,3,919,2329,56,Python,false,1,Python,Natural Language Processing,12.000,0
-dedupeio/dedupe,3868,27,17,10,3,6.980,0,279,4234,51,Python,false,1,Python,Natural Language Processing,35.000,0
-snipsco/snips-nlu,3839,14,6,2,0,3.647,2,934,2479,14,Python,false,0,Python,Natural Language Processing,21.000,0
-Franck-Dernoncourt/NeuroNER,1676,3,0,0,0,1.790,16,1512,2452,6,Python,false,8,Python,Natural Language Processing,4.000,0
-bigartm/bigartm,657,3,2,1,1,4.566,0,1108,3356,37,C++,false,0,Python,Natural Language Processing,22.000,0
-gugarosa/nalp,23,0,0,0,0,0.000,186,40,1926,1,Python,false,9,Python,Natural Language Processing,6.000,0
-xhlulu/dl-translate,368,7,4,4,1,19.022,0,128,1004,2,Python,false,0,Python,Natural Language Processing,22.000,0
-deepset-ai/haystack,11670,418,172,95,11,35.818,0,0,1470,231,Python,false,0,Python,Natural Language Processing,100.000,30
-comet-ml/comet-llm,287,14,3,2,0,48.780,1,2,197,10,Python,false,0,Python,Natural Language Processing,56.000,3
-Microsoft/CNTK,17415,15,8,3,1,0.861,0,426,2919,231,C++,false,0,Python,General-Purpose Machine Learning,31.000,0
-couler-proj/couler,855,10,4,3,1,11.696,0,22,1192,32,Python,false,4,Python,General-Purpose Machine Learning,32.000,1
-ClimbsRocks/auto_ml,1630,6,4,3,0,3.681,2,2069,2663,12,Python,false,11,Python,General-Purpose Machine Learning,12.000,0
-wannesm/dtaidistance,963,13,7,3,1,13.499,0,15,2485,16,Python,false,1,Python,General-Purpose Machine Learning,41.000,1
-arogozhnikov/einops,7415,98,52,26,4,13.216,0,42,1888,21,Python,false,0,Python,General-Purpose Machine Learning,66.000,0
-jeff1evesque/machine-learning,258,2,1,0,0,7.752,11,1009,3389,4,JavaScript,false,0,Python,General-Purpose Machine Learning,7.000,0
-dmlc/xgboost,25015,150,72,33,2,5.996,0,1,3577,608,C++,false,0,Python,General-Purpose Machine Learning,100.000,8
-serengil/chefboost,420,5,3,1,0,11.905,1,23,1723,3,Python,false,4,Python,General-Purpose Machine Learning,22.000,1
-CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,25995,80,33,14,5,3.078,0,282,3965,140,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,50.000,0
-Hydrospheredata/mist,326,1,0,0,0,3.067,19,1508,2869,24,Scala,false,0,Python,General-Purpose Machine Learning,2.000,0
-metric-learn/metric-learn,1349,2,1,1,0,1.483,2,55,3673,37,Python,false,0,Python,General-Purpose Machine Learning,18.000,0
-OML-Team/open-metric-learning,585,8,2,1,0,13.675,5,25,537,17,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,22.000,2
-intel/scikit-learn-intelex,1076,21,8,4,1,19.517,0,0,1934,90,Python,false,0,Python,General-Purpose Machine Learning,85.000,6
-clips/pattern,8585,15,9,3,2,1.747,0,1307,4587,46,Python,false,0,Python,General-Purpose Machine Learning,31.000,0
-numenta/nupic,6331,6,3,0,0,0.948,8,83,3883,108,Python,true,18,Python,General-Purpose Machine Learning,0.000,0
-lisa-lab/pylearn2,2743,1,1,0,0,0.365,13,825,4749,124,Python,false,0,Python,General-Purpose Machine Learning,5.000,0
-keras-team/keras,59780,264,114,52,6,4.416,0,0,3162,1194,Python,false,6,Python,General-Purpose Machine Learning,100.000,21
-Lasagne/Lasagne,3846,6,2,1,0,1.560,6,1464,3360,65,Python,false,6,Python,General-Purpose Machine Learning,12.000,0
-hannes-brt/hebel,1170,1,0,0,0,0.855,29,3024,3655,6,Python,false,4,Python,General-Purpose Machine Learning,2.000,0
-chainer/chainer,5829,8,7,2,1,1.372,0,402,3093,256,Python,false,13,Python,General-Purpose Machine Learning,27.000,0
-RaRe-Technologies/gensim,14800,86,39,21,5,5.811,0,53,4669,422,Python,false,13,Python,General-Purpose Machine Learning,56.000,0
-ContinuumIO/topik,93,0,0,0,0,0.000,357,2767,3212,21,Python,true,1,Python,General-Purpose Machine Learning,0.000,0
-pybrain/pybrain,2847,7,3,2,0,2.459,1,2167,5257,34,Python,false,0,Python,General-Purpose Machine Learning,12.000,0
-IDSIA/brainstorm,1300,0,0,0,0,0.000,43,2443,3316,19,Python,false,1,Python,General-Purpose Machine Learning,0.000,0
-muricoca/crab,1179,1,1,1,0,0.848,4,4284,4601,7,Python,false,0,Python,General-Purpose Machine Learning,10.000,0
-ocelma/python-recsys,1468,3,1,1,1,2.044,0,1890,4427,4,Python,false,0,Python,General-Purpose Machine Learning,22.000,0
-AllenDowney/ThinkBayes,1629,1,0,0,0,0.614,23,1287,3790,6,TeX,false,0,Python,General-Purpose Machine Learning,2.000,0
-williamFalcon/pix2pix-keras,141,0,0,0,0,0.000,105,2432,2464,1,Python,false,12,Python,General-Purpose Machine Learning,0.000,0
-pprett/bolt,87,0,0,0,0,0.000,1257,4432,5224,2,C,false,0,Python,General-Purpose Machine Learning,0.000,0
-patvarilly/CoverTree,31,0,0,0,0,0.000,121,4272,4276,1,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
-nilearn/nilearn,1057,8,5,1,0,7.569,1,0,4701,202,Python,false,0,Python,General-Purpose Machine Learning,62.000,6
-raamana/neuropredict,99,0,0,0,0,0.000,31,13,2457,3,Python,false,0,Python,General-Purpose Machine Learning,20.000,1
-ZhiningLiu1998/imbalanced-ensemble,265,6,0,0,0,22.642,15,124,988,1,Python,false,8,Python,General-Purpose Machine Learning,4.000,0
-shogun-toolbox/shogun,2976,4,2,2,1,1.344,0,1080,4619,180,C++,false,0,Python,General-Purpose Machine Learning,22.000,0
-perone/Pyevolve,310,0,0,0,0,0.000,62,2942,4487,12,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
-BVLC/caffe,33657,67,30,12,3,1.991,0,1379,3724,275,C++,false,0,Python,General-Purpose Machine Learning,40.000,0
-breze-no-salt/breze,97,0,0,0,0,0.000,186,2638,3737,9,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,0.000,0
-cortexlabs/cortex,7963,6,4,3,0,0.753,3,264,1764,21,Go,false,42,Python,General-Purpose Machine Learning,12.000,0
-mattjj/pyhsmm,535,0,0,0,0,0.000,61,1186,4267,8,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
-EducationalTestingService/skll,536,1,1,1,0,1.866,6,9,3765,31,Python,false,3,Python,General-Purpose Machine Learning,30.000,2
-HIPS/Spearmint,1527,2,1,0,0,1.310,10,1696,3397,16,Python,false,0,Python,General-Purpose Machine Learning,7.000,0
-jmschrei/pomegranate,3199,16,7,4,0,5.002,1,10,3286,68,Python,false,6,Python,General-Purpose Machine Learning,41.000,1
-proycon/python-timbl,17,1,0,0,0,58.824,23,1263,3937,2,Python,false,0,Python,General-Purpose Machine Learning,2.000,0
-deap/deap,5360,50,24,15,5,9.328,0,118,3473,81,Python,false,0,Python,General-Purpose Machine Learning,40.000,0
-andersbll/deeppy,1370,0,0,0,0,0.000,44,2787,3353,2,Python,false,3,Python,General-Purpose Machine Learning,0.000,0
-rasbt/mlxtend,4572,32,13,7,0,6.999,2,61,3388,94,Python,false,6,Python,General-Purpose Machine Learning,25.000,0
-NervanaSystems/neon,3861,4,1,1,1,1.036,0,1646,3325,236,Python,true,21,Python,General-Purpose Machine Learning,0.000,0
-mnielsen/neural-networks-and-deep-learning,14896,92,46,20,1,6.176,0,2082,4027,10,Python,false,4,Python,General-Purpose Machine Learning,50.000,0
-spotify/annoy,12170,135,51,21,3,11.093,0,95,3888,140,C++,false,0,Python,General-Purpose Machine Learning,60.000,0
-EpistasisLab/tpot,9313,55,23,12,1,5.906,0,77,2941,79,Python,false,12,Python,General-Purpose Machine Learning,40.000,0
-NVIDIA/DIGITS,4106,1,1,0,0,0.244,8,1321,3173,55,HTML,false,0,Python,General-Purpose Machine Learning,5.000,0
-apache/incubator-mxnet,20643,56,23,4,1,2.713,0,300,3129,893,C++,true,0,Python,General-Purpose Machine Learning,10.000,0
-luispedro/milk,610,0,0,0,0,0.000,137,3118,5115,9,Python,true,0,Python,General-Purpose Machine Learning,0.000,0
-tflearn/tflearn,9601,6,4,0,0,0.625,9,1088,2793,121,Python,false,8,Python,General-Purpose Machine Learning,7.000,0
-yandex/rep,677,1,0,0,0,1.477,23,2569,3146,21,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,2.000,0
-RGF-team/rgf,367,1,1,1,0,2.725,5,684,2724,11,C++,false,0,Python,General-Purpose Machine Learning,10.000,0
-AmazaspShumik/sklearn-bayes,497,3,1,1,0,6.036,3,791,3038,6,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,12.000,0
-fukuball/fuku-ml,278,0,0,0,0,0.000,277,1899,2869,1,Python,false,5,Python,General-Purpose Machine Learning,0.000,0
-reiinakano/xcessiv,1266,0,0,0,0,0.000,101,2285,2452,6,Python,false,12,Python,General-Purpose Machine Learning,0.000,0
-pytorch/pytorch,72821,1023,481,258,38,14.048,0,0,2658,3077,Python,false,3,Python,General-Purpose Machine Learning,100.000,260
-PyTorchLightning/pytorch-lightning,25192,306,142,67,12,12.147,0,0,1698,880,Python,false,3,Python,General-Purpose Machine Learning,100.000,17
-PyTorchLightning/pytorch-lightning-bolts,1603,14,7,3,0,8.734,1,73,1338,118,Python,false,2,Python,General-Purpose Machine Learning,21.000,0
-skorch-dev/skorch,5406,50,21,11,3,9.249,0,3,2319,58,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,70.000,1
-eriklindernoren/ML-From-Scratch,22593,144,107,27,3,6.374,0,1496,2482,6,Python,false,0,Python,General-Purpose Machine Learning,60.000,0
-omimo/xRBM,54,0,0,0,0,0.000,339,2290,2547,1,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
-catboost/catboost,7468,65,27,14,1,8.704,0,0,2319,343,Python,false,0,Python,General-Purpose Machine Learning,90.000,15
-fukatani/stacked_generalization,116,0,0,0,0,0.000,181,1666,2753,4,Python,false,3,Python,General-Purpose Machine Learning,0.000,0
-modAL-python/modAL,2058,25,15,7,0,12.148,1,175,2200,18,Python,false,0,Python,General-Purpose Machine Learning,25.000,0
-jgreenemi/Parris,319,0,0,0,0,0.000,186,2135,2152,3,Python,false,7,Python,General-Purpose Machine Learning,0.000,0
-siavashserver/neonrvm,36,1,1,1,0,27.778,3,1187,2105,1,C,true,0,Python,General-Purpose Machine Learning,0.000,0
-apple/turicreate,11123,32,17,10,3,2.877,0,724,2183,82,C++,false,0,Python,General-Purpose Machine Learning,35.000,0
-aksnzhy/xlearn,3073,4,0,0,0,1.302,14,536,2357,25,C++,false,0,Python,General-Purpose Machine Learning,4.000,0
-flennerhag/mlens,809,3,2,1,0,3.708,6,1367,2508,2,Python,false,2,Python,General-Purpose Machine Learning,12.000,0
-scoremedia/thampi,9,0,0,0,0,0.000,408,1835,1946,200,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
-mindsdb/mindsdb,19057,595,261,79,20,31.222,0,0,1939,747,Python,false,19,Python,General-Purpose Machine Learning,100.000,47
-PreferredAI/cornac,763,7,1,0,0,9.174,12,1,1955,19,Python,false,0,Python,General-Purpose Machine Learning,47.000,3
-google/jax,25655,622,205,106,12,24.245,0,0,1854,577,Python,false,3,Python,General-Purpose Machine Learning,100.000,39
-catalyst-team/catalyst,3186,6,3,1,1,1.883,0,573,1921,108,Python,false,0,Python,General-Purpose Machine Learning,22.000,0
-fastai/fastai,24817,146,67,34,5,5.883,0,21,2266,233,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,70.000,2
-scikit-multiflow/scikit-multiflow,717,3,2,1,0,4.184,5,1099,2200,35,Python,false,6,Python,General-Purpose Machine Learning,12.000,0
-mindsdb/lightwood,388,5,2,1,1,12.887,0,24,1647,42,Python,false,28,Python,General-Purpose Machine Learning,32.000,1
-jungtaekkim/bayeso,82,0,0,0,0,0.000,47,2,2185,1,Python,false,1,Python,General-Purpose Machine Learning,40.000,1
-mljar/mljar-supervised,2826,38,12,5,0,13.447,2,41,1844,19,Python,false,17,Python,General-Purpose Machine Learning,31.000,0
-alirezamika/evostra,261,0,0,0,0,0.000,45,2002,2351,1,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
-determined-ai/determined,2561,73,22,11,2,28.504,0,0,1325,97,Go,false,76,Python,General-Purpose Machine Learning,90.000,43
-OpenMined/PySyft,9005,55,20,9,1,6.108,0,0,2319,421,Python,false,0,Python,General-Purpose Machine Learning,85.000,9
-alan-turing-institute/sktime,7031,66,31,13,3,9.387,0,1,1843,305,Python,false,0,Python,General-Purpose Machine Learning,90.000,17
-gugarosa/opfython,31,0,0,0,0,0.000,138,13,2106,2,Python,false,6,Python,General-Purpose Machine Learning,20.000,1
-gugarosa/opytimizer,580,3,1,1,0,5.172,1,62,2213,4,Python,false,10,Python,General-Purpose Machine Learning,12.000,0
-gradio-app/gradio,23677,833,385,202,36,35.182,0,0,1800,217,Python,false,21,Python,General-Purpose Machine Learning,100.000,21
-activeloopai/Hub,7145,152,56,28,5,21.274,0,0,1567,86,Python,false,0,Python,General-Purpose Machine Learning,100.000,10
-dmey/synthia,47,0,0,0,0,0.000,31,674,1362,4,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
-bytehub-ai/bytehub,56,0,0,0,0,0.000,117,956,1017,1,Python,false,8,Python,General-Purpose Machine Learning,0.000,0
-backprop-ai/backprop,240,3,2,2,0,12.500,2,934,1119,6,Python,false,6,Python,General-Purpose Machine Learning,12.000,0
-dirty-cat/dirty_cat,6,1,1,0,0,166.667,8,177,191,5,Python,false,0,Python,General-Purpose Machine Learning,5.000,0
-edtechre/pybroker,1349,43,11,6,1,31.875,0,26,311,2,Python,false,26,Python,General-Purpose Machine Learning,45.000,1
-Shanky-21/Data_visualization,32,1,0,0,0,31.250,19,1118,1202,2,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,2.000,0
-mars-project/mars,2654,8,1,0,0,3.014,8,21,1814,53,Python,false,0,Python,Data Analysis / Data Visualization,17.000,1
-cdslaborg/paramonte,218,4,2,1,0,18.349,5,863,1387,8,Fortran,false,0,Python,Data Analysis / Data Visualization,12.000,0
-vaexio/vaex,8058,29,15,7,2,3.599,0,125,3344,63,Python,false,12,Python,Data Analysis / Data Visualization,35.000,0
-mining/mining,1247,4,2,1,0,3.208,6,2547,3591,13,Python,true,11,Python,Data Analysis / Data Visualization,0.000,0
-pymc-devs/pymc,7889,54,31,17,5,6.845,0,0,5315,415,Python,false,8,Python,Data Analysis / Data Visualization,100.000,10
-quantopian/zipline,16619,70,35,20,5,4.212,0,1135,4052,129,Python,false,0,Python,Data Analysis / Data Visualization,50.000,0
-sympy/sympy,11565,121,60,30,2,10.463,0,2,4955,1172,Python,false,0,Python,Data Analysis / Data Visualization,100.000,13
-statsmodels/statsmodels,9043,103,47,19,2,11.390,0,25,4547,356,Python,false,7,Python,Data Analysis / Data Visualization,60.000,1
-bokeh/bokeh,18332,119,66,37,4,6.491,0,1,4259,591,Python,false,0,Python,Data Analysis / Data Visualization,100.000,9
-altair-viz/altair,8568,62,28,19,1,7.236,0,0,2987,142,Python,false,0,Python,Data Analysis / Data Visualization,90.000,5
-mikedewar/d3py,1413,2,2,0,0,1.415,9,2444,4520,12,Python,false,0,Python,Data Analysis / Data Visualization,7.000,0
-D3xterjs/pydexter,32,0,0,0,0,0.000,185,2014,2718,2,Python,false,0,Python,Data Analysis / Data Visualization,0.000,0
-yhat/ggpy,3665,6,4,1,0,1.637,6,2558,3699,19,Python,false,0,Python,Data Analysis / Data Visualization,12.000,0
-sinhrks/ggfortify,523,0,0,0,0,0.000,44,245,3336,23,R,false,0,Python,Data Analysis / Data Visualization,0.000,0
-kartograph/kartograph.py,1001,0,0,0,0,0.000,155,2376,4329,12,Python,false,1,Python,Data Analysis / Data Visualization,0.000,0
-pyqtgraph/pyqtgraph,3465,37,11,4,2,10.678,0,5,3724,237,Python,false,0,Python,Data Analysis / Data Visualization,65.000,11
-AirSage/Petrel,247,0,0,0,0,0.000,59,2410,4145,8,Python,false,0,Python,Data Analysis / Data Visualization,0.000,0
-blaze/blaze,3171,5,1,0,0,1.577,13,1560,4045,75,Python,false,11,Python,Data Analysis / Data Visualization,7.000,0
-dfm/emcee,1381,14,5,4,0,10.138,2,2,4399,63,Python,false,0,Python,Data Analysis / Data Visualization,56.000,3
-cigroup-ol/windml,128,0,0,0,0,0.000,130,980,3761,9,Python,false,12,Python,Data Analysis / Data Visualization,0.000,0
-vispy/vispy,3150,22,11,5,3,6.984,0,23,3899,158,Python,false,13,Python,Data Analysis / Data Visualization,45.000,2
-nicohlr/ipychart,91,2,1,1,0,21.978,4,90,1611,2,Python,false,9,Python,Data Analysis / Data Visualization,12.000,0
-bloomberg/bqplot,3491,7,3,1,0,2.005,2,50,2980,54,TypeScript,false,0,Python,Data Analysis / Data Visualization,18.000,0
-rewonc/pastalog,417,0,0,0,0,0.000,185,2430,2793,4,JavaScript,false,28,Python,Data Analysis / Data Visualization,0.000,0
-apache/incubator-superset,55282,473,216,110,18,8.556,0,1,3047,1036,TypeScript,false,0,Python,Data Analysis / Data Visualization,100.000,40
-nathanepstein/dora,623,1,0,0,0,1.605,25,1241,2837,1,Python,false,0,Python,Data Analysis / Data Visualization,2.000,0
-sevamoo/SOMPY,519,2,1,0,0,3.854,9,230,3378,20,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,7.000,0
-lmcinnes/hdbscan,93,1,0,0,0,10.753,16,2205,2640,1,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,2.000,0
-ayush1997/visualize_ML,185,3,1,0,0,16.216,12,2612,2672,1,Python,false,0,Python,Data Analysis / Data Visualization,7.000,0
-reiinakano/scikit-plot,2362,6,3,2,0,2.540,5,1922,2483,13,Python,false,4,Python,Data Analysis / Data Visualization,12.000,0
-jwkvam/bowtie,761,2,1,0,0,2.628,13,1572,2775,3,Python,false,0,Python,Data Analysis / Data Visualization,7.000,0
-marcotcr/lime,10990,71,34,14,4,6.460,0,846,2808,45,JavaScript,false,0,Python,Data Analysis / Data Visualization,50.000,0
-sepandhaghighi/pycm,1401,5,0,0,0,3.569,14,169,2131,13,Python,false,2,Python,Data Analysis / Data Visualization,4.000,0
-plotly/dash,19675,177,83,43,5,8.996,0,28,3149,171,Python,false,0,Python,Data Analysis / Data Visualization,70.000,1
-asavinov/lambdo,19,0,0,0,0,0.000,78,1056,1957,2,Python,false,6,Python,Data Analysis / Data Visualization,0.000,0
-microsoft/tensorwatch,3338,6,1,0,0,1.797,12,85,1653,10000,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,7.000,0
-rlworkgroup/dowel,32,1,1,1,1,31.250,0,964,1658,48,Python,false,17,Python,Data Analysis / Data Visualization,20.000,0
-jaredthecoder/BioPy,40,0,0,0,0,0.000,250,2764,3184,2,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-julianmack/Data_Assimilation,30,0,0,0,0,0.000,35,1050,1702,2,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-ageron/handson-ml,25049,34,16,7,0,1.357,1,423,2837,38,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,25.000,0
-plotly/dash-svm,156,1,1,1,0,6.410,4,1134,1961,16,Python,false,12,Python,Misc Scripts / iPython Notebooks / Codebases,10.000,0
-donnemartin/data-science-ipython-notebooks,25809,120,62,30,8,4.650,0,1746,3226,12,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,62.000,0
-Wavelets/sarah-palin-lda,10,0,0,0,0,0.000,1156,4520,3528,1,Scala,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-Wavelets/diffusion-segmentation,2,0,0,0,0,0.000,1627,4837,3504,1,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-Wavelets/scipy-tutorials,2,0,0,0,0,0.000,1627,4935,3504,1,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-marcelcaraciolo/crab,85,0,0,0,0,0.000,185,4465,4791,4,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-maxsklar/BayesPy,104,0,0,0,0,0.000,43,171,4181,3,HTML,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-GaelVaroquaux/scikit-learn-tutorial,126,0,0,0,0,0.000,58,4526,4527,1,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-madhusudancs/sentiment-analyzer,52,0,0,0,0,0.000,632,4255,4266,2,JavaScript,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-kevincobain2000/sentiment_classifier,171,0,0,0,0,0.000,331,597,4312,3,OpenEdge ABL,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-fabianp/group_lasso,38,0,0,0,0,0.000,256,4047,4229,2,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-kevincobain2000/jProcessing,149,1,1,0,0,6.711,7,1169,4278,3,OpenEdge ABL,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,5.000,0
-mne-tools/mne-python-notebooks,23,1,1,0,0,43.478,8,3952,3952,5,,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,5.000,0
-NervanaSystems/neon_course,92,0,0,0,0,0.000,561,323,2705,110,Jupyter Notebook,true,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-jvns/pandas-cookbook,6360,33,16,11,4,5.189,0,231,3624,16,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,35.000,0
-BRML/climin,179,1,0,0,0,5.587,26,2676,4374,19,Python,false,3,Python,Misc Scripts / iPython Notebooks / Codebases,2.000,0
-AllenDowney/DataScience,41,0,0,0,0,0.000,398,569,3583,2,HTML,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-AllenDowney/ThinkBayes,1629,1,0,0,0,0.614,23,1287,3790,6,TeX,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,2.000,0
-AllenDowney/ThinkComplexity,95,0,0,0,0,0.000,250,1711,3971,1,PostScript,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-AllenDowney/ThinkOS,528,0,0,0,0,0.000,32,1303,3536,14,TeX,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-mwgg/GreatCircle,77,0,0,0,0,0.000,36,613,3290,5,PHP,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-hangtwenty/dive-into-machine-learning,11200,10,4,3,0,0.893,1,523,3195,31,,true,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-ericjang/tdb,1360,0,0,0,0,0.000,172,2491,2902,1,JavaScript,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-justmarkham/scikit-learn-videos,3598,11,6,2,0,3.057,6,822,3153,2,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,21.000,0
-amueller/introduction_to_ml_with_python,6974,54,21,11,2,7.743,0,336,2734,14,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,40.000,0
-wesm/pydata-book,20495,202,92,43,6,9.856,0,225,4163,9,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,62.000,0
-trekhleb/homemade-machine-learning,21981,107,56,31,4,4.868,0,125,1848,3,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,60.000,0
-prodmodel/prodmodel,55,0,0,0,0,0.000,185,1592,1712,1,Python,false,5,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-maitbayev/the-elements-of-statistical-learning,396,4,3,3,0,10.101,1,660,2045,2,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,12.000,0
-LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms,1212,42,18,9,0,34.653,1,427,1218,2,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,25.000,0
-ShivamChoudhary17/Heart_Disease,0,0,0,0,0,0.000,106751,781,1140,1,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-ShivamChoudhary17/Flight_Fare_Prediction,0,0,0,0,0,0.000,106751,781,1151,1,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
-keras-team/keras-tuner,2783,8,5,1,0,2.875,6,6,1630,63,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,42.000,3
-p-christ/nn_builder,164,0,0,0,0,0.000,59,92,1767,2,Python,false,6,Python,Neural Networks,0.000,0
-karpathy/neuraltalk,5361,2,1,1,0,0.373,3,2925,3282,6,Python,false,0,Python,Neural Networks,12.000,0
-molcik/python-neuron,39,0,0,0,0,0.000,185,1233,2691,1,Python,false,0,Python,Neural Networks,0.000,0
-karpathy/neuraltalk2,5437,16,12,10,1,2.943,0,2617,2925,9,Jupyter Notebook,false,0,Python,Neural Networks,31.000,0
-molcik/python-neuron,39,0,0,0,0,0.000,185,1233,2691,1,Python,false,0,Python,Neural Networks,0.000,0
-atmb4u/data-driven-code,29,0,0,0,0,0.000,146,2558,2566,1,Python,false,0,Python,Neural Networks,0.000,0
-mrT23/TResNet,454,4,1,0,0,8.811,8,316,1336,3,Python,false,3,Python,Neural Networks,7.000,0
-zueve/neurolab,159,0,0,0,0,0.000,147,1269,3174,3,Python,false,0,Python,Neural Networks,0.000,0
-synsense/rockpool,36,2,0,0,0,55.556,14,27,805,16,Python,false,0,Python,Spiking Neural Networks,14.000,2
-synsense/sinabs,52,3,1,1,0,57.692,1,37,640,7,Python,false,1,Python,Spiking Neural Networks,18.000,0
-neuromorphs/tonic,156,5,2,1,0,32.051,3,0,1595,23,Python,false,1,Python,Spiking Neural Networks,62.000,1
-CamDavidsonPilon/lifelines,2204,22,6,2,0,9.982,3,8,3739,108,Python,false,0,Python,Python Survival Analysis,45.000,4
-sebp/scikit-survival,1008,16,7,4,0,15.873,1,3,2522,15,Python,false,0,Python,Python Survival Analysis,51.000,1
-OpenMined/PySyft,9005,55,20,9,1,6.108,0,0,2319,421,Python,false,0,Python,Federated Learning,85.000,9
-hammer/wikichallenge,11,0,0,0,0,0.000,1627,4382,4384,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-amueller/kaggle_insults,151,0,0,0,0,0.000,63,2978,4079,2,Python,true,0,Python,Kaggle Competition Source Code,0.000,0
-MLWave/kaggle_acquire-valued-shoppers-challenge,66,0,0,0,0,0.000,405,3507,3509,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-cifar,44,0,0,0,0,0.000,1068,3442,3646,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-blackbox,115,1,1,1,0,8.696,3,3442,3857,2,MATLAB,false,0,Python,Kaggle Competition Source Code,10.000,0
-zygmuntz/kaggle-accelerometer,15,0,0,0,0,0.000,1214,3442,3766,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-advertised-salaries,55,0,0,0,0,0.000,1401,3442,3928,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-amazon,25,0,0,0,0,0.000,1627,3442,3826,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-bestbuy_big,8,0,0,0,0,0.000,1627,3442,4082,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-kastnerkyle/kaggle-dogs-vs-cats,67,0,0,0,0,0.000,146,3581,3685,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-benanne/kaggle-galaxies,488,0,0,0,0,0.000,33,3389,3509,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-gender,21,0,0,0,0,0.000,491,3442,3878,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-merck,10,0,0,0,0,0.000,189,3442,4054,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/kaggle-stackoverflow,46,0,0,0,0,0.000,1022,2189,4066,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-MLWave/kaggle_acquire-valued-shoppers-challenge,66,0,0,0,0,0.000,405,3507,3509,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
-zygmuntz/wine-quality,24,1,1,1,0,41.667,3,3003,3994,1,R,false,0,Python,Kaggle Competition Source Code,10.000,0
-deepmind/lab,6939,20,7,3,1,2.882,0,323,2549,20,C,false,0,Python,Reinforcement Learning,31.000,0
-Farama-Foundation/Gymnasium,4289,305,135,74,9,71.112,0,1,441,373,Python,false,0,Python,Reinforcement Learning,100.000,6
-SerpentAI/SerpentAI,6612,23,6,3,0,3.479,2,1279,2411,7,Python,true,31,Python,Reinforcement Learning,0.000,0
-mwydmuch/ViZDoom,1604,15,9,6,0,9.352,1,18,3072,52,C++,false,0,Python,Reinforcement Learning,31.000,2
-openai/roboschool,2077,4,4,1,0,1.926,1,1505,2382,587,Python,false,0,Python,Reinforcement Learning,12.000,0
-openai/retro,3228,24,14,11,0,7.435,2,225,2115,594,C,false,0,Python,Reinforcement Learning,25.000,0
-kengz/SLM-Lab,1185,5,0,0,0,4.219,16,571,2242,17,Python,false,3,Python,Reinforcement Learning,4.000,0
-NervanaSystems/coach,2274,6,4,3,0,2.639,1,347,2244,42,Python,true,17,Python,Reinforcement Learning,0.000,0
-rlworkgroup/garage,1749,13,6,4,1,7.433,0,323,1991,71,Python,false,19,Python,Reinforcement Learning,31.000,0
-rlworkgroup/metaworld,1017,21,7,4,1,20.649,0,31,1536,34,Python,false,0,Python,Reinforcement Learning,41.000,0
-enlite-ai/maze,250,0,0,0,0,0.000,31,367,1015,2,Python,false,0,Python,Reinforcement Learning,0.000,0
-ray-project/ray,28732,475,206,89,14,16.532,0,0,2585,900,Python,false,0,Python,Reinforcement Learning,100.000,60
-opendilab/DI-engine,2964,56,22,10,0,18.893,1,17,872,51,Python,false,32,Python,Reinforcement Learning,40.000,5
-arbox/nlp-with-ruby,1021,5,5,5,1,4.897,0,149,2809,4,Ruby,false,0,Ruby,Natural Language Processing,22.000,0
-louismullie/treat,1365,0,0,0,0,0.000,38,2392,4321,18,Ruby,false,0,Ruby,Natural Language Processing,0.000,0
-aurelian/ruby-stemmer,252,0,0,0,0,0.000,792,560,5509,7,C,true,0,Ruby,Natural Language Processing,0.000,0
-ealdent/uea-stemmer,52,0,0,0,0,0.000,236,1360,5244,2,Ruby,false,0,Ruby,Natural Language Processing,0.000,0
-arbox/machine-learning-with-ruby,1999,6,1,1,0,3.002,5,32,2408,18,Ruby,false,0,Ruby,General-Purpose Machine Learning,18.000,0
-tsycho/ruby-machine-learning,31,0,0,0,0,0.000,1627,4334,4336,1,Ruby,false,0,Ruby,General-Purpose Machine Learning,0.000,0
-vasinov/jruby_mahout,162,0,0,0,0,0.000,1628,2985,4024,3,Ruby,false,0,Ruby,General-Purpose Machine Learning,0.000,0
-cardmagic/classifier,656,1,0,0,0,1.524,18,120,5680,10,Ruby,false,0,Ruby,General-Purpose Machine Learning,2.000,0
-febeling/rb-libsvm,278,0,0,0,0,0.000,104,1175,5366,7,C++,false,0,Ruby,General-Purpose Machine Learning,0.000,0
-asafschers/scoruby,68,0,0,0,0,0.000,630,1402,2567,8,Ruby,false,0,Ruby,General-Purpose Machine Learning,0.000,0
-yoshoku/rumale,715,12,5,3,0,16.783,1,2,2245,7,Ruby,false,0,Ruby,General-Purpose Machine Learning,56.000,2
-alexgutteridge/rsruby,331,0,0,0,0,0.000,202,2494,5490,8,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
-chrislo/data_visualisation_ruby,68,0,0,0,0,0.000,311,5084,5099,1,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
-zuhao/plotrb,41,0,0,0,0,0.000,853,3713,3813,1,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
-delano/scruffy,31,0,0,0,0,0.000,1627,2351,5460,3,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
-glean/glean,114,0,0,0,0,0.000,415,2579,3893,3,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
-kevincobain2000/listof,26,0,0,0,0,0.000,776,2481,3442,1,Ruby,false,0,Ruby,Misc,0.000,0
-smartcorelib/smartcore,584,7,3,1,0,11.986,1,2,1660,18,Rust,false,8,Rust,General-Purpose Machine Learning,52.000,2
-rust-ml/linfa,3063,77,38,22,3,25.139,0,0,2058,40,Rust,false,9,Rust,General-Purpose Machine Learning,100.000,2
-tedsta/deeplearn-rs,207,0,0,0,0,0.000,33,2286,2949,2,Rust,false,3,Rust,General-Purpose Machine Learning,0.000,0
-maciejkula/rustlearn,598,1,0,0,0,1.672,23,1250,2911,8,Rust,false,4,Rust,General-Purpose Machine Learning,2.000,0
-AtheMathmo/rusty-machine,1242,2,2,1,0,1.610,1,1378,2931,20,Rust,true,3,Rust,General-Purpose Machine Learning,0.000,0
-autumnai/leaf,5530,7,4,4,0,1.266,1,2139,2950,14,Rust,false,9,Rust,General-Purpose Machine Learning,12.000,0
-jackm321/RustNN,333,1,1,0,0,3.003,12,3121,3163,2,Rust,false,3,Rust,General-Purpose Machine Learning,5.000,0
-avinashshenoy97/RusticSOM,30,0,0,0,0,0.000,109,1142,2090,5,Rust,false,4,Rust,General-Purpose Machine Learning,0.000,0
-catboost/catboost,7468,65,27,14,1,8.704,0,0,2319,343,Python,false,0,R,General-Purpose Machine Learning,90.000,15
-ecpolley/SuperLearner,253,0,0,0,0,0.000,69,128,4604,8,R,false,0,R,General-Purpose Machine Learning,0.000,0
-apache/incubator-mxnet,20643,56,23,4,1,2.713,0,300,3129,893,C++,true,0,R,General-Purpose Machine Learning,10.000,0
-Azure/Azure-TDSP-Utilities,369,0,0,0,0,0.000,31,1855,2631,10000,HTML,true,0,R,General-Purpose Machine Learning,0.000,0
-sassoftware/enlighten-apply,124,0,0,0,0,0.000,162,1694,3121,8,SAS,false,0,SAS,Demos and Scripts,0.000,0
-sassoftware/enlighten-integration,61,1,1,1,0,16.393,4,1707,3150,9,Java,false,0,SAS,Demos and Scripts,10.000,0
-sassoftware/enlighten-deep,19,0,0,0,0,0.000,1595,1707,3121,8,SAS,false,0,SAS,Demos and Scripts,0.000,0
-sassoftware/dm-flow,55,0,0,0,0,0.000,627,1707,2992,10,,false,0,SAS,Demos and Scripts,0.000,0
-scalanlp/breeze,3418,6,3,2,0,1.755,3,458,5250,115,Scala,false,0,Scala,Natural Language Processing,12.000,0
-scalanlp/chalk,259,0,0,0,0,0.000,520,2488,4008,6,Scala,true,0,Scala,Natural Language Processing,0.000,0
-factorie/factorie,554,0,0,0,0,0.000,227,2165,3803,55,Scala,false,0,Scala,Natural Language Processing,0.000,0
-Workday/upshot-montague,54,0,0,0,0,0.000,198,1404,2802,8,Scala,false,0,Scala,Natural Language Processing,0.000,0
-SciScala/NDScala,47,0,0,0,0,0.000,68,336,1257,3,Scala,false,0,Scala,Data Analysis / Data Visualization,0.000,0
-Hydrospheredata/mist,326,1,0,0,0,3.067,19,1508,2869,24,Scala,false,0,Scala,Data Analysis / Data Visualization,2.000,0
-twitter/scalding,3457,5,2,0,0,1.446,10,179,4335,168,Scala,false,0,Scala,Data Analysis / Data Visualization,7.000,0
-twitter/summingbird,2137,0,0,0,0,0.000,47,673,4075,47,Scala,true,0,Scala,Data Analysis / Data Visualization,0.000,0
-twitter/algebird,2272,2,0,0,0,0.880,18,11,4130,93,Scala,false,0,Scala,Data Analysis / Data Visualization,24.000,1
-xerial/xerial,18,0,0,0,0,0.000,221,2536,4157,2,Scala,false,0,Scala,Data Analysis / Data Visualization,0.000,0
-apache/predictionio,12553,3,1,0,0,0.239,11,1442,3954,159,Scala,true,0,Scala,Data Analysis / Data Visualization,0.000,0
-BIDData/BIDMat,265,0,0,0,0,0.000,163,1009,4053,22,Scala,false,0,Scala,Data Analysis / Data Visualization,0.000,0
-EmergentOrder/onnx-scala,134,0,0,0,0,0.000,50,1,1926,3,Scala,false,0,Scala,General-Purpose Machine Learning,40.000,2
-etsy/Conjecture,360,2,2,2,0,5.556,6,2106,3446,34,Java,true,0,Scala,General-Purpose Machine Learning,0.000,0
-stripe/brushfire,396,0,0,0,0,0.000,106,1933,3290,2464,Scala,true,0,Scala,General-Purpose Machine Learning,0.000,0
-tresata/ganitha,109,0,0,0,0,0.000,1628,3291,3746,7,Scala,true,0,Scala,General-Purpose Machine Learning,0.000,0
-bigdatagenomics/adam,960,2,2,0,0,2.083,11,94,3655,68,Scala,false,0,Scala,General-Purpose Machine Learning,7.000,0
-bioscala/bioscala,105,0,0,0,0,0.000,454,2433,4961,5,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
-BIDData/BIDMach,912,0,0,0,0,0.000,304,1268,4049,24,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
-p2t2/figaro,759,0,0,0,0,0.000,36,540,3753,20,HTML,false,0,Scala,General-Purpose Machine Learning,0.000,0
-h2oai/sparkling-water,957,3,3,1,0,3.135,6,0,3327,275,Scala,false,0,Scala,General-Purpose Machine Learning,62.000,1
-transcendent-ai-labs/DynaML,198,1,0,0,0,5.051,28,952,3202,5,Scala,false,0,Scala,General-Purpose Machine Learning,2.000,0
-CogComp/saul,63,0,0,0,0,0.000,227,1407,2975,39,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
-picnicml/doddle-model,140,0,0,0,0,0.000,47,1336,2113,8,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
-eaplatanios/tensorflow_scala,930,3,2,2,0,3.226,1,518,2427,13,Scala,false,0,Scala,General-Purpose Machine Learning,12.000,0
-cloudkj/layer,558,0,0,0,0,0.000,82,1677,1811,1,Scheme,false,0,Scheme,Neural Networks,0.000,0
-xmartlabs/Bender,1780,1,1,0,0,0.562,10,190,2395,28,Swift,false,0,Swift,General-Purpose Machine Learning,5.000,0
-Swift-AI/Swift-AI,5986,5,1,1,0,0.835,2,2394,2925,18,Swift,false,0,Swift,General-Purpose Machine Learning,12.000,0
-tensorflow/swift,6102,11,5,3,1,1.803,0,1007,2039,77,Jupyter Notebook,true,0,Swift,General-Purpose Machine Learning,0.000,0
-alejandro-isaza/BrainCore,379,1,1,1,0,2.639,2,2448,2963,6,Swift,false,0,Swift,General-Purpose Machine Learning,10.000,0
-stsievert/swix,593,1,1,0,0,1.686,8,1283,3452,5,C++,true,0,Swift,General-Purpose Machine Learning,0.000,0
-KevinCoble/AIToolbox,789,1,0,0,0,1.267,27,1283,2796,3,Swift,false,0,Swift,General-Purpose Machine Learning,2.000,0
-Somnibyte/MLKit,151,0,0,0,0,0.000,182,2277,2703,2,Swift,false,0,Swift,General-Purpose Machine Learning,0.000,0
-vlall/Swift-Brain,331,0,0,0,0,0.000,140,2375,3455,3,Swift,false,0,Swift,General-Purpose Machine Learning,0.000,0
-PerfectlySoft/Perfect-TensorFlow,168,0,0,0,0,0.000,111,1234,2353,4,Swift,false,0,Swift,General-Purpose Machine Learning,0.000,0
-denissimon/prediction-builder-swift,11,0,0,0,0,0.000,279,21,2503,1,Swift,false,0,Swift,General-Purpose Machine Learning,10.000,1
-SwiftBrain/awesome-CoreML-models,553,0,0,0,0,0.000,47,2055,2359,4,,false,0,Swift,General-Purpose Machine Learning,0.000,0
-likedan/Awesome-CoreML-Models,6021,34,14,7,1,5.647,0,153,2284,14,Python,false,0,Swift,General-Purpose Machine Learning,35.000,0
-markusschanta/awesome-keras,15,2,2,0,0,133.333,10,394,445,1,,false,0,TensorFlow,General-Purpose Machine Learning,7.000,0
-jtoy/awesome-tensorflow,17050,58,44,13,0,3.402,1,322,2826,85,,false,0,TensorFlow,General-Purpose Machine Learning,40.000,0
-cloudkj/layer,558,0,0,0,0,0.000,82,1677,1811,1,Scheme,false,0,Tools,Neural Networks,0.000,0
-neuml/txtai,5466,221,111,31,5,40.432,0,1,1201,11,Python,false,0,Tools,Misc,100.000,1
-ml-tooling/ml-workspace,3203,32,19,6,3,9.991,0,9,1641,10,Jupyter Notebook,false,0,Tools,Misc,55.000,1
-rlan/notebooks,30,0,0,0,0,0.000,183,9,2057,1,Dockerfile,false,0,Tools,Misc,20.000,1
-iterative/dvc,12428,332,57,32,7,26.714,0,0,2455,284,Python,false,0,Tools,Misc,100.000,7
-iterative/dvclive,138,6,4,3,0,43.478,1,1,1115,58,Python,false,0,Tools,Misc,52.000,4
-instill-ai/vdp,1188,233,67,26,2,196.128,0,1,679,22,JavaScript,false,0,Tools,Misc,100.000,8
-IDSIA/sacred,4114,18,7,3,0,4.375,1,10,3524,100,Python,false,7,Tools,Misc,41.000,2
-BayesWitnesses/m2cgen,2655,25,11,7,1,9.416,0,414,1775,12,Python,false,0,Tools,Misc,35.000,0
-iterative/cml,3846,21,10,5,0,5.460,1,44,1366,63,JavaScript,false,52,Tools,Misc,31.000,0
-iterative/mlem,704,3,1,1,0,4.261,3,71,784,51,Python,true,0,Tools,Misc,0.000,0
-matifali/dockerdl,52,5,4,2,0,96.154,4,16,435,2,Dockerfile,false,0,Tools,Misc,22.000,1
-aqueducthq/aqueduct,511,3,0,0,0,5.871,20,169,545,14,Go,false,0,Tools,Misc,4.000,0
-reactorsh/ambrosia,102,1,0,0,0,9.804,23,177,177,1,Go,false,6,Tools,Misc,2.000,0
+mattcunningham/naive-apl,23,0,0,0,0,0.000,126,2739,2994,1,APL,false,0,APL,General-Purpose Machine Learning,0.000,0
+pjreddie/darknet,24819,130,61,33,4,5.238,0,494,3514,8,C,false,0,C,General-Purpose Machine Learning,60.000,0
+GHamrouni/Recommender,260,0,0,0,0,0.000,55,493,4342,3,C,false,0,C,General-Purpose Machine Learning,0.000,0
+SeniorSA/hybrid-rs-trainner,12,0,0,0,0,0.000,342,2566,2569,4,Python,false,7,C,General-Purpose Machine Learning,0.000,0
+siavashserver/neonrvm,36,1,1,1,0,27.778,4,1188,2106,1,C,true,0,C,General-Purpose Machine Learning,0.000,0
+alrevuelta/cONNXr,163,6,3,1,0,36.810,5,988,1511,8,C,false,0,C,General-Purpose Machine Learning,12.000,0
+xboot/libonnx,524,9,3,2,0,17.176,1,560,1136,3,C,false,0,C,General-Purpose Machine Learning,12.000,0
+liuliu/ccv,7009,8,5,2,0,1.141,2,14,4818,14,C,false,0,C,Computer Vision,22.000,1
+ukoethe/vigra,392,0,0,0,0,0.000,45,11,4524,62,C++,false,0,C++,Computer Vision,20.000,5
+CMU-Perceptual-Computing-Lab/openpose,28652,267,124,60,8,9.319,0,132,2405,106,C++,false,0,C++,Computer Vision,62.000,0
+jkomiyama/banditlib,135,1,0,0,0,7.407,29,15,3545,3,C++,false,0,C++,General-Purpose Machine Learning,12.000,1
+BVLC/caffe,33659,66,29,15,3,1.961,0,1380,3725,275,C++,false,0,C++,General-Purpose Machine Learning,40.000,0
+catboost/catboost,7471,68,30,14,4,9.102,0,0,2320,344,Python,false,0,C++,General-Purpose Machine Learning,90.000,17
+Microsoft/CNTK,17413,15,7,3,0,0.861,1,427,2920,231,C++,false,0,C++,General-Purpose Machine Learning,21.000,0
+jolibrain/deepdetect,2487,5,3,1,0,2.010,2,0,3108,24,C++,false,0,C++,General-Purpose Machine Learning,62.000,1
+amznlabs/amazon-dsstne,4417,1,1,0,0,0.226,10,1373,2801,44,C++,true,0,C++,General-Purpose Machine Learning,0.000,0
+clab/dynet,3398,7,2,1,0,2.060,1,16,3210,138,C++,false,0,C++,General-Purpose Machine Learning,22.000,1
+FidoProject/Fido,424,1,0,0,0,2.358,22,2196,3031,6,C++,false,0,C++,General-Purpose Machine Learning,2.000,0
+oneapi-src/oneDAL,577,3,1,1,0,5.199,2,0,2796,97,C++,false,0,C++,General-Purpose Machine Learning,62.000,11
+Microsoft/LightGBM,15663,126,51,20,2,8.044,0,1,2667,295,C++,false,0,C++,General-Purpose Machine Learning,100.000,3
+srendle/libfm,1480,4,2,1,0,2.703,6,2099,3357,6,C++,false,0,C++,General-Purpose Machine Learning,12.000,0
+apache/incubator-mxnet,20642,52,21,4,1,2.519,0,301,3130,893,C++,true,0,C++,General-Purpose Machine Learning,10.000,0
+CEA-LIST/N2D2,140,1,1,0,0,7.143,9,39,2513,16,C,false,0,C++,General-Purpose Machine Learning,11.000,0
+oneapi-src/oneDNN,3298,26,10,5,1,7.884,0,0,2754,264,C++,false,0,C++,General-Purpose Machine Learning,85.000,41
+cdslaborg/paramonte,219,5,4,3,2,22.831,0,864,1388,8,Fortran,false,0,C++,General-Purpose Machine Learning,22.000,0
+cnclabs/proNet-core,3,0,0,0,0,0.000,738,1654,1654,3,,false,0,C++,General-Purpose Machine Learning,0.000,0
+pycaret/pycaret,7944,120,51,26,2,15.106,0,5,1462,118,Jupyter Notebook,false,0,C++,General-Purpose Machine Learning,90.000,6
+shogun-toolbox/shogun,2975,4,2,2,0,1.345,1,1081,4620,180,C++,false,0,C++,General-Purpose Machine Learning,12.000,0
+VowpalWabbit/vowpal_wabbit,8323,30,19,11,2,3.604,0,7,5229,224,C++,false,0,C++,General-Purpose Machine Learning,55.000,1
+baidu-research/warp-ctc,4053,6,4,2,0,1.480,1,323,2871,30,Cuda,false,0,C++,General-Purpose Machine Learning,12.000,0
+dmlc/xgboost,25018,150,73,32,4,5.996,0,2,3578,608,C++,false,0,C++,General-Purpose Machine Learning,100.000,8
+Xtra-Computing/thundergbm,677,3,1,1,0,4.431,3,59,2569,10,C++,false,0,C++,General-Purpose Machine Learning,18.000,0
+Xtra-Computing/thundersvm,1508,8,2,1,1,5.305,0,70,3270,26,C++,false,0,C++,General-Purpose Machine Learning,22.000,0
+mosdeo/LKYDeepNN,48,1,1,0,0,20.833,12,1048,2519,1,C++,false,0,C++,General-Purpose Machine Learning,5.000,0
+aksnzhy/xlearn,3071,4,0,0,0,1.303,15,537,2358,25,C++,false,0,C++,General-Purpose Machine Learning,4.000,0
+featuretools/featuretools,6875,51,25,12,1,7.418,0,29,2267,87,Python,false,0,C++,General-Purpose Machine Learning,50.000,1
+Tyill/skynet,63,1,0,0,0,15.873,26,831,1929,1,C++,false,0,C++,General-Purpose Machine Learning,2.000,0
+gojek/feast,4929,68,40,27,8,13.796,0,6,1810,209,Python,false,0,C++,General-Purpose Machine Learning,82.000,4
+logicalclocks/hopsworks,1006,16,7,4,1,15.905,0,0,1947,39,Java,false,0,C++,General-Purpose Machine Learning,81.000,6
+polyaxon/polyaxon,3412,18,10,4,0,5.275,1,4,2524,90,,false,0,C++,General-Purpose Machine Learning,51.000,1
+BLLIP/bllip-parser,224,1,1,0,0,4.464,10,747,4653,4,GAP,false,0,C++,Natural Language Processing,5.000,0
+proycon/colibri-core,122,0,0,0,0,0.000,187,8,3716,5,C++,false,0,C++,Natural Language Processing,20.000,1
+LanguageMachines/frog,73,1,1,1,0,13.699,6,10,3459,21,C++,false,0,C++,Natural Language Processing,30.000,1
+LanguageMachines/libfolia,14,0,0,0,0,0.000,771,11,3895,19,C++,false,0,C++,Natural Language Processing,20.000,1
+meta-toolkit/meta,675,2,1,0,0,2.963,8,2287,3581,9,C++,false,0,C++,Natural Language Processing,7.000,0
+mit-nlp/MITIE,2879,7,1,1,1,2.431,0,449,3523,24,C++,false,0,C++,Natural Language Processing,22.000,0
+LanguageMachines/ucto,60,0,0,0,0,0.000,214,10,3895,21,C++,false,0,C++,Natural Language Processing,20.000,1
+kaldi-asr/kaldi,13289,103,44,26,2,7.751,0,11,3140,419,Shell,false,0,C++,Speech Recognition,70.000,7
+ayoshiaki/tops,34,0,0,0,0,0.000,213,44,3419,7,HTML,false,0,C++,Sequence Analysis,6.000,0
+nickgillian/grt,836,8,3,2,1,9.569,0,1633,3612,18,C++,false,0,C++,Gesture Detection,22.000,0
+masatoi/cl-online-learning,47,0,0,0,0,0.000,36,614,3104,2,Common Lisp,false,0,Common Lisp,General-Purpose Machine Learning,0.000,0
+masatoi/cl-random-forest,58,0,0,0,0,0.000,88,485,2466,3,Common Lisp,false,0,Common Lisp,General-Purpose Machine Learning,0.000,0
+dakrone/clojure-opennlp,744,1,1,1,0,1.344,3,1900,5028,18,Clojure,false,0,Clojure,Natural Language Processing,10.000,0
+r0man/inflections-clj,208,1,0,0,0,4.808,25,526,5035,9,Clojure,false,0,Clojure,Natural Language Processing,2.000,0
+scicloj/scicloj.ml,187,1,1,0,0,5.348,12,67,981,19,Clojure,false,0,Clojure,General-Purpose Machine Learning,5.000,0
+ptaoussanis/touchstone,135,0,0,0,0,0.000,180,59,4041,2,Clojure,false,0,Clojure,General-Purpose Machine Learning,6.000,0
+lspector/Clojush,326,0,0,0,0,0.000,79,202,4968,19,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+cloudkj/lambda-ml,76,0,0,0,0,0.000,95,1847,3031,1,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+aria42/infer,176,0,0,0,0,0.000,822,4835,4844,4,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+jimpil/enclog,136,0,0,0,0,0.000,305,2760,4098,1,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+vollmerm/fungp,100,0,0,0,0,0.000,950,3476,4196,1,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+clojurewerkz/statistiker,63,0,0,0,0,0.000,554,3063,3538,5,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+htm-community/clortex,181,0,0,0,0,0.000,317,3184,3599,9,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+htm-community/comportex,153,0,0,0,0,0.000,45,2618,3527,11,Clojure,false,0,Clojure,General-Purpose Machine Learning,0.000,0
+uncomplicate/deep-diamond,404,0,0,0,0,0.000,36,1,1727,1,Clojure,false,0,Clojure,Deep Learning,40.000,1
+hswick/jutsu.ai,98,0,0,0,0,0.000,158,1995,2297,4,Clojure,false,0,Clojure,Deep Learning,0.000,0
+originrose/cortex,1267,0,0,0,0,0.000,63,2152,2614,25,Clojure,false,0,Clojure,Deep Learning,0.000,0
+aria42/flare,283,0,0,0,0,0.000,49,1610,2280,2,Clojure,false,0,Clojure,Deep Learning,0.000,0
+yetanalytics/dl4clj,99,0,0,0,0,0.000,774,1956,2839,8,Clojure,false,0,Clojure,Deep Learning,0.000,0
+techascent/tech.ml.dataset,598,9,3,1,0,15.050,4,12,1744,20,Clojure,false,0,Clojure,Data Analysis,32.000,2
+scicloj/tablecloth,245,8,2,0,0,32.653,8,30,1257,22,Clojure,false,0,Clojure,Data Analysis,13.000,0
+alanmarazzi/panthera,186,1,0,0,0,5.376,21,1300,1618,3,Clojure,false,0,Clojure,Data Analysis,2.000,0
+Netflix/PigPen,551,0,0,0,0,0.000,100,2376,3633,611,Clojure,false,0,Clojure,Data Analysis,0.000,0
+zero-one-group/geni,268,1,1,1,0,3.731,4,2,1315,17,Clojure,false,0,Clojure,Data Analysis,50.000,3
+jsa-aerial/saite,129,1,0,0,0,7.752,15,10,1906,2,Clojure,false,0,Clojure,Data Visualization,22.000,1
+metasoarous/oz,813,2,0,0,0,2.460,16,475,2111,25,Clojure,false,0,Clojure,Data Visualization,4.000,0
+clojurewerkz/envision,78,0,0,0,0,0.000,694,2110,3518,2,Clojure,false,0,Clojure,Data Visualization,0.000,0
+pink-gorilla/gorilla-notebook,103,0,0,0,0,0.000,132,880,2508,13,Clojure,false,0,Clojure,Data Visualization,0.000,0
+clojupyter/clojupyter,797,6,3,3,1,7.528,0,383,3486,26,Clojure,false,0,Clojure,Data Visualization,22.000,0
+scicloj/notespace,144,1,1,1,0,6.944,1,579,1469,21,Clojure,false,0,Clojure,Data Visualization,10.000,0
+datamechanics/delight,327,2,1,0,0,6.116,12,260,1124,6,Scala,false,0,Clojure,Data Visualization,7.000,0
+clj-python/libpython-clj,978,6,5,3,1,6.135,0,19,1653,24,Clojure,false,0,Clojure,Interop,32.000,1
+scicloj/clojisr,137,0,0,0,0,0.000,59,331,1626,20,HTML,false,0,Clojure,Interop,0.000,0
+MastodonC/kixi.stats,343,2,0,0,0,5.831,21,102,2907,9,Clojure,false,0,Clojure,Misc,4.000,0
+generateme/fastmath,200,1,0,0,0,5.000,26,34,2088,6,Clojure,false,0,Clojure,Misc,8.000,0
+atisharma/matlib,24,0,0,0,0,0.000,100,1155,1250,1,Clojure,false,0,Clojure,Misc,0.000,0
+mathieulaporte/machine,43,0,0,0,0,0.000,247,2311,2726,1,Crystal,false,0,Crystal,General-Purpose Machine Learning,0.000,0
+NeuraLegion/crystal-fann,79,0,0,0,0,0.000,395,726,2338,10,Crystal,false,0,Crystal,General-Purpose Machine Learning,0.000,0
+fredwu/simple_bayes,389,0,0,0,0,0.000,83,2308,2689,3,Elixir,false,0,Elixir,General-Purpose Machine Learning,0.000,0
+mrdimosthenis/emel,94,0,0,0,0,0.000,268,476,1840,1,Gleam,false,0,Elixir,General-Purpose Machine Learning,0.000,0
+anshuman23/tensorflex,305,0,0,0,0,0.000,169,1606,2133,5,C,false,0,Elixir,General-Purpose Machine Learning,0.000,0
+fredwu/stemmer,148,1,1,1,0,6.757,2,684,2685,2,Elixir,false,0,Elixir,Natural Language Processing,10.000,0
+modern-fortran/neural-fortran,335,8,7,6,2,23.881,0,87,1943,13,Fortran,false,0,Fortran,General-Purpose Machine Learning,27.000,0
+cdslaborg/paramonte,219,5,4,3,2,22.831,0,864,1388,8,Fortran,false,0,Fortran,Data Analysis / Data Visualization,22.000,0
+nlpodyssey/cybertron,219,25,8,5,0,114.155,1,16,521,8,Go,false,17,Go,Natural Language Processing,35.000,4
+tebeka/snowball,42,3,1,0,0,71.429,11,46,4007,1,C,false,1,Go,Natural Language Processing,13.000,0
+ynqa/word-embedding,432,3,1,0,0,6.944,13,236,2489,7,Go,false,6,Go,Natural Language Processing,7.000,0
+neurosnap/sentences,394,5,4,2,1,12.690,0,13,3031,8,Go,false,0,Go,Natural Language Processing,42.000,1
+Lazin/go-ngram,110,0,0,0,0,0.000,168,2737,3506,5,Go,false,0,Go,Natural Language Processing,0.000,0
+Rookii/paicehusk,29,0,0,0,0,0.000,124,3810,4073,1,Go,false,0,Go,Natural Language Processing,0.000,0
+reiver/go-porterstemmer,190,0,0,0,0,0.000,124,2782,3827,5,Go,false,0,Go,Natural Language Processing,0.000,0
+nlpodyssey/spago,1659,70,36,10,3,42.194,0,23,1419,12,Go,false,2,Go,General-Purpose Machine Learning,60.000,1
+rlouf/birdland,42,0,0,0,0,0.000,97,1549,1808,2,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
+MaxHalford/eaopt,858,3,2,1,0,3.497,4,963,2854,16,Go,false,1,Go,General-Purpose Machine Learning,12.000,0
+dmitryikh/leaves,392,2,1,1,0,5.102,6,139,1896,6,Go,false,0,Go,General-Purpose Machine Learning,12.000,0
+goml/gobrain,544,2,1,1,1,3.676,0,1077,3496,6,Go,false,0,Go,General-Purpose Machine Learning,22.000,0
+nikolaydubina/go-featureprocessing,101,1,1,0,0,9.901,12,156,1071,2,Go,false,3,Go,General-Purpose Machine Learning,5.000,0
+songtianyi/go-mxnet-predictor,54,0,0,0,0,0.000,834,1997,2538,4,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
+nikolaydubina/go-ml-benchmarks,29,0,0,0,0,0.000,51,400,1018,1,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
+sjwhitworth/golearn,9058,18,12,6,2,1.987,0,331,3620,62,Go,false,5,Go,General-Purpose Machine Learning,31.000,0
+cdipaolo/goml,1513,10,8,3,1,6.609,0,497,3072,8,Go,false,2,Go,General-Purpose Machine Learning,27.000,0
+gorgonia/gorgonia,5172,32,18,12,2,6.187,0,42,2626,52,Go,false,16,Go,General-Purpose Machine Learning,41.000,0
+aunum/goro,364,3,2,1,0,8.242,2,1028,1335,2,Go,false,7,Go,General-Purpose Machine Learning,12.000,0
+zhenghaoz/gorse,7708,58,32,15,5,7.525,0,48,1928,38,Go,false,72,Go,General-Purpose Machine Learning,56.000,0
+therfoo/therfoo,18,0,0,0,0,0.000,463,548,1765,1,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
+jinyeom/neat,68,0,0,0,0,0.000,77,2016,2563,1,Go,true,0,Go,General-Purpose Machine Learning,0.000,0
+daviddengcn/go-pr,62,0,0,0,0,0.000,423,3821,3822,1,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
+alonsovidales/go_ml,202,1,0,0,0,4.950,19,3472,3645,1,Go,false,0,Go,General-Purpose Machine Learning,2.000,0
+fxsjy/gonn,355,2,2,2,1,5.634,0,2856,4051,3,Go,false,0,Go,General-Purpose Machine Learning,22.000,0
+jbrukh/bayesian,776,4,2,1,0,5.155,2,7,4384,12,Go,false,0,Go,General-Purpose Machine Learning,32.000,1
+thoj/go-galib,195,0,0,0,0,0.000,91,2888,5107,5,Go,false,0,Go,General-Purpose Machine Learning,0.000,0
+ryanbressler/CloudForest,729,1,1,1,0,1.372,6,657,4050,5,Go,false,0,Go,General-Purpose Machine Learning,10.000,0
+sudachen/go-dnn,5,0,0,0,0,0.000,1425,1307,1562,1,Go,true,3,Go,General-Purpose Machine Learning,0.000,0
+twpayne/go-geom,726,11,6,6,0,15.152,2,25,3550,19,Go,false,5,Go,Spatial analysis and geometry,31.000,2
+golang/geo,1592,18,11,9,2,11.307,0,217,3277,16,Go,false,0,Go,Spatial analysis and geometry,31.000,0
+rocketlaunchr/dataframe-go,1065,15,8,4,1,14.085,0,760,1880,5,Go,false,24,Go,Data Analysis / Data Visualization,31.000,0
+go-gota/gota,2790,27,15,11,1,9.677,0,775,2848,26,Go,false,2,Go,Data Analysis / Data Visualization,35.000,0
+ajstarks/svgo,2053,6,2,2,0,2.923,1,760,5011,2,Go,false,2,Go,Data Analysis / Data Visualization,12.000,0
+arafatk/glot,382,2,1,0,0,5.236,13,213,2288,4,Go,false,0,Go,Data Analysis / Data Visualization,7.000,0
+mmcloughlin/globe,1582,3,1,1,0,1.896,3,90,2335,1,Go,false,2,Go,Data Analysis / Data Visualization,12.000,0
+StepLg/go-graph,96,0,0,0,0,0.000,173,2939,4946,2,Go,false,0,Go,Data Analysis / Data Visualization,0.000,0
+fxsjy/RF.go,114,0,0,0,0,0.000,89,3424,4028,3,Go,false,0,Go,Data Analysis / Data Visualization,0.000,0
+hybridgroup/gocv,5889,68,41,21,3,11.547,0,43,2257,130,Go,false,2,Go,Computer vision,56.000,0
+aunum/gold,323,2,1,1,0,6.192,4,1128,1441,1,Go,false,17,Go,Reinforcement learning,12.000,0
+ajtulloch/haskell-ml,56,0,0,0,0,0.000,300,3466,3695,2,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
+mikeizbicki/HLearn,1616,2,1,0,0,1.238,6,2735,4146,12,Haskell,false,0,Haskell,General-Purpose Machine Learning,7.000,0
+alpmestan/HNN,112,0,0,0,0,0.000,354,2445,4062,7,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
+ajtulloch/hopfield-networks,16,0,0,0,0,0.000,1354,3512,3656,2,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
+ajtulloch/dnngraph,697,0,0,0,0,0.000,34,2985,3204,4,Haskell,false,0,Haskell,General-Purpose Machine Learning,0.000,0
+jbarrow/LambdaNet,375,1,0,0,0,2.667,25,2800,3297,10,Haskell,false,0,Haskell,General-Purpose Machine Learning,2.000,0
+ClearTK/cleartk,131,0,0,0,0,0.000,68,288,3153,8,Java,false,0,Java,Natural Language Processing,0.000,0
+emorynlp/nlp4j,149,0,0,0,0,0.000,68,2613,2682,7,Java,false,0,Java,Natural Language Processing,0.000,0
+CogComp/cogcomp-nlp,467,0,0,0,0,0.000,47,507,2959,52,Java,false,0,Java,Natural Language Processing,0.000,0
+airbnb/aerosolve,4801,3,1,0,0,0.625,7,1816,3118,55,Scala,false,0,Java,General-Purpose Machine Learning,7.000,0
+cicirello/Chips-n-Salsa,47,1,0,0,0,21.277,18,17,1255,2,Java,false,0,Java,General-Purpose Machine Learning,12.000,2
+datumbox/datumbox-framework,1088,1,0,0,0,0.919,23,1136,3324,2,Java,false,0,Java,General-Purpose Machine Learning,2.000,0
+encog/encog-java-core,744,1,0,0,0,1.344,18,1787,4537,31,Java,false,0,Java,General-Purpose Machine Learning,2.000,0
+h2oai/h2o-3,6558,55,26,10,2,8.387,0,0,3553,369,Jupyter Notebook,false,0,Java,General-Purpose Machine Learning,90.000,8
+numenta/htm.java,307,0,0,0,0,0.000,50,799,3393,67,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
+bwaldvogel/liblinear-java,307,0,0,0,0,0.000,39,551,5513,9,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
+apache/mahout,2100,6,2,1,0,2.857,2,24,3472,58,Java,false,0,Java,General-Purpose Machine Learning,22.000,2
+Hydrospheredata/mist,325,1,0,0,0,3.077,20,1509,2870,24,Scala,false,0,Java,General-Purpose Machine Learning,2.000,0
+oryxproject/oryx,1792,2,1,1,0,1.116,4,863,3409,14,Java,true,0,Java,General-Purpose Machine Learning,0.000,0
+padreati/rapaio,64,0,0,0,0,0.000,199,2,3731,12,Java,false,0,Java,General-Purpose Machine Learning,40.000,1
+apache/systemml,988,1,1,0,0,1.012,9,14,2936,189,Java,false,0,Java,General-Purpose Machine Learning,15.000,4
+CogComp/lbjava,13,0,0,0,0,0.000,286,2237,2929,35,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
+felipexw/knn-java-library,5,0,0,0,0,0.000,165,2641,2643,1,Java,false,0,Java,General-Purpose Machine Learning,0.000,0
+apache/hadoop,13989,89,45,26,3,6.362,0,0,3375,590,Java,false,0,Java,Data Analysis / Data Visualization,100.000,24
+onyx-platform/onyx,2046,2,1,0,0,0.978,12,1546,3644,58,Clojure,true,0,Java,Data Analysis / Data Visualization,0.000,0
+apache/spark,37245,226,105,50,7,6.068,0,0,3559,2034,Scala,false,0,Java,Data Analysis / Data Visualization,100.000,70
+cloudera/impala,30,1,1,1,1,33.333,0,1612,4054,118,C++,false,0,Java,Data Analysis / Data Visualization,20.000,0
+deeplearning4j/deeplearning4j,13238,51,20,11,2,3.853,0,2,3649,67,Java,false,0,Java,Deep Learning,75.000,1
+deepjavalibrary/djl,3587,39,19,13,2,10.873,0,1,1486,101,Java,false,0,Java,Deep Learning,75.000,5
+twitter/twitter-text,3032,7,1,0,0,2.309,10,764,3278,66,HTML,false,0,JavaScript,Natural Language Processing,7.000,0
+NaturalNode/natural,10364,43,23,11,3,4.149,0,0,4584,138,JavaScript,false,26,JavaScript,Natural Language Processing,90.000,2
+loadfive/Knwl.js,5297,0,0,0,0,0.000,61,57,3645,24,JavaScript,false,4,JavaScript,Natural Language Processing,6.000,0
+retextjs/retext,2297,6,1,0,0,2.612,11,73,3460,17,JavaScript,false,12,JavaScript,Natural Language Processing,7.000,0
+spencermountain/compromise,10944,47,28,15,0,4.295,1,7,4525,102,JavaScript,false,15,JavaScript,Natural Language Processing,50.000,1
+axa-group/nlp.js,5902,37,11,4,1,6.269,0,183,1943,65,JavaScript,false,12,JavaScript,Natural Language Processing,35.000,0
+NathanEpstein/D3xter,342,0,0,0,0,0.000,178,2694,3315,2,JavaScript,false,0,JavaScript,Data Analysis / Data Visualization,0.000,0
+rigtorp/statkit,51,0,0,0,0,0.000,91,3278,3438,1,JavaScript,false,1,JavaScript,Data Analysis / Data Visualization,0.000,0
+nathanepstein/datakit,292,0,0,0,0,0.000,50,2420,3188,2,JavaScript,false,1,JavaScript,Data Analysis / Data Visualization,0.000,0
+NathanEpstein/Z3d,89,0,0,0,0,0.000,219,3241,3284,1,JavaScript,false,0,JavaScript,Data Analysis / Data Visualization,0.000,0
+ClimbsRocks/auto_ml,1629,6,4,3,0,3.683,3,2070,2664,12,Python,false,11,JavaScript,General-Purpose Machine Learning,12.000,0
+emilbayes/clustering.js,30,0,0,0,0,0.000,245,3416,3799,1,JavaScript,false,6,JavaScript,General-Purpose Machine Learning,0.000,0
+serendipious/nodejs-decision-tree-id3,209,3,3,1,1,14.354,0,398,3862,6,JavaScript,false,2,JavaScript,General-Purpose Machine Learning,22.000,0
+antoniodeluca/dn2a.js,459,0,0,0,0,0.000,203,203,2729,2,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+lukapopijac/gaussian-mixture-model,26,0,0,0,0,0.000,413,68,2413,1,JavaScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+rlidwka/node-fann,185,0,0,0,0,0.000,89,3121,4418,7,C++,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+transcranial/keras-js,4952,4,3,3,1,0.808,0,1926,2611,10,JavaScript,false,44,JavaScript,General-Purpose Machine Learning,22.000,0
+emilbayes/kMeans.js,44,0,0,0,0,0.000,223,3769,3895,1,CoffeeScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+primaryobjects/lda,284,1,0,0,0,3.521,29,312,3468,5,JavaScript,false,1,JavaScript,General-Purpose Machine Learning,2.000,0
+yandongliu/learningjs,65,0,0,0,0,0.000,675,1653,3517,2,JavaScript,false,2,JavaScript,General-Purpose Machine Learning,0.000,0
+machinelearnjs/machinelearnjs,533,1,0,0,0,1.876,27,1574,2035,9,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,2.000,0
+nicolaspanel/node-svm,296,0,0,0,0,0.000,166,1904,3531,7,JavaScript,false,31,JavaScript,General-Purpose Machine Learning,0.000,0
+harthur/brain,8002,3,1,1,0,0.375,3,2098,4946,17,JavaScript,true,8,JavaScript,General-Purpose Machine Learning,0.000,0
+BrainJS/brain.js,14022,55,27,13,3,3.922,0,214,2841,99,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,40.000,0
+omphalos/bayesian-bandit.js,44,0,0,0,0,0.000,563,2734,3756,2,JavaScript,false,1,JavaScript,General-Purpose Machine Learning,0.000,0
+cazala/synaptic,6914,3,1,1,0,0.434,6,1744,3342,36,JavaScript,false,19,JavaScript,General-Purpose Machine Learning,12.000,0
+NathanEpstein/kNear,46,0,0,0,0,0.000,153,2201,3292,2,JavaScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+totemstech/neuraln,274,0,0,0,0,0.000,73,3279,3355,6,C++,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+itamarwe/kalman,113,0,0,0,0,0.000,547,3002,4067,1,JavaScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+luccastera/shaman,107,0,0,0,0,0.000,1001,2850,3323,1,JavaScript,false,8,JavaScript,General-Purpose Machine Learning,0.000,0
+mljs/ml,2399,6,3,1,0,2.501,5,625,3315,27,JavaScript,false,61,JavaScript,General-Purpose Machine Learning,12.000,0
+ml5js/ml5-library,6230,15,9,7,0,2.408,1,149,2243,97,JavaScript,false,66,JavaScript,General-Purpose Machine Learning,21.000,0
+NathanEpstein/Pavlov.js,501,1,1,1,0,1.996,1,2420,3120,1,C++,false,0,JavaScript,General-Purpose Machine Learning,10.000,0
+apache/incubator-mxnet,20642,52,21,4,1,2.519,0,301,3130,893,C++,true,0,JavaScript,General-Purpose Machine Learning,10.000,0
+jsmlt/jsmlt,25,0,0,0,0,0.000,198,1485,2412,1,JavaScript,false,33,JavaScript,General-Purpose Machine Learning,0.000,0
+nuanio/xgboost-node,35,0,0,0,0,0.000,65,2216,2267,2,Cuda,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+lutzroeder/netron,24559,327,155,83,9,13.315,0,0,4716,1,JavaScript,false,5,JavaScript,General-Purpose Machine Learning,100.000,1
+Hoff97/tensorjs,33,0,0,0,0,0.000,227,965,1059,1,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,0.000,0
+mil-tokyo/webdnn,1964,3,1,0,0,1.527,8,401,2423,18,TypeScript,false,0,JavaScript,General-Purpose Machine Learning,7.000,0
+stdlib-js/stdlib,3517,34,19,8,1,9.667,0,0,2801,38,JavaScript,false,188,JavaScript,Misc,85.000,6
+jcoglan/sylvester,1139,1,0,0,0,0.878,14,3105,5620,2,JavaScript,false,2,JavaScript,Misc,2.000,0
+simple-statistics/simple-statistics,3281,9,6,2,0,2.743,1,136,4307,48,JavaScript,false,13,JavaScript,Misc,17.000,0
+Tom-Alexander/regression-js,918,3,3,1,0,3.268,2,2175,3975,11,JavaScript,false,12,JavaScript,Misc,12.000,0
+flurry/Lyric,43,0,0,0,0,0.000,1067,3711,4215,21,JavaScript,true,0,JavaScript,Misc,0.000,0
+mwgg/GreatCircle,77,0,0,0,0,0.000,37,614,3291,5,PHP,false,0,JavaScript,Misc,0.000,0
+jgreenemi/MLPleaseHelp,5,0,0,0,0,0.000,1310,1766,2125,4,JavaScript,false,0,JavaScript,Misc,0.000,0
+alibaba/pipcook,2475,11,7,2,1,4.444,0,86,1450,42,TypeScript,false,0,JavaScript,Misc,31.000,0
+sta-ger/TheBot,5,0,0,0,0,0.000,1023,1969,1977,1,JavaScript,false,4,JavaScript,Demos and Scripts,0.000,0
+sta-ger/HalfBeer,7,0,0,0,0,0.000,283,1977,1977,1,JavaScript,false,4,JavaScript,Demos and Scripts,0.000,0
+benhamner/MachineLearning.jl,116,0,0,0,0,0.000,31,2994,3687,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+JuliaStats/MLBase.jl,185,1,0,0,0,5.405,27,99,3939,34,Julia,false,0,Julia,General-Purpose Machine Learning,2.000,0
+JuliaStats/PGM.jl,52,0,0,0,0,0.000,36,2272,3536,21,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+trthatcher/DiscriminantAnalysis.jl,9,0,0,0,0,0.000,686,1048,3699,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+lindahua/Regression.jl,62,0,0,0,0,0.000,131,2951,3795,5,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+JuliaStats/Loess.jl,93,1,1,0,0,10.753,10,71,3723,44,Julia,false,0,Julia,General-Purpose Machine Learning,5.000,0
+nutsiepully/NaiveBayes.jl,8,0,0,0,0,0.000,1470,3825,3825,1,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+dmbates/MixedModels.jl,383,2,2,0,0,5.222,9,21,3891,35,Julia,false,0,Julia,General-Purpose Machine Learning,17.000,1
+fredo-dedup/SimpleMCMC.jl,12,0,0,0,0,0.000,1487,3798,4020,1,Julia,true,0,Julia,General-Purpose Machine Learning,0.000,0
+JuliaStats/Distances.jl,398,2,0,0,0,5.025,14,49,3377,51,Julia,false,0,Julia,General-Purpose Machine Learning,10.000,0
+bensadeghi/DecisionTree.jl,7,0,0,0,0,0.000,319,568,571,1,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+compressed/BackpropNeuralNet.jl,47,0,0,0,0,0.000,459,2376,4071,6,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+doobwa/MCMC.jl,35,0,0,0,0,0.000,411,3873,4177,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+brian-j-smith/Mamba.jl,254,0,0,0,0,0.000,76,1185,3449,12,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+JuliaStats/GLM.jl,554,0,0,0,0,0.000,37,71,4195,59,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+STOR-i/GaussianProcesses.jl,301,2,1,1,0,6.645,1,263,3130,26,Jupyter Notebook,false,0,Julia,General-Purpose Machine Learning,12.000,0
+simonster/GLMNet.jl,95,0,0,0,0,0.000,36,171,3657,28,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+JuliaStats/Clustering.jl,328,4,1,1,1,12.195,0,47,4017,59,Julia,false,0,Julia,General-Purpose Machine Learning,28.000,0
+JuliaStats/SVM.jl,41,0,0,0,0,0.000,36,2677,3964,24,Julia,true,0,Julia,General-Purpose Machine Learning,0.000,0
+JuliaStats/KernelDensity.jl,159,1,0,0,0,6.289,18,206,3512,38,Julia,false,0,Julia,General-Purpose Machine Learning,2.000,0
+JuliaStats/MultivariateStats.jl,358,4,1,1,0,11.173,3,206,3543,46,Julia,false,0,Julia,General-Purpose Machine Learning,12.000,0
+JuliaStats/NMF.jl,89,0,0,0,0,0.000,37,94,3576,28,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+EricChiang/ANN.jl,57,0,0,0,0,0.000,1583,3252,3505,2,Julia,true,0,Julia,General-Purpose Machine Learning,0.000,0
+pluskid/Mocha.jl,1285,4,3,1,0,3.113,5,1814,3317,42,Julia,false,0,Julia,General-Purpose Machine Learning,12.000,0
+dmlc/XGBoost.jl,273,1,0,0,0,3.663,29,2,3389,47,Julia,false,0,Julia,General-Purpose Machine Learning,42.000,4
+wildart/ManifoldLearning.jl,88,1,0,0,0,11.364,22,628,3415,6,Julia,false,0,Julia,General-Purpose Machine Learning,2.000,0
+apache/incubator-mxnet,20642,52,21,4,1,2.519,0,301,3130,893,C++,true,0,Julia,General-Purpose Machine Learning,10.000,0
+hshindo/Merlin.jl,144,0,0,0,0,0.000,560,1848,2921,3,Julia,false,0,Julia,General-Purpose Machine Learning,0.000,0
+davidavdav/ROCAnalysis.jl,30,0,0,0,0,0.000,173,70,3543,6,Jupyter Notebook,false,0,Julia,General-Purpose Machine Learning,0.000,0
+davidavdav/GaussianMixtures.jl,91,2,0,0,0,21.978,21,86,3642,22,Julia,false,0,Julia,General-Purpose Machine Learning,4.000,0
+cstjean/ScikitLearn.jl,531,5,2,0,0,9.416,11,155,2826,15,Julia,false,0,Julia,General-Purpose Machine Learning,7.000,0
+denizyuret/Knet.jl,1415,4,4,4,0,2.827,2,625,2977,44,Jupyter Notebook,false,0,Julia,General-Purpose Machine Learning,12.000,0
+alan-turing-institute/MLJ.jl,1668,11,7,3,1,6.595,0,3,1941,76,Julia,false,0,Julia,General-Purpose Machine Learning,61.000,2
+slycoder/TopicModels.jl,37,1,1,1,0,27.027,2,1272,3904,4,Julia,false,0,Julia,Natural Language Processing,10.000,0
+JuliaText/TextAnalysis.jl,360,2,1,0,0,5.556,8,26,4214,43,Julia,false,0,Julia,Natural Language Processing,17.000,4
+JuliaText/WordTokenizers.jl,91,0,0,0,0,0.000,42,1041,2054,17,Julia,false,0,Julia,Natural Language Processing,0.000,0
+JuliaText/CorpusLoaders.jl,32,0,0,0,0,0.000,233,433,2646,14,Julia,false,0,Julia,Natural Language Processing,0.000,0
+JuliaText/Embeddings.jl,77,1,1,0,0,12.987,13,38,1997,11,Julia,false,0,Julia,Natural Language Processing,11.000,0
+JuliaText/Languages.jl,51,1,0,0,0,19.608,25,8,3990,27,Julia,false,0,Julia,Natural Language Processing,22.000,2
+JuliaText/WordNet.jl,33,1,1,0,0,30.303,10,191,2985,13,Julia,false,0,Julia,Natural Language Processing,5.000,0
+IainNZ/GraphLayout.jl,45,0,0,0,0,0.000,742,1278,3431,5,Julia,true,0,Julia,Data Analysis / Data Visualization,0.000,0
+JuliaGraphs/LightGraphs.jl,671,1,1,1,1,1.490,0,777,3235,98,Julia,true,0,Julia,Data Analysis / Data Visualization,0.000,0
+JuliaData/DataFramesMeta.jl,451,3,3,2,0,6.652,4,9,3579,46,Julia,false,0,Julia,Data Analysis / Data Visualization,32.000,2
+nfoti/JuliaData,6,0,0,0,0,0.000,1628,3735,4108,1,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
+queryverse/ReadStat.jl,74,0,0,0,0,0.000,70,197,3644,12,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
+JuliaStats/HypothesisTests.jl,284,2,2,1,0,7.042,2,118,4002,54,Julia,false,0,Julia,Data Analysis / Data Visualization,12.000,0
+GiovineItalia/Gadfly.jl,1875,5,5,3,0,2.667,4,153,4127,107,Julia,false,0,Julia,Data Analysis / Data Visualization,12.000,0
+JuliaStats/StatsKit.jl,134,0,0,0,0,0.000,36,403,3596,22,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
+johnmyleswhite/RDatasets.jl,157,1,1,1,0,6.369,2,662,4017,44,R,false,0,Julia,Data Analysis / Data Visualization,10.000,0
+JuliaData/DataFrames.jl,1644,11,8,5,1,6.691,0,11,4153,207,Julia,false,0,Julia,Data Analysis / Data Visualization,51.000,1
+JuliaStats/Distributions.jl,1029,4,2,1,0,3.887,5,21,4032,221,Julia,false,0,Julia,Data Analysis / Data Visualization,22.000,2
+JuliaStats/DataArrays.jl,53,0,0,0,0,0.000,36,1915,3714,52,Julia,true,0,Julia,Data Analysis / Data Visualization,0.000,0
+JuliaStats/TimeSeries.jl,329,4,3,2,0,12.158,4,2,3989,56,Julia,false,0,Julia,Data Analysis / Data Visualization,52.000,3
+lindahua/Sampling.jl,1,0,0,0,0,0.000,1628,3445,3446,1,Julia,false,0,Julia,Data Analysis / Data Visualization,0.000,0
+JuliaDSP/DSP.jl,343,4,0,0,0,11.662,14,71,3648,73,Julia,false,0,Julia,Misc Stuff / Presentations,4.000,0
+JuliaCon/presentations,69,0,0,0,0,0.000,922,2818,3445,32,Jupyter Notebook,false,0,Julia,Misc Stuff / Presentations,0.000,0
+JuliaDSP/DSP.jl,343,4,0,0,0,11.662,14,71,3648,73,Julia,false,0,Julia,Misc Stuff / Presentations,4.000,0
+JuliaImages/Images.jl,509,2,0,0,0,3.929,17,114,4006,84,Julia,false,0,Julia,Misc Stuff / Presentations,4.000,0
+oxinabox/DataDeps.jl,143,0,0,0,0,0.000,44,161,2228,29,Julia,false,0,Julia,Misc Stuff / Presentations,0.000,0
+JetBrains/KotlinDL,1331,14,8,4,1,10.518,0,49,1339,72,Kotlin,false,0,Kotlin,Deep Learning,37.000,0
+deepmind/torch-cephes,46,0,0,0,0,0.000,262,2815,3692,20,C,true,0,Lua,General-Purpose Machine Learning,0.000,0
+twitter/torch-autograd,550,2,2,0,0,3.636,9,764,2971,29,Lua,true,0,Lua,General-Purpose Machine Learning,0.000,0
+torch/graph,35,0,0,0,0,0.000,425,2559,4015,16,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+deepmind/torch-randomkit,34,0,0,0,0,0.000,842,1676,3682,23,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+soumith/torch-signal,47,1,1,1,1,21.277,0,2336,3653,9,Lua,false,0,Lua,General-Purpose Machine Learning,20.000,0
+torch/nn,1317,1,1,1,0,0.759,1,2244,3689,184,Lua,false,0,Lua,General-Purpose Machine Learning,10.000,0
+torchnet/torchnet,993,0,0,0,0,0.000,108,2116,2713,15,Lua,true,0,Lua,General-Purpose Machine Learning,0.000,0
+torch/nngraph,295,0,0,0,0,0.000,302,2481,3888,30,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+clementfarabet/lua---nnx,97,1,1,0,0,10.309,13,2369,4525,23,Lua,false,0,Lua,General-Purpose Machine Learning,5.000,0
+Element-Research/rnn,932,0,0,0,0,0.000,44,2235,3172,54,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+Element-Research/dpnn,192,0,0,0,0,0.000,218,2373,3154,20,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+nicholas-leonard/dp,340,0,0,0,0,0.000,712,2691,3532,28,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+torch/optim,197,0,0,0,0,0.000,58,2187,3789,56,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+koraykv/unsup,85,0,0,0,0,0.000,100,2849,4495,10,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+clementfarabet/manifold,138,0,0,0,0,0.000,65,2335,3728,5,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+koraykv/torch-svm,43,0,0,0,0,0.000,101,3280,4071,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
+clementfarabet/lbfgs,2,0,0,0,0,0.000,1628,3913,3913,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+clementfarabet/vowpal_wabbit,2,0,0,0,0,0.000,1628,4216,4407,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
+clementfarabet/lua---opengm,8,0,0,0,0,0.000,593,4284,4445,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
+MichaelMathieu/lua---spaghetti,2,0,0,0,0,0.000,1628,3763,3816,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+ocallaco/LuaSHkit,3,0,0,0,0,0.000,1628,3474,3524,2,C++,false,0,Lua,General-Purpose Machine Learning,0.000,0
+rlowrance/kernel-smoothers,5,0,0,0,0,0.000,1628,4046,4139,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+torch/cutorch,335,0,0,0,0,0.000,247,2264,3689,74,Cuda,false,0,Lua,General-Purpose Machine Learning,0.000,0
+torch/cunn,213,0,0,0,0,0.000,70,2269,3689,72,Cuda,false,0,Lua,General-Purpose Machine Learning,0.000,0
+clementfarabet/lua---imgraph,22,0,0,0,0,0.000,1063,3543,4516,6,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
+clementfarabet/videograph,9,0,0,0,0,0.000,1628,3795,4183,1,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
+marcoscoffier/torch-saliency,7,0,0,0,0,0.000,80,3633,4158,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+marcoscoffier/lua---stitch,4,0,0,0,0,0.000,1628,4219,4326,1,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+marcoscoffier/lua---sfm,3,0,0,0,0,0.000,1628,4300,4316,1,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
+koraykv/fex,10,0,0,0,0,0.000,843,3584,4293,3,Lua,false,0,Lua,General-Purpose Machine Learning,0.000,0
+sermanet/OverFeat,596,0,0,0,0,0.000,174,3391,3591,6,C,false,0,Lua,General-Purpose Machine Learning,0.000,0
+facebookresearch/wav2letter,6300,14,8,3,1,2.222,0,18,2195,36,C++,false,0,Lua,General-Purpose Machine Learning,41.000,2
+fabprezja/keras-gpt-copilot,27,0,0,0,0,0.000,30,61,193,1,Python,false,0,Lua,General-Purpose Machine Learning,0.000,0
+rosejn/torch-datasets,37,0,0,0,0,0.000,491,3544,4103,6,Lua,false,0,Lua,Demos and Scripts,0.000,0
+fidlej/aledataset,18,0,0,0,0,0.000,1628,3486,3486,2,Lua,false,0,Lua,Demos and Scripts,0.000,0
+Xtra-Computing/thundersvm,1508,8,2,1,1,5.305,0,70,3270,26,C++,false,0,Matlab,General-Purpose Machine Learning,22.000,0
+josephmisiti/machine-learning-module,456,1,1,0,0,2.193,9,4593,4593,1,Objective-C,false,0,Matlab,General-Purpose Machine Learning,5.000,0
+BVLC/caffe,33659,66,29,15,3,1.961,0,1380,3725,275,C++,false,0,Matlab,General-Purpose Machine Learning,40.000,0
+covartech/PRT,143,0,0,0,0,0.000,88,1584,4378,9,MATLAB,false,0,Matlab,General-Purpose Machine Learning,0.000,0
+PRML/PRMLT,5900,26,12,3,0,4.407,1,1360,4092,3,MATLAB,false,0,Matlab,General-Purpose Machine Learning,25.000,0
+trekhleb/machine-learning-octave,808,5,0,0,0,6.188,15,1234,1862,1,MATLAB,false,0,Matlab,General-Purpose Machine Learning,4.000,0
+cdslaborg/paramonte,219,5,4,3,2,22.831,0,864,1388,8,Fortran,false,0,Matlab,Data Analysis / Data Visualization,22.000,0
+giacomelli/GeneticSharp,1174,8,5,2,1,6.814,0,36,3766,12,C#,false,0,.NET,General-Purpose Machine Learning,28.000,0
+dotnet/machinelearning,8634,57,28,17,3,6.602,0,2,2031,2402,C#,false,0,.NET,General-Purpose Machine Learning,80.000,2
+mrdimosthenis/Synapses,67,0,0,0,0,0.000,48,792,1461,3,,false,0,.NET,General-Purpose Machine Learning,0.000,0
+fsprojects/Vulpes,116,0,0,0,0,0.000,442,2293,3599,5,JavaScript,true,0,.NET,General-Purpose Machine Learning,0.000,0
+tech-quantum/MxNet.Sharp,143,2,1,1,0,13.986,1,226,1667,3,C#,false,0,.NET,General-Purpose Machine Learning,12.000,0
+yconst/YCML,117,0,0,0,0,0.000,118,2497,3181,1,Objective-C,true,0,Objective C,,0.000,0
+nikolaypavlov/MLPNeuralNet,895,0,0,0,0,0.000,123,2690,3712,7,Objective-C,false,0,Objective C,,0.000,0
+gianlucabertani/MAChineLearning,38,0,0,0,0,0.000,137,1548,3148,1,Objective-C,false,0,Objective C,,0.000,0
+Kalvar/ios-BPN-NeuralNetwork,33,1,1,0,0,30.303,8,2931,3818,1,Objective-C,false,0,Objective C,,5.000,0
+Kalvar/ios-Multi-Perceptron-NeuralNetwork,24,0,0,0,0,0.000,1202,2346,3195,1,Objective-C,false,0,Objective C,,0.000,0
+Kalvar/ios-KRHebbian-Algorithm,12,0,0,0,0,0.000,1628,2938,3818,1,Objective-C,false,0,Objective C,,0.000,0
+Kalvar/ios-KRKmeans-Algorithm,23,0,0,0,0,0.000,1202,2723,3432,1,Objective-C,false,0,Objective C,,0.000,0
+Kalvar/ios-KRFuzzyCMeans-Algorithm,12,0,0,0,0,0.000,415,2858,3154,1,Objective-C,false,0,Objective C,,0.000,0
+rleonid/oml,117,0,0,0,0,0.000,131,2122,3178,7,OCaml,false,0,OCaml,,0.000,0
+LaurentMazare/tensorflow-ocaml,281,0,0,0,0,0.000,34,1602,2805,13,OCaml,false,0,OCaml,,0.000,0
+opencv/opencv,72556,743,348,196,32,10.240,0,0,4145,1534,C++,false,0,OpenCV,,100.000,29
+fukuball/jieba-php,1286,4,1,1,0,3.110,2,466,3137,11,PHP,false,0,PHP,,12.000,0
+denissimon/prediction-builder,110,0,0,0,0,0.000,60,1399,3091,1,PHP,false,0,PHP,,0.000,0
+fulldecent/19-questions,17,0,0,0,0,0.000,55,478,2653,2,PHP,false,0,PHP,,0.000,0
+scikit-image/scikit-image,5676,46,18,10,0,8.104,1,0,4522,564,Python,false,3,Python,Computer Vision,75.000,12
+guofei9987/scikit-opt,4574,88,44,24,2,19.239,0,5,2180,18,Python,false,0,Python,Computer Vision,80.000,1
+ukoethe/vigra,392,0,0,0,0,0.000,45,11,4524,62,C++,false,0,Python,Computer Vision,20.000,5
+jesolem/PCV,1909,6,2,0,0,3.143,9,3414,4256,4,Python,false,0,Python,Computer Vision,7.000,0
+ageitgey/face_recognition,50280,673,153,73,13,13.385,0,532,2456,51,Python,false,8,Python,Computer Vision,62.000,0
+serengil/deepface,8283,559,221,135,27,67.488,0,2,1385,42,Python,false,14,Python,Computer Vision,100.000,3
+serengil/retinaface,796,19,5,2,1,23.869,0,54,943,6,Python,false,0,Python,Computer Vision,32.000,0
+natanielruiz/dockerface,187,0,0,0,0,0.000,43,1838,2362,1,Dockerfile,false,0,Python,Computer Vision,0.000,0
+facebookresearch/Detectron,26013,54,30,12,1,2.076,0,36,2241,82,Python,true,5,Python,Computer Vision,16.000,0
+facebookresearch/detectron2,27244,329,145,78,11,12.076,0,18,1540,242,Python,false,0,Python,Computer Vision,72.000,2
+albu/albumentations,12830,140,60,22,3,10.912,0,19,1997,128,Python,false,0,Python,Computer Vision,70.000,3
+madmaze/pytesseract,5182,64,21,11,1,12.350,0,6,4775,42,Python,false,0,Python,Computer Vision,70.000,2
+jrosebr1/imutils,4417,19,11,5,0,4.302,1,666,3239,13,Python,false,0,Python,Computer Vision,21.000,0
+donnyyou/PyTorchCV,46,1,1,1,0,21.739,1,1771,1977,3,Shell,false,0,Python,Computer Vision,10.000,0
+jolibrain/joliGEN,161,12,6,1,0,74.534,2,0,1193,8,Python,false,7,Python,Computer Vision,71.000,4
+ProGamerGov/neural-style-pt,803,2,1,0,0,2.491,8,476,1948,2,Python,false,0,Python,Computer Vision,7.000,0
+alankbi/detecto,604,3,1,0,0,4.967,12,653,1443,11,Python,false,8,Python,Computer Vision,7.000,0
+ProGamerGov/neural-dream,128,1,0,0,0,7.812,19,1191,1348,2,Python,false,0,Python,Computer Vision,2.000,0
+CMU-Perceptual-Computing-Lab/openpose,28652,267,124,60,8,9.319,0,132,2405,106,C++,false,0,Python,Computer Vision,62.000,0
+leoxiaobin/deep-high-resolution-net.pytorch,4142,23,10,5,0,5.553,1,345,1733,8,Cuda,false,0,Python,Computer Vision,25.000,0
+tensorflow/gan,875,8,4,2,0,9.143,1,51,1670,29,Jupyter Notebook,false,0,Python,Computer Vision,18.000,0
+ProGamerGov/dream-creator,60,0,0,0,0,0.000,132,476,1194,1,Python,false,0,Python,Computer Vision,0.000,0
+greentfrapp/lucent,561,6,4,3,0,10.695,3,845,1294,8,Python,false,0,Python,Computer Vision,12.000,0
+lightly-ai/lightly,2594,38,20,8,0,14.649,2,2,1137,34,Python,false,0,Python,Computer Vision,65.000,5
+gugarosa/learnergy,60,0,0,0,0,0.000,165,41,1641,3,Python,false,8,Python,Computer Vision,6.000,0
+Ret2Me/IoT-Owl,7,0,0,0,0,0.000,181,849,849,1,Python,false,0,Python,Computer Vision,0.000,0
+exadel-inc/CompreFace,3437,81,40,23,4,23.567,0,10,1236,75,Java,false,0,Python,Computer Vision,70.000,3
+Charmve/computer-vision-in-action,2262,38,14,8,3,16.799,0,196,939,1,Jupyter Notebook,false,0,Python,Computer Vision,35.000,0
+rwightman/pytorch-image-models,27726,456,212,94,15,16.447,0,0,1756,244,Python,false,2,Python,Computer Vision,100.000,8
+qubvel/segmentation_models.pytorch,8210,174,79,40,8,21.194,0,81,1729,48,Python,false,4,Python,Computer Vision,62.000,0
+qubvel/segmentation_models,4487,36,18,10,1,8.023,0,483,1998,13,Python,false,3,Python,Computer Vision,35.000,0
+lancopku/pkuseg-python,6338,24,12,7,3,3.787,0,534,1937,7,Python,false,1,Python,Natural Language Processing,35.000,0
+clips/pattern,8584,15,8,3,0,1.747,0,1308,4588,46,Python,false,0,Python,Natural Language Processing,21.000,0
+machinalis/quepy,1250,1,0,0,0,0.800,22,2006,4008,17,Python,false,0,Python,Natural Language Processing,2.000,0
+machinalis/yalign,126,0,0,0,0,0.000,115,3024,3742,9,Python,false,1,Python,Natural Language Processing,0.000,0
+isnowfy/snownlp,6219,34,14,9,1,5.467,0,1405,3650,8,Python,false,0,Python,Natural Language Processing,35.000,0
+tasdikrahman/spammy,140,0,0,0,0,0.000,138,2322,2782,2,Python,false,3,Python,Natural Language Processing,0.000,0
+fangpenlin/loso,83,0,0,0,0,0.000,130,4606,4606,1,Python,false,3,Python,Natural Language Processing,0.000,0
+duanhongyi/genius,237,0,0,0,0,0.000,104,1801,3748,1,Python,false,2,Python,Natural Language Processing,0.000,0
+pprett/nut,119,0,0,0,0,0.000,53,3488,4789,1,C,false,0,Python,Natural Language Processing,0.000,0
+columbia-applied-data-science/rosetta,203,0,0,0,0,0.000,187,380,3673,9,Jupyter Notebook,false,0,Python,Natural Language Processing,0.000,0
+proycon/pynlpl,467,0,0,0,0,0.000,51,71,4889,10,Python,false,2,Python,Natural Language Processing,0.000,0
+sergioburdisso/pyss3,322,7,4,2,0,21.739,2,98,1474,6,Python,false,11,Python,Natural Language Processing,12.000,0
+proycon/python-ucto,29,0,0,0,0,0.000,71,24,3474,1,Cython,false,0,Python,Natural Language Processing,10.000,1
+proycon/python-frog,47,2,1,0,0,42.553,11,4,3365,3,Cython,false,0,Python,Natural Language Processing,37.000,1
+EducationalTestingService/python-zpar,48,0,0,0,0,0.000,1033,948,3364,11,Python,true,0,Python,Natural Language Processing,0.000,0
+proycon/colibri-core,122,0,0,0,0,0.000,187,8,3716,5,C++,false,0,Python,Natural Language Processing,20.000,1
+explosion/spaCy,27625,234,104,59,11,8.471,0,2,3431,665,Python,false,35,Python,Natural Language Processing,100.000,8
+dmcc/PyStanfordDependencies,68,0,0,0,0,0.000,200,1715,3268,4,Python,false,1,Python,Natural Language Processing,0.000,0
+doukremt/distance,114,0,0,0,0,0.000,184,3654,3673,1,C,false,0,Python,Natural Language Processing,0.000,0
+seatgeek/fuzzywuzzy,9015,29,15,4,1,3.217,0,806,4522,264,Python,false,0,Python,Natural Language Processing,35.000,0
+x-tabdeveloping/neofuzz,8,3,2,0,0,375.000,7,148,247,2,Python,false,3,Python,Natural Language Processing,7.000,0
+jamesturk/jellyfish,1924,19,9,2,0,9.875,6,7,4886,25,Jupyter Notebook,false,0,Python,Natural Language Processing,41.000,2
+chartbeat-labs/textacy,2118,9,5,1,0,4.249,5,235,2851,35,Python,false,0,Python,Natural Language Processing,12.000,0
+dasmith/stanford-corenlp-python,611,0,0,0,0,0.000,48,3329,4654,3,Python,false,0,Python,Natural Language Processing,0.000,0
+cltk/cltk,809,7,3,2,0,8.653,1,20,3603,104,Python,false,15,Python,Natural Language Processing,22.000,2
+RasaHQ/rasa,17246,137,57,25,2,7.944,0,32,2597,498,Python,false,88,Python,Natural Language Processing,66.000,0
+PPACI/yase,13,0,0,0,0,0.000,187,2384,2417,1,Python,true,2,Python,Natural Language Processing,0.000,0
+aboSamoor/polyglot,2215,15,6,3,0,6.772,1,1157,3434,24,Python,false,7,Python,Natural Language Processing,21.000,0
+facebookresearch/DrQA,4418,8,4,4,1,1.811,0,920,2330,56,Python,false,1,Python,Natural Language Processing,22.000,0
+dedupeio/dedupe,3867,25,16,10,0,6.465,1,280,4235,51,Python,false,1,Python,Natural Language Processing,25.000,0
+snipsco/snips-nlu,3838,13,5,2,0,3.387,3,935,2480,14,Python,false,0,Python,Natural Language Processing,16.000,0
+Franck-Dernoncourt/NeuroNER,1675,3,0,0,0,1.791,17,1513,2453,6,Python,false,8,Python,Natural Language Processing,4.000,0
+bigartm/bigartm,656,3,2,1,0,4.573,1,1109,3357,37,C++,false,0,Python,Natural Language Processing,12.000,0
+gugarosa/nalp,23,0,0,0,0,0.000,187,41,1927,1,Python,false,9,Python,Natural Language Processing,6.000,0
+xhlulu/dl-translate,365,7,4,4,0,19.178,1,129,1005,2,Python,false,0,Python,Natural Language Processing,12.000,0
+deepset-ai/haystack,11680,415,169,91,12,35.531,0,0,1471,232,Python,false,0,Python,Natural Language Processing,100.000,30
+comet-ml/comet-llm,287,15,4,3,1,52.265,0,3,198,10,Python,false,0,Python,Natural Language Processing,56.000,3
+Microsoft/CNTK,17413,15,7,3,0,0.861,1,427,2920,231,C++,false,0,Python,General-Purpose Machine Learning,21.000,0
+couler-proj/couler,855,11,5,4,1,12.865,0,23,1193,32,Python,false,4,Python,General-Purpose Machine Learning,36.000,1
+ClimbsRocks/auto_ml,1629,6,4,3,0,3.683,3,2070,2664,12,Python,false,11,Python,General-Purpose Machine Learning,12.000,0
+wannesm/dtaidistance,962,12,6,3,0,12.474,1,16,2486,16,Python,false,1,Python,General-Purpose Machine Learning,31.000,1
+arogozhnikov/einops,7415,96,52,26,3,12.947,0,43,1889,21,Python,false,0,Python,General-Purpose Machine Learning,66.000,0
+jeff1evesque/machine-learning,258,2,1,0,0,7.752,12,1010,3390,4,JavaScript,false,0,Python,General-Purpose Machine Learning,7.000,0
+dmlc/xgboost,25018,150,73,32,4,5.996,0,2,3578,608,C++,false,0,Python,General-Purpose Machine Learning,100.000,8
+serengil/chefboost,420,6,4,2,1,14.286,0,24,1724,3,Python,false,4,Python,General-Purpose Machine Learning,32.000,1
+CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,25997,79,35,15,4,3.039,0,283,3966,140,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,50.000,0
+Hydrospheredata/mist,325,1,0,0,0,3.077,20,1509,2870,24,Scala,false,0,Python,General-Purpose Machine Learning,2.000,0
+metric-learn/metric-learn,1348,2,1,1,0,1.484,3,56,3674,37,Python,false,0,Python,General-Purpose Machine Learning,18.000,0
+OML-Team/open-metric-learning,584,7,2,1,0,11.986,6,26,538,17,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,22.000,2
+intel/scikit-learn-intelex,1079,24,12,7,4,22.243,0,1,1935,90,Python,false,0,Python,General-Purpose Machine Learning,75.000,6
+clips/pattern,8584,15,8,3,0,1.747,0,1308,4588,46,Python,false,0,Python,General-Purpose Machine Learning,21.000,0
+numenta/nupic,6330,6,3,0,0,0.948,9,84,3884,108,Python,true,18,Python,General-Purpose Machine Learning,0.000,0
+lisa-lab/pylearn2,2742,1,0,0,0,0.365,14,826,4750,124,Python,false,0,Python,General-Purpose Machine Learning,2.000,0
+keras-team/keras,59788,266,119,53,12,4.449,0,0,3163,1194,Python,false,6,Python,General-Purpose Machine Learning,100.000,21
+Lasagne/Lasagne,3844,6,2,0,0,1.561,7,1465,3361,65,Python,false,6,Python,General-Purpose Machine Learning,7.000,0
+hannes-brt/hebel,1169,0,0,0,0,0.000,30,3025,3656,6,Python,false,4,Python,General-Purpose Machine Learning,0.000,0
+chainer/chainer,5827,8,7,2,0,1.373,1,403,3094,256,Python,false,13,Python,General-Purpose Machine Learning,17.000,0
+RaRe-Technologies/gensim,14804,88,40,21,5,5.944,0,54,4670,422,Python,false,13,Python,General-Purpose Machine Learning,56.000,0
+ContinuumIO/topik,93,0,0,0,0,0.000,358,2768,3213,21,Python,true,1,Python,General-Purpose Machine Learning,0.000,0
+pybrain/pybrain,2846,7,3,2,0,2.460,2,2168,5258,34,Python,false,0,Python,General-Purpose Machine Learning,12.000,0
+IDSIA/brainstorm,1298,0,0,0,0,0.000,44,2444,3317,19,Python,false,1,Python,General-Purpose Machine Learning,0.000,0
+muricoca/crab,1178,1,1,1,0,0.849,5,4285,4602,7,Python,false,0,Python,General-Purpose Machine Learning,10.000,0
+ocelma/python-recsys,1467,3,1,1,0,2.045,1,1891,4428,4,Python,false,0,Python,General-Purpose Machine Learning,12.000,0
+AllenDowney/ThinkBayes,1627,1,0,0,0,0.615,24,1288,3791,6,TeX,false,0,Python,General-Purpose Machine Learning,2.000,0
+williamFalcon/pix2pix-keras,141,0,0,0,0,0.000,106,2433,2465,1,Python,false,12,Python,General-Purpose Machine Learning,0.000,0
+pprett/bolt,87,0,0,0,0,0.000,1258,4433,5225,2,C,false,0,Python,General-Purpose Machine Learning,0.000,0
+patvarilly/CoverTree,31,0,0,0,0,0.000,122,4273,4277,1,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
+nilearn/nilearn,1057,9,4,2,1,8.515,0,0,4702,202,Python,false,0,Python,General-Purpose Machine Learning,72.000,7
+raamana/neuropredict,99,0,0,0,0,0.000,32,14,2458,3,Python,false,0,Python,General-Purpose Machine Learning,10.000,1
+ZhiningLiu1998/imbalanced-ensemble,265,5,1,1,1,18.868,0,125,989,1,Python,false,8,Python,General-Purpose Machine Learning,22.000,0
+shogun-toolbox/shogun,2975,4,2,2,0,1.345,1,1081,4620,180,C++,false,0,Python,General-Purpose Machine Learning,12.000,0
+perone/Pyevolve,310,0,0,0,0,0.000,63,2943,4488,12,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
+BVLC/caffe,33659,66,29,15,3,1.961,0,1380,3725,275,C++,false,0,Python,General-Purpose Machine Learning,40.000,0
+breze-no-salt/breze,97,0,0,0,0,0.000,187,2639,3738,9,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,0.000,0
+cortexlabs/cortex,7962,7,5,3,1,0.879,0,265,1765,21,Go,false,42,Python,General-Purpose Machine Learning,22.000,0
+mattjj/pyhsmm,535,0,0,0,0,0.000,62,1187,4268,8,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
+EducationalTestingService/skll,535,2,2,1,1,3.738,0,10,3766,31,Python,false,3,Python,General-Purpose Machine Learning,42.000,2
+HIPS/Spearmint,1526,2,1,0,0,1.311,11,1697,3398,16,Python,false,0,Python,General-Purpose Machine Learning,7.000,0
+jmschrei/pomegranate,3198,16,6,4,0,5.003,2,11,3287,68,Python,false,6,Python,General-Purpose Machine Learning,41.000,1
+proycon/python-timbl,17,1,0,0,0,58.824,24,1264,3938,2,Python,false,0,Python,General-Purpose Machine Learning,2.000,0
+deap/deap,5359,49,24,16,1,9.143,0,119,3474,81,Python,false,0,Python,General-Purpose Machine Learning,40.000,0
+andersbll/deeppy,1369,1,1,1,1,0.730,0,2788,3354,2,Python,false,3,Python,General-Purpose Machine Learning,20.000,0
+rasbt/mlxtend,4572,32,15,8,2,6.999,0,62,3389,94,Python,false,6,Python,General-Purpose Machine Learning,35.000,0
+NervanaSystems/neon,3860,5,2,2,1,1.295,0,1647,3326,236,Python,true,21,Python,General-Purpose Machine Learning,0.000,0
+mnielsen/neural-networks-and-deep-learning,14901,92,49,21,6,6.174,0,2083,4028,10,Python,false,4,Python,General-Purpose Machine Learning,52.000,0
+spotify/annoy,12172,134,48,21,3,11.009,0,96,3889,140,C++,false,0,Python,General-Purpose Machine Learning,50.000,0
+EpistasisLab/tpot,9314,56,24,14,2,6.012,0,78,2942,79,Python,false,12,Python,General-Purpose Machine Learning,40.000,0
+NVIDIA/DIGITS,4105,1,1,0,0,0.244,9,1322,3174,55,HTML,false,0,Python,General-Purpose Machine Learning,5.000,0
+apache/incubator-mxnet,20642,52,21,4,1,2.519,0,301,3130,893,C++,true,0,Python,General-Purpose Machine Learning,10.000,0
+luispedro/milk,609,0,0,0,0,0.000,138,3119,5116,9,Python,true,0,Python,General-Purpose Machine Learning,0.000,0
+tflearn/tflearn,9601,6,5,1,1,0.625,0,1089,2794,121,Python,false,8,Python,General-Purpose Machine Learning,22.000,0
+yandex/rep,676,1,0,0,0,1.479,24,2570,3147,21,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,2.000,0
+RGF-team/rgf,366,1,1,1,0,2.732,6,685,2725,11,C++,false,0,Python,General-Purpose Machine Learning,10.000,0
+AmazaspShumik/sklearn-bayes,496,3,1,1,0,6.048,4,792,3039,6,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,12.000,0
+fukuball/fuku-ml,278,0,0,0,0,0.000,278,1900,2870,1,Python,false,5,Python,General-Purpose Machine Learning,0.000,0
+reiinakano/xcessiv,1265,0,0,0,0,0.000,102,2286,2453,6,Python,false,12,Python,General-Purpose Machine Learning,0.000,0
+pytorch/pytorch,72847,1005,485,254,30,13.796,0,0,2659,3077,Python,false,3,Python,General-Purpose Machine Learning,100.000,252
+PyTorchLightning/pytorch-lightning,25205,309,143,67,16,12.259,0,0,1699,881,Python,false,3,Python,General-Purpose Machine Learning,100.000,17
+PyTorchLightning/pytorch-lightning-bolts,1601,14,7,3,0,8.745,2,74,1339,118,Python,false,2,Python,General-Purpose Machine Learning,21.000,0
+skorch-dev/skorch,5406,50,21,10,1,9.249,0,0,2320,58,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,90.000,1
+eriklindernoren/ML-From-Scratch,22597,149,112,24,7,6.594,0,1497,2483,6,Python,false,0,Python,General-Purpose Machine Learning,62.000,0
+omimo/xRBM,53,0,0,0,0,0.000,340,2291,2548,1,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
+catboost/catboost,7471,68,30,14,4,9.102,0,0,2320,344,Python,false,0,Python,General-Purpose Machine Learning,90.000,17
+fukatani/stacked_generalization,115,0,0,0,0,0.000,182,1667,2754,4,Python,false,3,Python,General-Purpose Machine Learning,0.000,0
+modAL-python/modAL,2056,24,14,3,0,11.673,2,176,2201,18,Python,false,0,Python,General-Purpose Machine Learning,25.000,0
+jgreenemi/Parris,318,0,0,0,0,0.000,187,2136,2153,3,Python,false,7,Python,General-Purpose Machine Learning,0.000,0
+siavashserver/neonrvm,36,1,1,1,0,27.778,4,1188,2106,1,C,true,0,Python,General-Purpose Machine Learning,0.000,0
+apple/turicreate,11120,33,19,11,2,2.968,0,725,2184,82,C++,false,0,Python,General-Purpose Machine Learning,35.000,0
+aksnzhy/xlearn,3071,4,0,0,0,1.303,15,537,2358,25,C++,false,0,Python,General-Purpose Machine Learning,4.000,0
+flennerhag/mlens,808,3,2,0,0,3.713,7,1368,2509,2,Python,false,2,Python,General-Purpose Machine Learning,7.000,0
+scoremedia/thampi,9,0,0,0,0,0.000,409,1836,1947,200,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
+mindsdb/mindsdb,19062,584,254,77,7,30.637,0,0,1940,748,Python,false,19,Python,General-Purpose Machine Learning,100.000,46
+PreferredAI/cornac,763,8,2,1,1,10.485,0,2,1956,19,Python,false,0,Python,General-Purpose Machine Learning,62.000,3
+google/jax,25664,618,199,98,10,24.080,0,0,1855,577,Python,false,3,Python,General-Purpose Machine Learning,100.000,39
+catalyst-team/catalyst,3185,6,2,1,0,1.884,1,574,1922,108,Python,false,0,Python,General-Purpose Machine Learning,12.000,0
+fastai/fastai,24825,146,70,36,9,5.881,0,22,2267,233,Jupyter Notebook,false,0,Python,General-Purpose Machine Learning,72.000,2
+scikit-multiflow/scikit-multiflow,716,3,2,1,0,4.190,6,1100,2201,35,Python,false,6,Python,General-Purpose Machine Learning,12.000,0
+mindsdb/lightwood,387,5,2,1,0,12.920,1,25,1648,42,Python,false,28,Python,General-Purpose Machine Learning,22.000,1
+jungtaekkim/bayeso,82,0,0,0,0,0.000,48,3,2186,1,Python,false,1,Python,General-Purpose Machine Learning,30.000,1
+mljar/mljar-supervised,2825,37,10,3,0,13.097,3,42,1845,19,Python,false,17,Python,General-Purpose Machine Learning,31.000,0
+alirezamika/evostra,260,0,0,0,0,0.000,46,2003,2352,1,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
+determined-ai/determined,2560,73,23,12,1,28.516,0,1,1326,97,Go,false,76,Python,General-Purpose Machine Learning,80.000,43
+OpenMined/PySyft,9003,52,17,7,0,5.776,1,1,2320,421,Python,false,0,Python,General-Purpose Machine Learning,65.000,9
+alan-turing-institute/sktime,7030,64,31,13,1,9.104,0,0,1844,305,Python,false,0,Python,General-Purpose Machine Learning,100.000,17
+gugarosa/opfython,31,0,0,0,0,0.000,139,14,2107,2,Python,false,6,Python,General-Purpose Machine Learning,10.000,1
+gugarosa/opytimizer,579,3,1,1,0,5.181,2,63,2214,4,Python,false,10,Python,General-Purpose Machine Learning,12.000,0
+gradio-app/gradio,23720,846,410,213,46,35.666,0,0,1801,217,Python,false,21,Python,General-Purpose Machine Learning,100.000,21
+activeloopai/Hub,7146,147,54,24,2,20.571,0,1,1568,86,Python,false,0,Python,General-Purpose Machine Learning,100.000,10
+dmey/synthia,47,0,0,0,0,0.000,32,675,1363,4,Python,false,0,Python,General-Purpose Machine Learning,0.000,0
+bytehub-ai/bytehub,56,0,0,0,0,0.000,118,957,1018,1,Python,false,8,Python,General-Purpose Machine Learning,0.000,0
+backprop-ai/backprop,239,3,2,2,0,12.552,3,935,1120,6,Python,false,6,Python,General-Purpose Machine Learning,12.000,0
+dirty-cat/dirty_cat,6,1,1,0,0,166.667,9,178,192,5,Python,false,0,Python,General-Purpose Machine Learning,5.000,0
+edtechre/pybroker,1351,40,13,8,3,29.608,0,27,312,2,Python,false,26,Python,General-Purpose Machine Learning,45.000,1
+Shanky-21/Data_visualization,32,1,0,0,0,31.250,20,1119,1203,2,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,2.000,0
+mars-project/mars,2653,8,1,0,0,3.015,9,22,1815,53,Python,false,0,Python,Data Analysis / Data Visualization,17.000,1
+cdslaborg/paramonte,219,5,4,3,2,22.831,0,864,1388,8,Fortran,false,0,Python,Data Analysis / Data Visualization,22.000,0
+vaexio/vaex,8058,30,16,7,2,3.723,0,126,3345,63,Python,false,12,Python,Data Analysis / Data Visualization,35.000,0
+mining/mining,1246,4,2,0,0,3.210,7,2548,3592,13,Python,true,11,Python,Data Analysis / Data Visualization,0.000,0
+pymc-devs/pymc,7890,56,31,18,3,7.098,0,0,5316,415,Python,false,8,Python,Data Analysis / Data Visualization,100.000,11
+quantopian/zipline,16620,72,35,22,3,4.332,0,1136,4053,129,Python,false,0,Python,Data Analysis / Data Visualization,50.000,0
+sympy/sympy,11567,120,56,30,3,10.374,0,3,4956,1172,Python,false,0,Python,Data Analysis / Data Visualization,90.000,13
+statsmodels/statsmodels,9044,105,46,20,4,11.610,0,26,4548,356,Python,false,7,Python,Data Analysis / Data Visualization,60.000,1
+bokeh/bokeh,18331,116,62,34,0,6.328,1,2,4260,591,Python,false,0,Python,Data Analysis / Data Visualization,90.000,8
+altair-viz/altair,8565,60,28,15,1,7.005,0,0,2988,142,Python,false,0,Python,Data Analysis / Data Visualization,90.000,5
+mikedewar/d3py,1412,2,1,0,0,1.416,10,2445,4521,12,Python,false,0,Python,Data Analysis / Data Visualization,7.000,0
+D3xterjs/pydexter,32,0,0,0,0,0.000,186,2015,2719,2,Python,false,0,Python,Data Analysis / Data Visualization,0.000,0
+yhat/ggpy,3664,6,4,0,0,1.638,7,2559,3700,19,Python,false,0,Python,Data Analysis / Data Visualization,7.000,0
+sinhrks/ggfortify,523,0,0,0,0,0.000,45,0,3337,23,R,false,0,Python,Data Analysis / Data Visualization,50.000,1
+kartograph/kartograph.py,1002,1,1,1,1,0.998,0,2377,4330,12,Python,false,1,Python,Data Analysis / Data Visualization,20.000,0
+pyqtgraph/pyqtgraph,3466,37,13,6,2,10.675,0,6,3725,237,Python,false,0,Python,Data Analysis / Data Visualization,65.000,11
+AirSage/Petrel,247,0,0,0,0,0.000,60,2411,4146,8,Python,false,0,Python,Data Analysis / Data Visualization,0.000,0
+blaze/blaze,3170,5,0,0,0,1.577,14,1561,4046,75,Python,false,11,Python,Data Analysis / Data Visualization,4.000,0
+dfm/emcee,1380,13,5,4,0,9.420,3,3,4400,63,Python,false,0,Python,Data Analysis / Data Visualization,46.000,3
+cigroup-ol/windml,128,0,0,0,0,0.000,131,981,3762,9,Python,false,12,Python,Data Analysis / Data Visualization,0.000,0
+vispy/vispy,3150,20,10,6,1,6.349,0,24,3900,158,Python,false,13,Python,Data Analysis / Data Visualization,41.000,2
+nicohlr/ipychart,91,1,1,1,0,10.989,5,91,1612,2,Python,false,9,Python,Data Analysis / Data Visualization,10.000,0
+bloomberg/bqplot,3490,6,3,1,0,1.719,3,51,2981,54,TypeScript,false,0,Python,Data Analysis / Data Visualization,18.000,0
+rewonc/pastalog,416,0,0,0,0,0.000,186,2431,2794,4,JavaScript,false,28,Python,Data Analysis / Data Visualization,0.000,0
+apache/incubator-superset,55292,472,223,101,15,8.536,0,0,3048,1037,TypeScript,false,0,Python,Data Analysis / Data Visualization,100.000,39
+nathanepstein/dora,622,1,0,0,0,1.608,26,1242,2838,1,Python,false,0,Python,Data Analysis / Data Visualization,2.000,0
+sevamoo/SOMPY,519,3,2,1,1,5.780,0,231,3379,20,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,22.000,0
+lmcinnes/hdbscan,92,1,0,0,0,10.870,17,2206,2641,1,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,2.000,0
+ayush1997/visualize_ML,184,3,1,0,0,16.304,13,2613,2673,1,Python,false,0,Python,Data Analysis / Data Visualization,7.000,0
+reiinakano/scikit-plot,2361,6,3,1,0,2.541,6,1923,2484,13,Python,false,4,Python,Data Analysis / Data Visualization,12.000,0
+jwkvam/bowtie,760,2,0,0,0,2.632,14,1573,2776,3,Python,false,0,Python,Data Analysis / Data Visualization,4.000,0
+marcotcr/lime,10989,68,33,10,0,6.188,1,847,2809,45,JavaScript,false,0,Python,Data Analysis / Data Visualization,40.000,0
+sepandhaghighi/pycm,1398,5,0,0,0,3.577,15,170,2132,13,Python,false,2,Python,Data Analysis / Data Visualization,4.000,0
+plotly/dash,19673,173,80,38,3,8.794,0,29,3150,171,Python,false,0,Python,Data Analysis / Data Visualization,70.000,1
+asavinov/lambdo,19,0,0,0,0,0.000,79,1057,1958,2,Python,false,6,Python,Data Analysis / Data Visualization,0.000,0
+microsoft/tensorwatch,3337,5,1,0,0,1.498,13,86,1654,10000,Jupyter Notebook,false,0,Python,Data Analysis / Data Visualization,7.000,0
+rlworkgroup/dowel,31,1,1,1,0,32.258,1,965,1659,48,Python,false,17,Python,Data Analysis / Data Visualization,10.000,0
+jaredthecoder/BioPy,40,0,0,0,0,0.000,251,2765,3185,2,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+julianmack/Data_Assimilation,30,0,0,0,0,0.000,36,1051,1703,2,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+ageron/handson-ml,25050,36,18,9,2,1.437,0,424,2838,38,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,35.000,0
+plotly/dash-svm,154,1,1,1,0,6.494,5,1135,1962,16,Python,false,12,Python,Misc Scripts / iPython Notebooks / Codebases,10.000,0
+donnemartin/data-science-ipython-notebooks,25809,122,63,29,2,4.727,0,1747,3227,12,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,60.000,0
+Wavelets/sarah-palin-lda,10,0,0,0,0,0.000,1157,4521,3529,1,Scala,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+Wavelets/diffusion-segmentation,2,0,0,0,0,0.000,1628,4838,3505,1,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+Wavelets/scipy-tutorials,2,0,0,0,0,0.000,1628,4936,3505,1,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+marcelcaraciolo/crab,85,0,0,0,0,0.000,186,4466,4792,4,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+maxsklar/BayesPy,104,0,0,0,0,0.000,44,172,4182,3,HTML,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+GaelVaroquaux/scikit-learn-tutorial,126,0,0,0,0,0.000,59,4527,4528,1,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+madhusudancs/sentiment-analyzer,52,0,0,0,0,0.000,633,4256,4267,2,JavaScript,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+kevincobain2000/sentiment_classifier,171,0,0,0,0,0.000,332,598,4313,3,OpenEdge ABL,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+fabianp/group_lasso,38,0,0,0,0,0.000,257,4048,4230,2,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+kevincobain2000/jProcessing,149,1,1,0,0,6.711,8,1170,4279,3,OpenEdge ABL,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,5.000,0
+mne-tools/mne-python-notebooks,23,1,1,0,0,43.478,9,3953,3953,5,,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,5.000,0
+NervanaSystems/neon_course,92,0,0,0,0,0.000,562,324,2706,110,Jupyter Notebook,true,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+jvns/pandas-cookbook,6360,34,16,11,1,5.346,0,232,3625,16,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,35.000,0
+BRML/climin,179,1,0,0,0,5.587,27,2677,4375,19,Python,false,3,Python,Misc Scripts / iPython Notebooks / Codebases,2.000,0
+AllenDowney/DataScience,41,0,0,0,0,0.000,399,570,3584,2,HTML,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+AllenDowney/ThinkBayes,1627,1,0,0,0,0.615,24,1288,3791,6,TeX,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,2.000,0
+AllenDowney/ThinkComplexity,95,0,0,0,0,0.000,251,1712,3972,1,PostScript,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+AllenDowney/ThinkOS,528,0,0,0,0,0.000,33,1304,3537,14,TeX,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+mwgg/GreatCircle,77,0,0,0,0,0.000,37,614,3291,5,PHP,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+hangtwenty/dive-into-machine-learning,11199,10,4,3,0,0.893,2,524,3196,31,,true,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+ericjang/tdb,1359,0,0,0,0,0.000,173,2492,2903,1,JavaScript,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+justmarkham/scikit-learn-videos,3596,12,7,1,1,3.337,0,823,3154,2,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,31.000,0
+amueller/introduction_to_ml_with_python,6972,52,20,12,1,7.458,0,337,2735,14,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,35.000,0
+wesm/pydata-book,20497,201,91,42,6,9.806,0,226,4164,9,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,62.000,0
+trekhleb/homemade-machine-learning,21981,108,54,26,1,4.913,0,126,1849,3,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,60.000,0
+prodmodel/prodmodel,55,0,0,0,0,0.000,186,1593,1713,1,Python,false,5,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+maitbayev/the-elements-of-statistical-learning,396,4,3,3,0,10.101,2,661,2046,2,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,12.000,0
+LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms,1213,41,20,11,2,33.800,0,428,1219,2,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,35.000,0
+ShivamChoudhary17/Heart_Disease,0,0,0,0,0,0.000,106751,782,1141,1,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+ShivamChoudhary17/Flight_Fare_Prediction,0,0,0,0,0,0.000,106751,782,1152,1,Jupyter Notebook,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,0.000,0
+keras-team/keras-tuner,2781,8,4,0,0,2.877,7,7,1631,63,Python,false,0,Python,Misc Scripts / iPython Notebooks / Codebases,27.000,3
+p-christ/nn_builder,163,0,0,0,0,0.000,60,93,1768,2,Python,false,6,Python,Neural Networks,0.000,0
+karpathy/neuraltalk,5357,2,1,1,0,0.373,4,2926,3283,6,Python,false,0,Python,Neural Networks,12.000,0
+molcik/python-neuron,39,0,0,0,0,0.000,186,1234,2692,1,Python,false,0,Python,Neural Networks,0.000,0
+karpathy/neuraltalk2,5433,15,12,10,0,2.761,1,2618,2926,9,Jupyter Notebook,false,0,Python,Neural Networks,21.000,0
+molcik/python-neuron,39,0,0,0,0,0.000,186,1234,2692,1,Python,false,0,Python,Neural Networks,0.000,0
+atmb4u/data-driven-code,29,0,0,0,0,0.000,147,2559,2567,1,Python,false,0,Python,Neural Networks,0.000,0
+mrT23/TResNet,453,4,1,0,0,8.830,9,317,1337,3,Python,false,3,Python,Neural Networks,7.000,0
+zueve/neurolab,159,0,0,0,0,0.000,148,1270,3175,3,Python,false,0,Python,Neural Networks,0.000,0
+synsense/rockpool,36,2,0,0,0,55.556,15,28,806,15,Python,false,0,Python,Spiking Neural Networks,14.000,2
+synsense/sinabs,52,3,1,1,0,57.692,2,38,641,7,Python,false,1,Python,Spiking Neural Networks,18.000,0
+neuromorphs/tonic,155,5,2,1,0,32.258,4,1,1596,23,Python,false,1,Python,Spiking Neural Networks,52.000,1
+CamDavidsonPilon/lifelines,2204,21,7,3,1,9.528,0,9,3740,108,Python,false,0,Python,Python Survival Analysis,55.000,4
+sebp/scikit-survival,1007,16,7,2,0,15.889,2,4,2523,15,Python,false,0,Python,Python Survival Analysis,51.000,1
+OpenMined/PySyft,9003,52,17,7,0,5.776,1,1,2320,421,Python,false,0,Python,Federated Learning,65.000,9
+hammer/wikichallenge,11,0,0,0,0,0.000,1628,4383,4385,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+amueller/kaggle_insults,151,0,0,0,0,0.000,64,2979,4080,2,Python,true,0,Python,Kaggle Competition Source Code,0.000,0
+MLWave/kaggle_acquire-valued-shoppers-challenge,66,0,0,0,0,0.000,406,3508,3510,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-cifar,44,0,0,0,0,0.000,1069,3443,3647,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-blackbox,115,1,1,1,0,8.696,4,3443,3858,2,MATLAB,false,0,Python,Kaggle Competition Source Code,10.000,0
+zygmuntz/kaggle-accelerometer,15,0,0,0,0,0.000,1215,3443,3767,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-advertised-salaries,55,0,0,0,0,0.000,1402,3443,3929,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-amazon,25,0,0,0,0,0.000,1628,3443,3827,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-bestbuy_big,8,0,0,0,0,0.000,1628,3443,4083,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+kastnerkyle/kaggle-dogs-vs-cats,67,0,0,0,0,0.000,147,3582,3686,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+benanne/kaggle-galaxies,488,0,0,0,0,0.000,34,3390,3510,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-gender,21,0,0,0,0,0.000,492,3443,3879,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-merck,10,0,0,0,0,0.000,190,3443,4055,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/kaggle-stackoverflow,46,0,0,0,0,0.000,1023,2190,4067,1,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+MLWave/kaggle_acquire-valued-shoppers-challenge,66,0,0,0,0,0.000,406,3508,3510,2,Python,false,0,Python,Kaggle Competition Source Code,0.000,0
+zygmuntz/wine-quality,24,1,1,1,0,41.667,4,3004,3995,1,R,false,0,Python,Kaggle Competition Source Code,10.000,0
+deepmind/lab,6936,20,7,3,1,2.884,0,324,2550,20,C,false,0,Python,Reinforcement Learning,31.000,0
+Farama-Foundation/Gymnasium,4299,299,143,80,12,69.551,0,2,442,373,Python,false,0,Python,Reinforcement Learning,100.000,6
+SerpentAI/SerpentAI,6609,23,6,3,0,3.480,3,1280,2412,7,Python,true,31,Python,Reinforcement Learning,0.000,0
+mwydmuch/ViZDoom,1603,15,9,5,0,9.357,2,19,3073,52,C++,false,0,Python,Reinforcement Learning,31.000,2
+openai/roboschool,2075,4,4,1,0,1.928,2,1506,2383,588,Python,false,0,Python,Reinforcement Learning,12.000,0
+openai/retro,3227,24,15,9,1,7.437,0,226,2116,595,C,false,0,Python,Reinforcement Learning,35.000,0
+kengz/SLM-Lab,1183,5,0,0,0,4.227,17,572,2243,17,Python,false,3,Python,Reinforcement Learning,4.000,0
+NervanaSystems/coach,2273,6,4,3,0,2.640,2,348,2245,42,Python,true,17,Python,Reinforcement Learning,0.000,0
+rlworkgroup/garage,1748,12,7,4,1,6.865,0,324,1992,71,Python,false,19,Python,Reinforcement Learning,31.000,0
+rlworkgroup/metaworld,1016,20,7,3,0,19.685,1,32,1537,34,Python,false,0,Python,Reinforcement Learning,27.000,0
+enlite-ai/maze,249,0,0,0,0,0.000,32,368,1016,2,Python,false,0,Python,Reinforcement Learning,0.000,0
+ray-project/ray,28750,479,204,97,21,16.661,0,1,2586,900,Python,false,0,Python,Reinforcement Learning,100.000,58
+opendilab/DI-engine,2964,53,24,11,3,17.881,0,18,873,51,Python,false,32,Python,Reinforcement Learning,50.000,5
+arbox/nlp-with-ruby,1020,5,5,5,0,4.902,1,150,2810,4,Ruby,false,0,Ruby,Natural Language Processing,12.000,0
+louismullie/treat,1364,0,0,0,0,0.000,39,2393,4322,18,Ruby,false,0,Ruby,Natural Language Processing,0.000,0
+aurelian/ruby-stemmer,252,0,0,0,0,0.000,793,561,5510,7,C,true,0,Ruby,Natural Language Processing,0.000,0
+ealdent/uea-stemmer,52,0,0,0,0,0.000,237,1361,5245,2,Ruby,false,0,Ruby,Natural Language Processing,0.000,0
+arbox/machine-learning-with-ruby,2001,8,4,4,3,3.998,0,33,2409,18,Ruby,false,0,Ruby,General-Purpose Machine Learning,28.000,0
+tsycho/ruby-machine-learning,31,0,0,0,0,0.000,1628,4335,4337,1,Ruby,false,0,Ruby,General-Purpose Machine Learning,0.000,0
+vasinov/jruby_mahout,162,0,0,0,0,0.000,1629,2986,4025,3,Ruby,false,0,Ruby,General-Purpose Machine Learning,0.000,0
+cardmagic/classifier,656,1,0,0,0,1.524,19,121,5681,10,Ruby,false,0,Ruby,General-Purpose Machine Learning,2.000,0
+febeling/rb-libsvm,278,0,0,0,0,0.000,105,1176,5367,7,C++,false,0,Ruby,General-Purpose Machine Learning,0.000,0
+asafschers/scoruby,68,0,0,0,0,0.000,631,1403,2568,8,Ruby,false,0,Ruby,General-Purpose Machine Learning,0.000,0
+yoshoku/rumale,714,12,5,3,0,16.807,2,3,2246,7,Ruby,false,0,Ruby,General-Purpose Machine Learning,46.000,2
+alexgutteridge/rsruby,331,0,0,0,0,0.000,203,2495,5491,8,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
+chrislo/data_visualisation_ruby,68,0,0,0,0,0.000,312,5085,5100,1,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
+zuhao/plotrb,41,0,0,0,0,0.000,854,3714,3814,1,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
+delano/scruffy,31,0,0,0,0,0.000,1628,2352,5461,3,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
+glean/glean,114,0,0,0,0,0.000,416,2580,3894,3,Ruby,false,0,Ruby,Data Analysis / Data Visualization,0.000,0
+kevincobain2000/listof,26,0,0,0,0,0.000,777,2482,3443,1,Ruby,false,0,Ruby,Misc,0.000,0
+smartcorelib/smartcore,583,7,1,1,0,12.007,2,3,1661,18,Rust,false,8,Rust,General-Purpose Machine Learning,42.000,2
+rust-ml/linfa,3065,76,37,21,4,24.796,0,1,2059,40,Rust,false,9,Rust,General-Purpose Machine Learning,90.000,2
+tedsta/deeplearn-rs,207,0,0,0,0,0.000,34,2287,2950,2,Rust,false,3,Rust,General-Purpose Machine Learning,0.000,0
+maciejkula/rustlearn,597,1,0,0,0,1.675,24,1251,2912,8,Rust,false,4,Rust,General-Purpose Machine Learning,2.000,0
+AtheMathmo/rusty-machine,1242,3,2,2,1,2.415,0,1379,2932,20,Rust,true,3,Rust,General-Purpose Machine Learning,0.000,0
+autumnai/leaf,5528,7,4,3,0,1.266,2,2140,2951,14,Rust,false,9,Rust,General-Purpose Machine Learning,12.000,0
+jackm321/RustNN,333,1,1,0,0,3.003,13,3122,3164,2,Rust,false,3,Rust,General-Purpose Machine Learning,5.000,0
+avinashshenoy97/RusticSOM,30,0,0,0,0,0.000,110,1143,2091,5,Rust,false,4,Rust,General-Purpose Machine Learning,0.000,0
+catboost/catboost,7471,68,30,14,4,9.102,0,0,2320,344,Python,false,0,R,General-Purpose Machine Learning,90.000,17
+ecpolley/SuperLearner,253,0,0,0,0,0.000,70,129,4605,8,R,false,0,R,General-Purpose Machine Learning,0.000,0
+apache/incubator-mxnet,20642,52,21,4,1,2.519,0,301,3130,893,C++,true,0,R,General-Purpose Machine Learning,10.000,0
+Azure/Azure-TDSP-Utilities,369,0,0,0,0,0.000,32,1856,2632,10000,HTML,true,0,R,General-Purpose Machine Learning,0.000,0
+sassoftware/enlighten-apply,124,0,0,0,0,0.000,163,1695,3122,8,SAS,false,0,SAS,Demos and Scripts,0.000,0
+sassoftware/enlighten-integration,61,1,1,1,0,16.393,5,1708,3151,9,Java,false,0,SAS,Demos and Scripts,10.000,0
+sassoftware/enlighten-deep,19,0,0,0,0,0.000,1596,1708,3122,8,SAS,false,0,SAS,Demos and Scripts,0.000,0
+sassoftware/dm-flow,55,0,0,0,0,0.000,628,1708,2993,10,,false,0,SAS,Demos and Scripts,0.000,0
+scalanlp/breeze,3417,6,3,2,0,1.756,4,459,5251,115,Scala,false,0,Scala,Natural Language Processing,12.000,0
+scalanlp/chalk,259,0,0,0,0,0.000,521,2489,4009,6,Scala,true,0,Scala,Natural Language Processing,0.000,0
+factorie/factorie,553,0,0,0,0,0.000,228,2166,3804,55,Scala,false,0,Scala,Natural Language Processing,0.000,0
+Workday/upshot-montague,54,0,0,0,0,0.000,199,1405,2803,8,Scala,false,0,Scala,Natural Language Processing,0.000,0
+SciScala/NDScala,46,0,0,0,0,0.000,69,337,1258,3,Scala,false,0,Scala,Data Analysis / Data Visualization,0.000,0
+Hydrospheredata/mist,325,1,0,0,0,3.077,20,1509,2870,24,Scala,false,0,Scala,Data Analysis / Data Visualization,2.000,0
+twitter/scalding,3455,4,2,0,0,1.158,11,180,4336,168,Scala,false,0,Scala,Data Analysis / Data Visualization,7.000,0
+twitter/summingbird,2136,0,0,0,0,0.000,48,674,4076,47,Scala,true,0,Scala,Data Analysis / Data Visualization,0.000,0
+twitter/algebird,2270,3,1,1,1,1.322,0,12,4131,93,Scala,false,0,Scala,Data Analysis / Data Visualization,42.000,1
+xerial/xerial,18,0,0,0,0,0.000,222,2537,4158,2,Scala,false,0,Scala,Data Analysis / Data Visualization,0.000,0
+apache/predictionio,12553,3,1,0,0,0.239,12,1443,3955,159,Scala,true,0,Scala,Data Analysis / Data Visualization,0.000,0
+BIDData/BIDMat,265,0,0,0,0,0.000,164,1010,4054,22,Scala,false,0,Scala,Data Analysis / Data Visualization,0.000,0
+EmergentOrder/onnx-scala,134,0,0,0,0,0.000,51,2,1927,3,Scala,false,0,Scala,General-Purpose Machine Learning,40.000,2
+etsy/Conjecture,360,2,2,0,0,5.556,7,2107,3447,34,Java,true,0,Scala,General-Purpose Machine Learning,0.000,0
+stripe/brushfire,396,0,0,0,0,0.000,107,1934,3291,2464,Scala,true,0,Scala,General-Purpose Machine Learning,0.000,0
+tresata/ganitha,109,0,0,0,0,0.000,1629,3292,3747,7,Scala,true,0,Scala,General-Purpose Machine Learning,0.000,0
+bigdatagenomics/adam,960,2,2,0,0,2.083,12,95,3656,68,Scala,false,0,Scala,General-Purpose Machine Learning,7.000,0
+bioscala/bioscala,105,0,0,0,0,0.000,455,2434,4962,5,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
+BIDData/BIDMach,911,0,0,0,0,0.000,305,1269,4050,24,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
+p2t2/figaro,759,0,0,0,0,0.000,37,541,3754,20,HTML,false,0,Scala,General-Purpose Machine Learning,0.000,0
+h2oai/sparkling-water,956,3,2,0,0,3.138,7,1,3328,275,Scala,false,0,Scala,General-Purpose Machine Learning,47.000,1
+transcendent-ai-labs/DynaML,198,1,0,0,0,5.051,29,953,3203,5,Scala,false,0,Scala,General-Purpose Machine Learning,2.000,0
+CogComp/saul,63,0,0,0,0,0.000,228,1408,2976,39,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
+picnicml/doddle-model,139,0,0,0,0,0.000,48,1337,2114,8,Scala,false,0,Scala,General-Purpose Machine Learning,0.000,0
+eaplatanios/tensorflow_scala,929,3,2,2,0,3.229,2,519,2428,13,Scala,false,0,Scala,General-Purpose Machine Learning,12.000,0
+cloudkj/layer,557,1,1,1,1,1.795,0,1678,1812,1,Scheme,false,0,Scheme,Neural Networks,20.000,0
+xmartlabs/Bender,1779,1,1,0,0,0.562,11,191,2396,28,Swift,false,0,Swift,General-Purpose Machine Learning,5.000,0
+Swift-AI/Swift-AI,5984,5,1,1,0,0.836,3,2395,2926,18,Swift,false,0,Swift,General-Purpose Machine Learning,12.000,0
+tensorflow/swift,6101,11,5,3,0,1.803,1,1008,2040,77,Jupyter Notebook,true,0,Swift,General-Purpose Machine Learning,0.000,0
+alejandro-isaza/BrainCore,379,1,1,1,0,2.639,3,2449,2964,6,Swift,false,0,Swift,General-Purpose Machine Learning,10.000,0
+stsievert/swix,593,1,1,0,0,1.686,9,1284,3453,5,C++,true,0,Swift,General-Purpose Machine Learning,0.000,0
+KevinCoble/AIToolbox,788,1,0,0,0,1.269,28,1284,2797,3,Swift,false,0,Swift,General-Purpose Machine Learning,2.000,0
+Somnibyte/MLKit,151,0,0,0,0,0.000,183,2278,2704,2,Swift,false,0,Swift,General-Purpose Machine Learning,0.000,0
+vlall/Swift-Brain,331,0,0,0,0,0.000,141,2376,3456,3,Swift,false,0,Swift,General-Purpose Machine Learning,0.000,0
+PerfectlySoft/Perfect-TensorFlow,168,0,0,0,0,0.000,112,1235,2354,4,Swift,false,0,Swift,General-Purpose Machine Learning,0.000,0
+denissimon/prediction-builder-swift,11,0,0,0,0,0.000,280,22,2504,1,Swift,false,0,Swift,General-Purpose Machine Learning,10.000,1
+SwiftBrain/awesome-CoreML-models,553,0,0,0,0,0.000,48,2056,2360,4,,false,0,Swift,General-Purpose Machine Learning,0.000,0
+likedan/Awesome-CoreML-Models,6021,35,12,6,1,5.813,0,154,2285,14,Python,false,0,Swift,General-Purpose Machine Learning,35.000,0
+markusschanta/awesome-keras,15,2,2,0,0,133.333,11,395,446,1,,false,0,TensorFlow,General-Purpose Machine Learning,7.000,0
+jtoy/awesome-tensorflow,17049,57,43,12,0,3.343,2,323,2827,85,,false,0,TensorFlow,General-Purpose Machine Learning,40.000,0
+cloudkj/layer,557,1,1,1,1,1.795,0,1678,1812,1,Scheme,false,0,Tools,Neural Networks,20.000,0
+neuml/txtai,5470,224,88,35,7,40.951,0,2,1202,11,Python,false,0,Tools,Misc,100.000,1
+ml-tooling/ml-workspace,3203,32,19,7,1,9.991,0,10,1642,10,Jupyter Notebook,false,0,Tools,Misc,55.000,1
+rlan/notebooks,30,0,0,0,0,0.000,184,10,2058,1,Dockerfile,false,0,Tools,Misc,20.000,1
+iterative/dvc,12431,330,55,30,4,26.547,0,1,2456,284,Python,false,0,Tools,Misc,100.000,7
+iterative/dvclive,137,6,4,2,0,43.796,2,2,1116,58,Python,false,0,Tools,Misc,52.000,4
+instill-ai/vdp,1187,217,62,21,0,182.814,1,2,680,22,JavaScript,false,0,Tools,Misc,90.000,8
+IDSIA/sacred,4115,20,7,5,2,4.860,0,11,3525,100,Python,false,7,Tools,Misc,51.000,2
+BayesWitnesses/m2cgen,2654,24,10,6,0,9.043,1,415,1776,12,Python,false,0,Tools,Misc,25.000,0
+iterative/cml,3845,21,8,4,0,5.462,2,45,1367,63,JavaScript,false,52,Tools,Misc,31.000,0
+iterative/mlem,703,3,1,1,0,4.267,4,72,785,51,Python,true,0,Tools,Misc,0.000,0
+matifali/dockerdl,52,5,4,2,0,96.154,5,17,436,2,Dockerfile,false,0,Tools,Misc,22.000,1
+aqueducthq/aqueduct,511,4,1,1,1,7.828,0,170,546,14,Go,false,0,Tools,Misc,22.000,0
+reactorsh/ambrosia,101,1,0,0,0,9.901,24,178,178,1,Go,false,6,Tools,Misc,2.000,0
